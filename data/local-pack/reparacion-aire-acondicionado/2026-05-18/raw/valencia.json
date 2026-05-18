@@ -1,0 +1,803 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b16072771436ee7a1093f",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/xttzffkTUXmzkMah5_E2hA/6a0b16072771436ee7a1093f.json",
+                            "pixel_position_endpoint":  "https://serpapi.com/searches/xttzffkTUXmzkMah5_E2hA/6a0b16072771436ee7a1093f.json_with_pixel_position",
+                            "created_at":  "2026-05-18 13:37:11 UTC",
+                            "processed_at":  "2026-05-18 13:37:11 UTC",
+                            "google_url":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026oq=reparaci%C3%B3n+de+aire+acondicionado\u0026uule=w+CAIQICIrSG9ydGEgb2YgVmFsZW5jaWEsVmFsZW5jaWFuIENvbW11bml0eSxTcGFpbg\u0026hl=es\u0026gl=es\u0026sourceid=chrome\u0026ie=UTF-8",
+                            "raw_html_file":  "https://serpapi.com/searches/xttzffkTUXmzkMah5_E2hA/6a0b16072771436ee7a1093f.html",
+                            "total_time_taken":  2.8
+                        },
+    "search_parameters":  {
+                              "engine":  "google",
+                              "q":  "reparación de aire acondicionado",
+                              "location_requested":  "Valencia, Community of Valencia, Spain",
+                              "location_used":  "Horta of Valencia,Valencian Community,Spain",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es",
+                              "device":  "desktop"
+                          },
+    "search_information":  {
+                               "query_displayed":  "reparación de aire acondicionado",
+                               "total_results":  173,
+                               "time_taken_displayed":  0.33,
+                               "organic_results_state":  "Results for exact spelling",
+                               "results_for":  "La Huerta de Valencia"
+                           },
+    "local_map":  {
+                      "image":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/TqdNMRJ-JnARNbcLwGWiLA.png",
+                      "gps_coordinates":  {
+                                              "latitude":  39.46243882474595,
+                                              "longitude":  -0.3755950927734375
+                                          }
+                  },
+    "local_results":  {
+                          "places":  [
+                                         {
+                                             "position":  1,
+                                             "rating":  4.8,
+                                             "reviews":  137,
+                                             "reviews_original":  "(137)",
+                                             "links":  {
+                                                           "website":  "https://climasolution.es/",
+                                                           "directions":  "https://www.google.com/maps/dir//Clima+Solution,+Gran+Via+del+Marqu%C3%A9s+del+T%C3%BAria,+46005+Val%C3%A8ncia,+Valencia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd604950a9ad30c7:0x258360e7000256?sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ48ADegQIHRAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "10559026353930838",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026ludocid=10559026353930838\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11vr9sv6_0",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  39.46734,
+                                                                     "longitude":  -0.368814
+                                                                 },
+                                             "title":  "Clima Solution",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "address":  "València",
+                                             "phone":  "603 31 20 60",
+                                             "hours":  "Abierto · Cierre: 18:00"
+                                         },
+                                         {
+                                             "position":  2,
+                                             "rating":  5.0,
+                                             "reviews":  6,
+                                             "reviews_original":  "(6)",
+                                             "description":  "Estimaciones online",
+                                             "links":  {
+                                                           "website":  "https://tecnicoaireacondicionadovalencia.es/",
+                                                           "directions":  "https://www.google.com/maps/dir//Aire+Acondicionado+Proman,+C.+Pintor+Benedito,+11,+46007+Val%C3%A8ncia,+Valencia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x6f2bd82f079cfbbd:0x3b92d7251a86cabc?sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ48ADegQIHxAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "4292729949196307132",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026ludocid=4292729949196307132\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11lp4tlyqf",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  39.465677,
+                                                                     "longitude":  -0.383413
+                                                                 },
+                                             "title":  "Aire Acondicionado Proman",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 5 años en activo",
+                                             "address":  "València",
+                                             "phone":  "960 66 43 10",
+                                             "hours":  "Abierto · Cierre: 20:00"
+                                         },
+                                         {
+                                             "position":  3,
+                                             "rating":  4.8,
+                                             "reviews":  172,
+                                             "reviews_original":  "(172)",
+                                             "description":  "Servicios en las instalaciones·Estimaciones online",
+                                             "links":  {
+                                                           "website":  "https://aireclim.com/",
+                                                           "directions":  "https://www.google.com/maps/dir//Aire+Clim,+C.+de+B%C3%A8rnia,+13,+46013+Val%C3%A8ncia,+Valencia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd604f3c88060507:0xcfaaa17db523a217?sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ48ADegQIHhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "14963950273173889559",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026ludocid=14963950273173889559\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11p08dm_ty",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  39.453935,
+                                                                     "longitude":  -0.372747
+                                                                 },
+                                             "title":  "Aire Clim",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 5 años en activo",
+                                             "address":  "València",
+                                             "phone":  "691 25 75 47",
+                                             "hours":  "Abierto · Cierre: 18:00"
+                                         },
+                                         {
+                                             "position":  4,
+                                             "rating":  4.4,
+                                             "reviews":  570,
+                                             "reviews_original":  "(570)",
+                                             "links":  {
+                                                           "website":  "https://www.climelectric.com/",
+                                                           "directions":  "https://www.google.com/maps/dir//Climelectric+Aire+acondicionado+Valencia,+Av.+de+la+Plata,+43,+Bajo,+46013+Val%C3%A8ncia,+Valencia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd6048cc40cc896b:0x94943cbec1c239d?sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ48ADegQILhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "669140562759918493",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026ludocid=669140562759918493\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11_r80p17",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  39.454919,
+                                                                     "longitude":  -0.367911
+                                                                 },
+                                             "title":  "Climelectric Aire acondicionado Valencia",
+                                             "type":  "Contratista de aire acondicionado",
+                                             "years_in_business":  "Más de 20 años en activo",
+                                             "address":  "València",
+                                             "phone":  "963 76 63 79",
+                                             "hours":  "Abierto · Cierre: 22:00"
+                                         },
+                                         {
+                                             "position":  5,
+                                             "rating":  4.6,
+                                             "reviews":  53,
+                                             "reviews_original":  "(53)",
+                                             "description":  "Estimaciones online·Servicios en las instalaciones no disponibles",
+                                             "links":  {
+                                                           "website":  "https://www.tuserviciotecnico.net/",
+                                                           "directions":  "https://www.google.com/maps/dir//Tu+Servicio+T%C3%A9cnico,+Gran+Via+del+Marqu%C3%A9s+del+T%C3%BAria,+49,+1%C2%BA-1%C2%AA,+46005+Val%C3%A8ncia,+Valencia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x859ff7a8ec9cd9af:0x4b34eb86cc1d519f?sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ48ADegQIQhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "5419215215816167839",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026ludocid=5419215215816167839\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11kbzfgd94",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  39.467345,
+                                                                     "longitude":  -0.368803
+                                                                 },
+                                             "title":  "Tu Servicio Técnico",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 15 años en activo",
+                                             "address":  "València",
+                                             "phone":  "602 14 29 30",
+                                             "hours":  "Abierto · Cierre: 19:00"
+                                         },
+                                         {
+                                             "position":  6,
+                                             "rating":  4.5,
+                                             "reviews":  13,
+                                             "reviews_original":  "(13)",
+                                             "links":  {
+                                                           "website":  "http://www.recambiosgia.com/",
+                                                           "directions":  "https://www.google.com/maps/dir//Gia+Fr%C3%ADo,+DIPUTADO+ISIDRO+ESCANDELL,+2,+46026+Val%C3%A8ncia,+Valencia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd604637303190e1:0xa41a44caab9aa229?sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ48ADegQIQRAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "11824839408867779113",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026ludocid=11824839408867779113\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11b6v88q33",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  39.469904,
+                                                                     "longitude":  -0.376161
+                                                                 },
+                                             "title":  "Gia Frío",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 10 años en activo",
+                                             "address":  "València",
+                                             "phone":  "963 73 00 55",
+                                             "hours":  "Abierto · Cierre: 20:00"
+                                         }
+                                     ],
+                          "more_locations_link":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026udm=1\u0026lsack=CRYLau3DF7zT5NoPmoGpkQQ\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQjGp6BAgkEAE"
+                      },
+    "related_questions":  [
+                              {
+                                  "question":  "¿Cuánto se cobra por arreglar un aire acondicionado?",
+                                  "type":  "featured_snippet",
+                                  "snippet":  "COSTO DE REPARACIÓN DE UN AIRE ACONDICIONADO",
+                                  "table":  [
+                                                [
+                                                    "Tipo de falla",
+                                                    "Precio"
+                                                ],
+                                                [
+                                                    "Fuga de agua",
+                                                    "$250 MXN - $700 MXN"
+                                                ],
+                                                [
+                                                    "Reparación o reemplazo de compresor",
+                                                    "$1,600 - $5,700 MXN"
+                                                ],
+                                                [
+                                                    "Reemplazo de termostato",
+                                                    "$700 MXN - $1,200 MXN"
+                                                ],
+                                                [
+                                                    "Pequeñas fallas (sensores, fusibles, filtros, etc.)",
+                                                    "$250 MXN - $600 MXN"
+                                                ]
+                                            ],
+                                  "formatted":  [
+                                                    {
+                                                        "tipo_de_falla":  "Fuga de agua",
+                                                        "precio":  "$250 MXN - $700 MXN"
+                                                    },
+                                                    {
+                                                        "tipo_de_falla":  "Reparación o reemplazo de compresor",
+                                                        "precio":  "$1,600 - $5,700 MXN"
+                                                    },
+                                                    {
+                                                        "tipo_de_falla":  "Reemplazo de termostato",
+                                                        "precio":  "$700 MXN - $1,200 MXN"
+                                                    },
+                                                    {
+                                                        "tipo_de_falla":  "Pequeñas fallas (sensores, fusibles, filtros, etc.)",
+                                                        "precio":  "$250 MXN - $600 MXN"
+                                                    }
+                                                ],
+                                  "title":  "¿Cuánto cuesta reparar un aire acondicionado? Precios en 2026",
+                                  "link":  "https://www.cronoshare.com.mx/cuanto-cuesta/reparar-aire-acondicionado",
+                                  "displayed_link":  "https://www.cronoshare.com.mx › cuanto-cuesta › repara...",
+                                  "source_logo":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/gABYTXH5q_74PbvNozcM3Q5N3BU-lRT4wIbYgRfd_M0.png",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsU2VVZEtkVVZaYmxkUVVVRkVkekpqZEhwU2FFcEJRbTlpUmxCdWQxaGxVbXRYTWtwTmVrVXROV000TFdJdFRqRkhOaTExV1dWZmNFYzFjMDB3TkhabVMwOVFlRWRQY1RJeE9URmhZVGxOVDNWRFlUbDZabFEyZFhWMFp4SVhRMUpaVEdGMU0wUkdOM3BVTlU1dlVHMXZSM0JyVVZFYUlrRktTMHhHYlVsellrcG5aM05CVFRCT1ppMVBhVll4Y25JeGJ6RXlVbGswUVZFIiwiZmN2IjoiMyIsImVpIjoiQ1JZTGF1M0RGN3pUNU5vUG1vR3BrUVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuMVlPZlEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gc2UgY29icmEgcG9yIGFycmVnbGFyIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6IkdqTmpkY09oYm5SdklITmxJR052WW5KaElIQnZjaUJoY25KbFoyeGhjaUIxYmlCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4IiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19DUllMYXUzREY3elQ1Tm9QbW9HcGtRUV8zIn0=",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsU2VVZEtkVVZaYmxkUVVVRkVkekpqZEhwU2FFcEJRbTlpUmxCdWQxaGxVbXRYTWtwTmVrVXROV000TFdJdFRqRkhOaTExV1dWZmNFYzFjMDB3TkhabVMwOVFlRWRQY1RJeE9URmhZVGxOVDNWRFlUbDZabFEyZFhWMFp4SVhRMUpaVEdGMU0wUkdOM3BVTlU1dlVHMXZSM0JyVVZFYUlrRktTMHhHYlVsellrcG5aM05CVFRCT1ppMVBhVll4Y25JeGJ6RXlVbGswUVZFIiwiZmN2IjoiMyIsImVpIjoiQ1JZTGF1M0RGN3pUNU5vUG1vR3BrUVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuMVlPZlEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gc2UgY29icmEgcG9yIGFycmVnbGFyIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6IkdqTmpkY09oYm5SdklITmxJR052WW5KaElIQnZjaUJoY25KbFoyeGhjaUIxYmlCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4IiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19DUllMYXUzREY3elQ1Tm9QbW9HcGtRUV8zIn0%3D"
+                              },
+                              {
+                                  "question":  "¿Cuáles son las fallas más comunes de un aire acondicionado?",
+                                  "type":  "featured_snippet",
+                                  "snippet":  "Entre las averías más frecuentes del aire acondicionado para casa, se encuentran los problemas de refrigeración, pinchaduras, falta de limpieza y recambio de filtros. Estas son solamente algunas de las fallas comunes del aire acondicionado que puedes aprender a reparar de manera sencilla.",
+                                  "title":  "Fallas más comunes del aire acondicionado - Aprende Institute",
+                                  "link":  "https://aprende.com/blog/oficios/aires-acondicionados/fallas-comunes-aire-acondicionado/#:~:text=Entre%20las%20aver%C3%ADas%20m%C3%A1s%20frecuentes,a%20reparar%20de%20manera%20sencilla.",
+                                  "displayed_link":  "https://aprende.com › blog › oficios › fallas-comunes-air...",
+                                  "source_logo":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/gABYTXH5q_74PbvNozcM3REwb7-KKMm_7NMXD6IYj2Q.png",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsU2VVZEtkVVZaYmxkUVVVRkVkekpqZEhwU2FFcEJRbTlpUmxCdWQxaGxVbXRYTWtwTmVrVXROV000TFdJdFRqRkhOaTExV1dWZmNFYzFjMDB3TkhabVMwOVFlRWRQY1RJeE9URmhZVGxOVDNWRFlUbDZabFEyZFhWMFp4SVhRMUpaVEdGMU0wUkdOM3BVTlU1dlVHMXZSM0JyVVZFYUlrRktTMHhHYlVsellrcG5aM05CVFRCT1ppMVBhVll4Y25JeGJ6RXlVbGswUVZFIiwiZmN2IjoiMyIsImVpIjoiQ1JZTGF1M0RGN3pUNU5vUG1vR3BrUVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuMVlPZlEtIiwicXVlc3Rpb24iOiLCv0N1w6FsZXMgc29uIGxhcyBmYWxsYXMgbcOhcyBjb211bmVzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1T3lTUzQ5dkRBbnRWaWhPRDlQSVNleFdDRXRNUWRFNVI1ZVdLeVFuSjlibWdlVVMwbFZLTTFUU013c1NsVklUTTdQUzhsTXpzelBTMHpKQndBIiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19DUllMYXUzREY3elQ1Tm9QbW9HcGtRUV8zIn0=",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsU2VVZEtkVVZaYmxkUVVVRkVkekpqZEhwU2FFcEJRbTlpUmxCdWQxaGxVbXRYTWtwTmVrVXROV000TFdJdFRqRkhOaTExV1dWZmNFYzFjMDB3TkhabVMwOVFlRWRQY1RJeE9URmhZVGxOVDNWRFlUbDZabFEyZFhWMFp4SVhRMUpaVEdGMU0wUkdOM3BVTlU1dlVHMXZSM0JyVVZFYUlrRktTMHhHYlVsellrcG5aM05CVFRCT1ppMVBhVll4Y25JeGJ6RXlVbGswUVZFIiwiZmN2IjoiMyIsImVpIjoiQ1JZTGF1M0RGN3pUNU5vUG1vR3BrUVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuMVlPZlEtIiwicXVlc3Rpb24iOiLCv0N1w6FsZXMgc29uIGxhcyBmYWxsYXMgbcOhcyBjb211bmVzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1T3lTUzQ5dkRBbnRWaWhPRDlQSVNleFdDRXRNUWRFNVI1ZVdLeVFuSjlibWdlVVMwbFZLTTFUU013c1NsVklUTTdQUzhsTXpzelBTMHpKQndBIiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19DUllMYXUzREY3elQ1Tm9QbW9HcGtRUV8zIn0%3D"
+                              },
+                              {
+                                  "question":  "¿Cuántos años dura el gas de un aire acondicionado?",
+                                  "type":  "ai_overview",
+                                  "page_token":  "5xy9bHicHZBJboMwAEXVy2SZ4FCnIlJUiTCEtEDt2hC8qYzNFMyQhIy73qWn6mmKuvqbp6en__2jqrb-fbqUw9CflrPZ9XqdFl1XqGwqumbGT_dWzARXKuWiXi5eFuA1Fyv77Jnrg2ciCs7-HUCqS4b2ps_m0UdQyza0PcBUGUbAu4cWnqN9rcXUGNespBVp3Ipw0qiObQIo5s9wZJIUBCdub8vICfIdKN-442vSwVjobBftikESCYMWHzIruQUuPrK2DH3NiYOY5fShXN-9MbkGGiPM5aRkITX2YYRt4hSQuBRgtcXS9gbRwNanCkgLwayGH9QJegLG9rE_AeWaKmbapbSoUn6yow9sJ3qmECCNgdLY2Ah3wBR3FaL9O7HZ8PkwW0l7J6rhnWiqSuf0KmNNZ63kDPRcjm6KJrm4rPTJ_5-rr7wZlv2xK_4A_kWAtQ",
+                                  "serpapi_ai_overview_link":  "https://serpapi.com/search.json?engine=google_ai_overview\u0026page_token=5xy9bHicHZBJboMwAEXVy2SZ4FCnIlJUiTCEtEDt2hC8qYzNFMyQhIy73qWn6mmKuvqbp6en__2jqrb-fbqUw9CflrPZ9XqdFl1XqGwqumbGT_dWzARXKuWiXi5eFuA1Fyv77Jnrg2ciCs7-HUCqS4b2ps_m0UdQyza0PcBUGUbAu4cWnqN9rcXUGNespBVp3Ipw0qiObQIo5s9wZJIUBCdub8vICfIdKN-442vSwVjobBftikESCYMWHzIruQUuPrK2DH3NiYOY5fShXN-9MbkGGiPM5aRkITX2YYRt4hSQuBRgtcXS9gbRwNanCkgLwayGH9QJegLG9rE_AeWaKmbapbSoUn6yow9sJ3qmECCNgdLY2Ah3wBR3FaL9O7HZ8PkwW0l7J6rhnWiqSuf0KmNNZ63kDPRcjm6KJrm4rPTJ_5-rr7wZlv2xK_4A_kWAtQ",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsU2VVZEtkVVZaYmxkUVVVRkVkekpqZEhwU2FFcEJRbTlpUmxCdWQxaGxVbXRYTWtwTmVrVXROV000TFdJdFRqRkhOaTExV1dWZmNFYzFjMDB3TkhabVMwOVFlRWRQY1RJeE9URmhZVGxOVDNWRFlUbDZabFEyZFhWMFp4SVhRMUpaVEdGMU0wUkdOM3BVTlU1dlVHMXZSM0JyVVZFYUlrRktTMHhHYlVsellrcG5aM05CVFRCT1ppMVBhVll4Y25JeGJ6RXlVbGswUVZFIiwiZmN2IjoiMyIsImVpIjoiQ1JZTGF1M0RGN3pUNU5vUG1vR3BrUVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuMVlPZlEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG9zIGHDsW9zIGR1cmEgZWwgZ2FzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1TXlTaTVOekN2SkwxWklQTHdSU0thVUZpVXFwT1lvcENjQzJha0twWGtLaVpsRnFRcUp5Zmw1S1puSm1mbDVpU241QUEiLCJicyI6ImM2V1FQUW9DTVJDRnNVMWxLYW5tRFBFUFFkeENTeTh4Sm5GWnlDYVNiRnBGOENKYldsaDRBc0djeGx1WVpSRldYSVhGWnFhWWVkX2pQV0xKNUg1Yi1sRHF3b0NUd00zR0l1eU1CYlJXcGdvdGVBMllXUW5JalJZWno0eEdZWkxCY2NfR2RNaTdTOG1wUjVMYVZFa0h6bWhRNkdDTHFscDVLRjFFNVY3SG01RGYzQjhydHFCel9nZUQ2RVowQnhpdWNRb2ZJMGdGS2Y0d1p5UEt1TWVPTW5KNHBhNzZxc3VLajBVNGM1MXg4MTVjWkxXbHZxelpqRTVyN3daQ3RoQS01ZjNlRXciLCJpZCI6ImZjX0NSWUxhdTNERjd6VDVOb1Btb0dwa1FRXzMifQ==",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsU2VVZEtkVVZaYmxkUVVVRkVkekpqZEhwU2FFcEJRbTlpUmxCdWQxaGxVbXRYTWtwTmVrVXROV000TFdJdFRqRkhOaTExV1dWZmNFYzFjMDB3TkhabVMwOVFlRWRQY1RJeE9URmhZVGxOVDNWRFlUbDZabFEyZFhWMFp4SVhRMUpaVEdGMU0wUkdOM3BVTlU1dlVHMXZSM0JyVVZFYUlrRktTMHhHYlVsellrcG5aM05CVFRCT1ppMVBhVll4Y25JeGJ6RXlVbGswUVZFIiwiZmN2IjoiMyIsImVpIjoiQ1JZTGF1M0RGN3pUNU5vUG1vR3BrUVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuMVlPZlEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG9zIGHDsW9zIGR1cmEgZWwgZ2FzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1TXlTaTVOekN2SkwxWklQTHdSU0thVUZpVXFwT1lvcENjQzJha0twWGtLaVpsRnFRcUp5Zmw1S1puSm1mbDVpU241QUEiLCJicyI6ImM2V1FQUW9DTVJDRnNVMWxLYW5tRFBFUFFkeENTeTh4Sm5GWnlDYVNiRnBGOENKYldsaDRBc0djeGx1WVpSRldYSVhGWnFhWWVkX2pQV0xKNUg1Yi1sRHF3b0NUd00zR0l1eU1CYlJXcGdvdGVBMllXUW5JalJZWno0eEdZWkxCY2NfR2RNaTdTOG1wUjVMYVZFa0h6bWhRNkdDTHFscDVLRjFFNVY3SG01RGYzQjhydHFCel9nZUQ2RVowQnhpdWNRb2ZJMGdGS2Y0d1p5UEt1TWVPTW5KNHBhNzZxc3VLajBVNGM1MXg4MTVjWkxXbHZxelpqRTVyN3daQ3RoQS01ZjNlRXciLCJpZCI6ImZjX0NSWUxhdTNERjd6VDVOb1Btb0dwa1FRXzMifQ%3D%3D"
+                              },
+                              {
+                                  "question":  "¿Cuánto cobra un técnico por arreglar el aire acondicionado?",
+                                  "type":  "featured_snippet",
+                                  "snippet":  "El coste medio de un servicio de reparación de aire acondicionado es de 230 €. Este valor puede oscilar entre los 65 € y los 700 € y, por lo general, se determina por el tipo o modelo de aparato, tiempo de reparación, la disponibilidad de repuestos y la clase de avería, entre otras variables.",
+                                  "title":  "¿Cuánto cuesta un servicio de reparación de aire acondicionado?",
+                                  "link":  "https://www.zaask.es/cuanto-cuesta/reparacion-aire-acondicionado#:~:text=El%20coste%20medio%20de%20un,de%20aver%C3%ADa%2C%20entre%20otras%20variables.",
+                                  "displayed_link":  "https://www.zaask.es › reparacion-aire-acondicionado",
+                                  "source_logo":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/gABYTXH5q_74PbvNozcM3cYDUMcuAlvLoo8aQRT97P8.png",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsU2VVZEtkVVZaYmxkUVVVRkVkekpqZEhwU2FFcEJRbTlpUmxCdWQxaGxVbXRYTWtwTmVrVXROV000TFdJdFRqRkhOaTExV1dWZmNFYzFjMDB3TkhabVMwOVFlRWRQY1RJeE9URmhZVGxOVDNWRFlUbDZabFEyZFhWMFp4SVhRMUpaVEdGMU0wUkdOM3BVTlU1dlVHMXZSM0JyVVZFYUlrRktTMHhHYlVsellrcG5aM05CVFRCT1ppMVBhVll4Y25JeGJ6RXlVbGswUVZFIiwiZmN2IjoiMyIsImVpIjoiQ1JZTGF1M0RGN3pUNU5vUG1vR3BrUVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuMVlPZlEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gY29icmEgdW4gdMOpY25pY28gcG9yIGFycmVnbGFyIGVsIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImN3M0d3UW5BTUF3RHdEMzYwaGFkUjFGTU1RU3JtR1RfOWw1MzNUcXNiY2lqaVZQWW9Vb1pyeHZzam1meFQzYUFjczFVdWpqOUFRIiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19DUllMYXUzREY3elQ1Tm9QbW9HcGtRUV8zIn0=",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsU2VVZEtkVVZaYmxkUVVVRkVkekpqZEhwU2FFcEJRbTlpUmxCdWQxaGxVbXRYTWtwTmVrVXROV000TFdJdFRqRkhOaTExV1dWZmNFYzFjMDB3TkhabVMwOVFlRWRQY1RJeE9URmhZVGxOVDNWRFlUbDZabFEyZFhWMFp4SVhRMUpaVEdGMU0wUkdOM3BVTlU1dlVHMXZSM0JyVVZFYUlrRktTMHhHYlVsellrcG5aM05CVFRCT1ppMVBhVll4Y25JeGJ6RXlVbGswUVZFIiwiZmN2IjoiMyIsImVpIjoiQ1JZTGF1M0RGN3pUNU5vUG1vR3BrUVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuMVlPZlEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gY29icmEgdW4gdMOpY25pY28gcG9yIGFycmVnbGFyIGVsIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImN3M0d3UW5BTUF3RHdEMzYwaGFkUjFGTU1RU3JtR1RfOWw1MzNUcXNiY2lqaVZQWW9Vb1pyeHZzam1meFQzYUFjczFVdWpqOUFRIiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19DUllMYXUzREY3elQ1Tm9QbW9HcGtRUV8zIn0%3D"
+                              }
+                          ],
+    "organic_results":  [
+                            {
+                                "position":  1,
+                                "title":  "Reparacion Aire Acondicionado Valencia",
+                                "link":  "https://www.serviciotecnicosvalencia.com/servicio-tecnico-reparacion-aire-acondicionado.html",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.serviciotecnicosvalencia.com/servicio-tecnico-reparacion-aire-acondicionado.html\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECCoQAQ",
+                                "displayed_link":  "https://www.serviciotecnicosvalencia.com › servicio-tec...",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqFUg807PBnTqnAjN-ImFhbE.png",
+                                "snippet":  "Reparación de aire acondicionado en Valencia 24h ✓ Servicio profesional garantizado. Atención urgente. ¡Llama al 963 83 19 43 solución inmediata!",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparación de aire acondicionado en Valencia 24h"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "top":  {
+                                                                 "detected_extensions":  {
+                                                                                             "rating":  4.0,
+                                                                                             "reviews":  1
+                                                                                         },
+                                                                 "extensions":  [
+                                                                                    "4,0(1)",
+                                                                                    "Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+                                                                                ]
+                                                             }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Reparación de aire acondicionado en Valencia 24h ✓ Servicio profesional garantizado. Atención urgente. ¡Llama al 963 83 19 43 solución inmediata!",
+                                                                         "source_info_link":  "https://www.serviciotecnicosvalencia.com/servicio-tecnico-reparacion-aire-acondicionado.html",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqJYW-mBP8OcziibduosdN2g9gtvOoHUK3oY85sTTrMDY.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.serviciotecnicosvalencia.com/servicio-tecnico-reparacion-aire-acondicionado.html\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.serviciotecnicosvalencia.com%2Fservicio-tecnico-reparacion-aire-acondicionado.html",
+                                "source":  "servicio tecnicos valencia"
+                            },
+                            {
+                                "position":  2,
+                                "title":  "Reparacion Aire Acondicionado Valencia 963 236 937",
+                                "link":  "https://www.serviciotecnicoficialvalencia.com/reparacion-aire-acondicionado-valencia",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.serviciotecnicoficialvalencia.com/reparacion-aire-acondicionado-valencia\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECE4QAQ",
+                                "displayed_link":  "https://www.serviciotecnicoficialvalencia.com › reparaci...",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqL-GN5-NfLbtu1BsorlD5UQ.jpeg",
+                                "snippet":  "Nuestros técnicos reparan y mantienen equipos de aire acondicionado en Valencia de varios tipos, gamas y marcas: sistemas splits y multisplits (2x1, 4x1, etc), ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Nuestros técnicos reparan y mantienen equipos de aire acondicionado en Valencia"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "top":  {
+                                                                 "detected_extensions":  {
+                                                                                             "rating":  10
+                                                                                         },
+                                                                 "extensions":  [
+                                                                                    "10/10",
+                                                                                    "Reseña de Manuel Lopez Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+                                                                                ]
+                                                             }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Nuestros técnicos reparan y mantienen equipos de aire acondicionado en Valencia de varios tipos, gamas y marcas: sistemas splits y multisplits (2x1, 4x1, etc), ...",
+                                                                         "source_info_link":  "https://www.serviciotecnicoficialvalencia.com/reparacion-aire-acondicionado-valencia",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqJzVy3x2JXnresj7rxrVHcAkypf0M0cJKuYr1qNPnGGB.jpeg"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.serviciotecnicoficialvalencia.com/reparacion-aire-acondicionado-valencia\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.serviciotecnicoficialvalencia.com%2Freparacion-aire-acondicionado-valencia",
+                                "source":  "Servicio Tecnico Valencia"
+                            },
+                            {
+                                "position":  3,
+                                "title":  "Reparación de Aire Acondicionado Valencia en WALLAPOP",
+                                "link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/valencia",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/valencia\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECC8QAQ",
+                                "displayed_link":  "https://es.wallapop.com › ... › de Aire Acondicionado",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqNrVuvJYKkdg2U-nfbgzbJw.png",
+                                "snippet":  "Realizamos : Instalación e desinstalación, reparación, cargas, preinstalaciones, mantenimientos. Presupuesto sin compromiso Instalador autorizado Envíanos un ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Realizamos : Instalación e desinstalación, reparación, cargas, preinstalaciones, mantenimientos"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Realizamos : Instalación e desinstalación, reparación, cargas, preinstalaciones, mantenimientos. Presupuesto sin compromiso Instalador autorizado Envíanos un ...",
+                                                                         "source_info_link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/valencia",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqGllD5xWLLsKvP2TpPhmULVI1GZPeq079q-tvcoQrOWd.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/valencia\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fes.wallapop.com%2Fservicios%2Freparacion-de-aire-acondicionado%2Fvalencia",
+                                "source":  "Wallapop"
+                            },
+                            {
+                                "position":  4,
+                                "title":  "Servicios reparacion de aire acondicionado en Valencia",
+                                "link":  "https://www.milanuncios.com/servicios-en-valencia/reparacion-de-aire-acondicionado.htm",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.milanuncios.com/servicios-en-valencia/reparacion-de-aire-acondicionado.htm\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECC0QAQ",
+                                "displayed_link":  "https://www.milanuncios.com › servicios-en-valencia",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqBEabYRYbTDLuKCjrUG5oi8.png",
+                                "snippet":  "Se reparan todo tipo de aires acondicionados de todas las marcas industriales como domésticos con garantía de reparación tlf643439968 se atiende a Whatsapp.",
+                                "snippet_highlighted_words":  [
+                                                                  "Se reparan todo tipo de aires acondicionados de todas las marcas industriales como domésticos"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Se reparan todo tipo de aires acondicionados de todas las marcas industriales como domésticos con garantía de reparación tlf643439968 se atiende a Whatsapp.",
+                                                                         "source_info_link":  "https://www.milanuncios.com/servicios-en-valencia/reparacion-de-aire-acondicionado.htm",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqOnJjQ2DKXM2E5F9anvE-LzETP1h3WHL6bjoRr3BWuAh.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.milanuncios.com/servicios-en-valencia/reparacion-de-aire-acondicionado.htm\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.milanuncios.com%2Fservicios-en-valencia%2Freparacion-de-aire-acondicionado.htm",
+                                "source":  "Milanuncios"
+                            },
+                            {
+                                "position":  5,
+                                "title":  "Reparaciones aire acondicionado en Valencia",
+                                "link":  "https://www.piscilimp.es/reparaciones-aire-acondicionado-en-valencia/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.piscilimp.es/reparaciones-aire-acondicionado-en-valencia/\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECEgQAQ",
+                                "displayed_link":  "https://www.piscilimp.es › reparaciones-aire-acondicion...",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqPbYOa2x4mjzN1z0jgTZqE4.png",
+                                "snippet":  "¿Tu aire acondicionado no enfría? Así lo solucionamos en Piscilimp · Verificamos el estado del gas refrigerante. · Revisamos filtros, conductos y unidad ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Verificamos el estado del gas refrigerante"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "¿Tu aire acondicionado no enfría? Así lo solucionamos en Piscilimp · Verificamos el estado del gas refrigerante. · Revisamos filtros, conductos y unidad ...",
+                                                                         "source_info_link":  "https://www.piscilimp.es/reparaciones-aire-acondicionado-en-valencia/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqCBvAwL3KSZl1XV0aBu0_eWUfkXwIj4Ot94Rwqj97Z7T.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.piscilimp.es/reparaciones-aire-acondicionado-en-valencia/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.piscilimp.es%2Freparaciones-aire-acondicionado-en-valencia%2F",
+                                "source":  "Piscilimp"
+                            },
+                            {
+                                "position":  6,
+                                "title":  "CLIMELECTRIC: Aire acondicionado Valencia ...",
+                                "link":  "https://www.climelectric.com/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.climelectric.com/\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECEkQAQ",
+                                "displayed_link":  "https://www.climelectric.com",
+                                "snippet":  "Somos especialistas en el mantenimiento, instalación y reparación de aire acondicionado en Valencia tanto de las gamas domésticas como comerciales e ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Somos especialistas en el mantenimiento, instalación y reparación de aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Somos especialistas en el mantenimiento, instalación y reparación de aire acondicionado en Valencia tanto de las gamas domésticas como comerciales e ...",
+                                                                         "source_info_link":  "https://www.climelectric.com/"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.climelectric.com/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.climelectric.com%2F",
+                                "source":  "CLIMELECTRIC"
+                            },
+                            {
+                                "position":  7,
+                                "title":  "Instalación aire acondicionado Valencia capital y provincia ...",
+                                "link":  "https://manosalva.es/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://manosalva.es/\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECCkQAQ",
+                                "displayed_link":  "https://manosalva.es",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqMcoE6nHRhcLIoJ_0haZkSA.png",
+                                "snippet":  "Ofrecemos instalación, reparación y mantenimiento de aire acondicionado en Valencia capital y toda la provincia de Valencia, trabajando en viviendas, locales ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Ofrecemos instalación, reparación y mantenimiento de aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Ofrecemos instalación, reparación y mantenimiento de aire acondicionado en Valencia capital y toda la provincia de Valencia, trabajando en viviendas, locales ...",
+                                                                         "source_info_link":  "https://manosalva.es/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqAPlfTsCnBnL-NMkkPsPx_-Vzyyd0Lw59iurIvggTC1N.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://manosalva.es/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fmanosalva.es%2F",
+                                "source":  "manosalva.es"
+                            },
+                            {
+                                "position":  8,
+                                "title":  "Reparar aire acondicionado Valencia",
+                                "link":  "https://hercam.es/blog/reparar-aire-acondicionado/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://hercam.es/blog/reparar-aire-acondicionado/\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECCsQAQ",
+                                "displayed_link":  "https://hercam.es › Blog",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqMC42WOQuJwtV4F0Fn86FKs.png",
+                                "snippet":  "Si tienes problemas técnicos con el aparato de aire acondicionado de tu vivienda u oficina, somos especialistas en cualquier tipo de reparación que necesite.",
+                                "snippet_highlighted_words":  [
+                                                                  "somos especialistas en cualquier tipo de reparación que necesite"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Si tienes problemas técnicos con el aparato de aire acondicionado de tu vivienda u oficina, somos especialistas en cualquier tipo de reparación que necesite.",
+                                                                         "source_info_link":  "https://hercam.es/blog/reparar-aire-acondicionado/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqOz3g-t6Z_8MkiHHFGmZ0B6XaHm9V9q-QjpsY7vckp72.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://hercam.es/blog/reparar-aire-acondicionado/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fhercam.es%2Fblog%2Freparar-aire-acondicionado%2F",
+                                "source":  "Hercam"
+                            },
+                            {
+                                "position":  9,
+                                "title":  "Los mejores 40 Reparadores Aire Acondicionado en Valencia",
+                                "link":  "https://prontopro.es/valencia-reparacion-aire-acondicionado",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://prontopro.es/valencia-reparacion-aire-acondicionado\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECCwQAQ",
+                                "displayed_link":  "https://prontopro.es › valencia-reparacion-aire-acondici...",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqGigKLZ6QAZgA301268jJWg.png",
+                                "snippet":  "Yavoi Reparaciones es el establecimiento dedicado a reparación de aire acondicionado mitsubishi y las empresas de reparación de aire acondicionado en Valencia.",
+                                "snippet_highlighted_words":  [
+                                                                  "Yavoi Reparaciones"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "top":  {
+                                                                 "detected_extensions":  {
+                                                                                             "rating":  4.5,
+                                                                                             "reviews":  161
+                                                                                         },
+                                                                 "extensions":  [
+                                                                                    "4,5(161)",
+                                                                                    "Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+                                                                                ]
+                                                             }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Yavoi Reparaciones es el establecimiento dedicado a reparación de aire acondicionado mitsubishi y las empresas de reparación de aire acondicionado en Valencia.",
+                                                                         "source_info_link":  "https://prontopro.es/valencia-reparacion-aire-acondicionado",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqPPPLZbQykHeaIA8-ptEFDeibxQt4Gg0YCcbUer61b_9.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://prontopro.es/valencia-reparacion-aire-acondicionado\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fprontopro.es%2Fvalencia-reparacion-aire-acondicionado",
+                                "source":  "prontopro.es"
+                            },
+                            {
+                                "position":  10,
+                                "title":  "Técnicos de aire acondicionado en Valencia capital",
+                                "link":  "https://www.homeserve.es/aire-acondicionado/valencia/valencia",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.homeserve.es/aire-acondicionado/valencia/valencia\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQFnoECCgQAQ",
+                                "displayed_link":  "https://www.homeserve.es › ... › Valencia",
+                                "favicon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqBgmFH11cLc1INC3HpUD27M.png",
+                                "snippet":  "Nuestros expertos en la instalación, reparación y mantenimiento de equipos de aire acondicionado se desplazan a tu hogar de forma gratuita los 365 días del año.",
+                                "snippet_highlighted_words":  [
+                                                                  "Nuestros expertos en la instalación, reparación y mantenimiento de equipos de aire acondicionado"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "top":  {
+                                                                 "detected_extensions":  {
+                                                                                             "rating":  4.8,
+                                                                                             "reviews":  2696
+                                                                                         },
+                                                                 "extensions":  [
+                                                                                    "4,8(2.696)",
+                                                                                    "Gratis Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+                                                                                ]
+                                                             }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Nuestros expertos en la instalación, reparación y mantenimiento de equipos de aire acondicionado se desplazan a tu hogar de forma gratuita los 365 días del año.",
+                                                                         "source_info_link":  "https://www.homeserve.es/aire-acondicionado/valencia/valencia",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/k1Tb9MIVe9E4GolMp7JDqMLj7jbRXzCcBLVgpemP0UFeva8hZEzxTaJdYgtUV1oN.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.homeserve.es/aire-acondicionado/valencia/valencia\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.homeserve.es%2Faire-acondicionado%2Fvalencia%2Fvalencia",
+                                "source":  "homeserve.es"
+                            }
+                        ],
+    "places_sites":  [
+                         {
+                             "position":  1,
+                             "title":  "Reparacion de aire acondicionado Anuncios de servicios con ofertas y baratos en Valencia Provincia",
+                             "link":  "https://www.milanuncios.com/servicios-en-valencia/reparacion-de-aire-acondicionado.htm",
+                             "image":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/p40Zqitvw1WYSGEnrr9B9Y_u8dW4sUdwVPKs6Tjsc3s.jpeg",
+                             "source":  "Milanuncios",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/pU5c-M9zZy3aJYQ51Zl-62jg4Z5K2NjTWprjfB7jfGc.png"
+                         },
+                         {
+                             "position":  2,
+                             "title":  "Reparación de Aire Acondicionado Valencia",
+                             "link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/valencia",
+                             "image":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/dKvtlkf6Ny_zttNPRoZhdUghaq4LkmkTWEmwFMfmV2o.jpeg",
+                             "source":  "Wallapop",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/IDUNv7bb8QVLI4r1FMmiqoPbWxfnYtmwpmx8fUZGZOY.png"
+                         },
+                         {
+                             "position":  3,
+                             "title":  "Los mejores 40 Reparadores Aire Acondicionado en Valencia",
+                             "link":  "https://prontopro.es/valencia-reparacion-aire-acondicionado",
+                             "source":  "ProntoPro",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/YYo-BgoViFq3GJJmB6xkiGURpEXk_TMU8mz5FHaqLJA.png"
+                         },
+                         {
+                             "position":  4,
+                             "title":  "Las 10 mejores empresas de Aire Acondicionado en Valencia",
+                             "link":  "https://www.habitissimo.es/empresas/aire-acondicionado/valencia",
+                             "image":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/Csne0gs7J6AmnR--9qRIauSOBe3i28-K1guP1djXJCI.jpeg",
+                             "source":  "habitissimo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/7jl5znK1Owl7IIYGa3-kItAkIu_G4r4lHushnSmm_nw.png"
+                         },
+                         {
+                             "position":  5,
+                             "title":  "Reparación de aire acondicionado en València (Valencia)",
+                             "link":  "https://www.paginasamarillas.es/a/reparacion-de-aire-acondicionado/valencia/valencia/",
+                             "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61R2YmDO3zcPgIXZaPH0RN_mpzmrukC4\u0026s=0",
+                             "source":  "Páginas Amarillas",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/HS6O4C6777Qg4IbrvrI8ELbAg13HAhHsR4LAlX5irzc.png"
+                         },
+                         {
+                             "position":  6,
+                             "title":  "Las 10 mejores Empresas de Reparación de Aire Acondicionado en Valencia Provincia",
+                             "link":  "https://valencia-provincia.infoisinfo.es/busqueda/reparacion_de_aire_acondicionado",
+                             "source":  "Infoisinfo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/edhIDQDCG-5Cm9Zzg2CtCeytEckZhkFRfMH3rSxQF-w.png"
+                         },
+                         {
+                             "position":  7,
+                             "title":  "❄️🔧 ¡Mantenimiento y reparación de aires acondicionados piso techo! 🔧❄️ ¿Tu equipo no enfría como antes? 🥵 ¿Hace ruidos extraños o consume mucha energía? ⚠️ ¡No lo dejes empeorar! Nosotros tenemos la solución 💪 👨‍🔧 En Refri507 somos expertos en equipos piso techo, brindando: ✔️ Mantenimiento preventivo y correctivo 🧼 ✔️ Limpieza profunda de evaporadora y condensadora 🌬️ ✔️ Diagnóstico y reparación de fallas ⚡ ✔️ Revisión de gas refrigerante ❄️ ✔️ Optimización del rendimiento y ahorro energético 💡 💯 Trabajamos con responsabilidad, garantía y técnicos calificados para que tu aire funcione al máximo 🔝 📲 Agenda hoy mismo tu servicio WhatsApp: 6243-1990 👨‍🔧 David – Chiriquí, Panamá ❄️ Somos Refri507 #AireAcondicionado #PisoTecho #MantenimientoAC #ReparaciónAC #Climatización Refri507 ServicioTécnico AiresIndustriales Panamá Chiriquí AhorroEnergético Confort TécnicosExpertos Refrigeración 🔧❄️",
+                             "link":  "https://www.facebook.com/100093369870512/videos/%EF%B8%8F-mantenimiento-y-reparaci%C3%B3n-de-aires-acondicionados-piso-techo-%EF%B8%8Ftu-equipo-no-en/2093978314715269/",
+                             "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwELJvuXB6vfzJs_iHpqOLk7O-befpi4\u0026s=0",
+                             "source":  "Facebook",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b16072771436ee7a1093f/images/PL2STOLbkOrEPmOgVTWHgVogJluO9jBPqGYlD3MhSjg.png"
+                         }
+                     ],
+    "filters":  [
+                    {
+                        "name":  "Abierto ahora",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro",
+                                           "q":  "reparación de aire acondicionado abierto ahora"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQxKsJKAB6BAgXEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro"
+                    },
+                    {
+                        "name":  "Mejor valorados",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU",
+                                           "q":  "reparación de aire acondicionado mejor valorados"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQxKsJKAF6BAgbEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU"
+                    },
+                    {
+                        "name":  "Estimaciones online",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc",
+                                           "q":  "reparación de aire acondicionado estimaciones online"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQxKsJKAJ6BAgaEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc"
+                    },
+                    {
+                        "name":  "Empresas de",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-aEnHS1O6pksaMpGwMHwVVlx_RwBHC_N5uSTO1Q-W2OfehHnEWkF-v6DnpXscxYU56HijKOR-LaARKQRJg_VOvZrLlxWn17rLwKeYBv9Wmeg2JUBkoCu89EVodEndxmLbcG3Y2Z23SS7fxDetj5t3yGAlAxn3tLxiqgxSlrLFFLjGeo7uMwMAY6ZVKQ5glc9NuYBJi2kLk1KxGzrKM9nm_A1BILnMGVQOi50oRTAPHXqIbV4B",
+                                           "q":  "Empresas de reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Empresas+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-aEnHS1O6pksaMpGwMHwVVlx_RwBHC_N5uSTO1Q-W2OfehHnEWkF-v6DnpXscxYU56HijKOR-LaARKQRJg_VOvZrLlxWn17rLwKeYBv9Wmeg2JUBkoCu89EVodEndxmLbcG3Y2Z23SS7fxDetj5t3yGAlAxn3tLxiqgxSlrLFFLjGeo7uMwMAY6ZVKQ5glc9NuYBJi2kLk1KxGzrKM9nm_A1BILnMGVQOi50oRTAPHXqIbV4B\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQxKsJKAN6BAgYEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Empresas+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-aEnHS1O6pksaMpGwMHwVVlx_RwBHC_N5uSTO1Q-W2OfehHnEWkF-v6DnpXscxYU56HijKOR-LaARKQRJg_VOvZrLlxWn17rLwKeYBv9Wmeg2JUBkoCu89EVodEndxmLbcG3Y2Z23SS7fxDetj5t3yGAlAxn3tLxiqgxSlrLFFLjGeo7uMwMAY6ZVKQ5glc9NuYBJi2kLk1KxGzrKM9nm_A1BILnMGVQOi50oRTAPHXqIbV4B"
+                    },
+                    {
+                        "name":  "Auto",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE",
+                                           "q":  "reparación de aire acondicionado de auto"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQxKsJKAR6BAgcEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE"
+                    },
+                    {
+                        "name":  "Barcelona",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv",
+                                           "q":  "Reparación aire acondicionado Barcelona"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQxKsJKAV6BQiDARAB\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv"
+                    },
+                    {
+                        "name":  "Compresores",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg",
+                                           "q":  "Reparación de compresores de AIRE acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQxKsJKAZ6BQiEARAB\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg"
+                    },
+                    {
+                        "name":  "Curso",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk",
+                                           "q":  "Curso de reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQxKsJKAd6BQiFARAB\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk"
+                    }
+                ],
+    "related_searches":  [
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación aire acondicionado Valencia",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+Valencia\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ1QJ6BAhHEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+Valencia"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación aire acondicionado cerca de mi",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+cerca+de+mi\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ1QJ6BAhfEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+cerca+de+mi"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación aire acondicionado coche Valencia",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+coche+Valencia\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ1QJ6BAhbEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+coche+Valencia"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Técnico aire acondicionado Valencia barato",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=T%C3%A9cnico+aire+acondicionado+Valencia+barato\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ1QJ6BAhVEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=T%C3%A9cnico+aire+acondicionado+Valencia+barato"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Empresas de reparación de aire acondicionado",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Empresas+de+reparaci%C3%B3n+de+aire+acondicionado\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ1QJ6BAhREAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Empresas+de+reparaci%C3%B3n+de+aire+acondicionado"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Técnico aire acondicionado",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=T%C3%A9cnico+aire+acondicionado\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ1QJ6BAhPEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=T%C3%A9cnico+aire+acondicionado"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparar aire acondicionado portátil",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Reparar+aire+acondicionado+port%C3%A1til\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ1QJ6BAhMEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Reparar+aire+acondicionado+port%C3%A1til"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Mantenimiento aire acondicionado",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026q=Mantenimiento+aire+acondicionado\u0026sa=X\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ1QJ6BAhLEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=Mantenimiento+aire+acondicionado"
+                             }
+                         ],
+    "pagination":  {
+                       "current":  1,
+                       "next":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=10\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8NMDegQIRBAW",
+                       "other_pages":  {
+                                           "2":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=10\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAE",
+                                           "3":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=20\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAG",
+                                           "4":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=30\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAI",
+                                           "5":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=40\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAK",
+                                           "6":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=50\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAM",
+                                           "7":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=60\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAO",
+                                           "8":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=70\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAQ",
+                                           "9":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=80\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAS",
+                                           "10":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026hl=es\u0026gl=es\u0026ei=CRYLau3DF7zT5NoPmoGpkQQ\u0026start=90\u0026sa=N\u0026sstk=AU9db-CD87SjG-leaJyc-YaSjzuXJkX3AEU6SuG7tt3-fonvtJ-qFdA3bKh7bBJkJkLIAbEMjLQghA5D9CwWEi60y_vBiMpW7V_QPQ\u0026ved=2ahUKEwit7ILI-sKUAxW8KVkFHZpAKkIQ8tMDegQIRBAU"
+                                       }
+                   },
+    "serpapi_pagination":  {
+                               "current":  1,
+                               "next_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "next":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "other_pages":  {
+                                                   "2":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                                                   "3":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=20",
+                                                   "4":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=30",
+                                                   "5":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=40",
+                                                   "6":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=50",
+                                                   "7":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=60",
+                                                   "8":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=70",
+                                                   "9":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=80",
+                                                   "10":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Valencia%2C+Community+of+Valencia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=90"
+                                               }
+                           }
+}

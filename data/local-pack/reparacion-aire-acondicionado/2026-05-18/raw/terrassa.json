@@ -1,0 +1,669 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b1601271332f9f8a94cec",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/EzaFpApbdW5ASFjGZ4Vkfg/6a0b1601271332f9f8a94cec.json",
+                            "pixel_position_endpoint":  "https://serpapi.com/searches/EzaFpApbdW5ASFjGZ4Vkfg/6a0b1601271332f9f8a94cec.json_with_pixel_position",
+                            "created_at":  "2026-05-18 13:37:05 UTC",
+                            "processed_at":  "2026-05-18 13:37:05 UTC",
+                            "google_url":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026oq=reparaci%C3%B3n+de+aire+acondicionado\u0026uule=w+CAIQICIYVGVycmFzc2EsQ2F0YWxvbmlhLFNwYWlu\u0026hl=es\u0026gl=es\u0026sourceid=chrome\u0026ie=UTF-8",
+                            "raw_html_file":  "https://serpapi.com/searches/EzaFpApbdW5ASFjGZ4Vkfg/6a0b1601271332f9f8a94cec.html",
+                            "total_time_taken":  3.55
+                        },
+    "search_parameters":  {
+                              "engine":  "google",
+                              "q":  "reparación de aire acondicionado",
+                              "location_requested":  "Terrassa, Catalonia, Spain",
+                              "location_used":  "Terrassa,Catalonia,Spain",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es",
+                              "device":  "desktop"
+                          },
+    "search_information":  {
+                               "query_displayed":  "reparación de aire acondicionado",
+                               "total_results":  185,
+                               "time_taken_displayed":  0.49,
+                               "organic_results_state":  "Results for exact spelling",
+                               "results_for":  "Terrassa"
+                           },
+    "local_map":  {
+                      "image":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/6wvoo0Bdly6fr149IheWLw.png",
+                      "gps_coordinates":  {
+                                              "latitude":  41.57025176609894,
+                                              "longitude":  2.0163345336914062
+                                          }
+                  },
+    "local_results":  {
+                          "places":  [
+                                         {
+                                             "position":  1,
+                                             "rating":  4.8,
+                                             "reviews":  45,
+                                             "reviews_original":  "(45)",
+                                             "description":  "Servicios en las instalaciones no disponibles",
+                                             "links":  {
+                                                           "website":  "https://clicreparacion.com/terrassa/",
+                                                           "directions":  "https://www.google.com/maps/dir//Clic+Reparaci%C3%B3n+Terrassa,+Carrer+de+Galileu,+58,+08224+Terrassa,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a493b891a70b33:0xa2fb8437592764ae?sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ48ADegQIHRAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "11744125826552521902",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026ludocid=11744125826552521902\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11mdv0z5pc",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.558023,
+                                                                     "longitude":  2.005528
+                                                                 },
+                                             "title":  "Clic Reparación Terrassa",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "address":  "Terrassa",
+                                             "phone":  "936 94 03 96",
+                                             "hours":  "Abierto · Cierre: 20:00"
+                                         },
+                                         {
+                                             "position":  2,
+                                             "rating":  5.0,
+                                             "reviews":  65,
+                                             "reviews_original":  "(65)",
+                                             "links":  {
+                                                           "website":  "http://apfclima.es/",
+                                                           "directions":  "https://www.google.com/maps/dir//APFCLIMA,+Carrer+de+Francesc+Layret,+08224+Terrassa,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a493ba695d34b9:0xbd7e070696caf4a4?sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ48ADegQIHxAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "13654358845115004068",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026ludocid=13654358845115004068\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11vlm9r6cf",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.552386,
+                                                                     "longitude":  2.00445
+                                                                 },
+                                             "title":  "APFCLIMA",
+                                             "type":  "Empresa de climatización",
+                                             "years_in_business":  "Más de 3 años en activo",
+                                             "address":  "Terrassa",
+                                             "phone":  "688 40 17 69",
+                                             "hours":  "Abierto 24 horas"
+                                         },
+                                         {
+                                             "position":  3,
+                                             "rating":  4.8,
+                                             "reviews":  26,
+                                             "reviews_original":  "(26)",
+                                             "links":  {
+                                                           "website":  "http://www.tecnoclima.com.es/",
+                                                           "directions":  "https://www.google.com/maps/dir//Tecno+clima,+Carrer+del+Violinista+Vellsola,+3,+local,+08222+Terrassa,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a493e3ac797389:0x8b7b9b13c7991c64?sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ48ADegQIHhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "10050797502662777956",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026ludocid=10050797502662777956\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11y3lrrx79",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.567331,
+                                                                     "longitude":  2.023684
+                                                                 },
+                                             "title":  "Tecno clima",
+                                             "type":  "Empresa de climatización",
+                                             "address":  "Terrassa",
+                                             "phone":  "611 71 23 12",
+                                             "hours":  "Abierto · Cierre: 17:00"
+                                         },
+                                         {
+                                             "position":  4,
+                                             "rating":  5.0,
+                                             "reviews":  1,
+                                             "reviews_original":  "(1)",
+                                             "links":  {
+                                                           "directions":  "https://www.google.com/maps/dir//Torres+Clima+climatizaci%C3%B3n-refrigeraci%C3%B3n-hosteler%C3%ADa-ventilaci%C3%B3n,+Carrer+de+Mallorca,+42,+08024+Terrassa,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a4929a1da96009:0x59cc66600d2624e9?sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ48ADegQIaRAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "6470659327348057321",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026ludocid=6470659327348057321\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/1tds3k11",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.558855,
+                                                                     "longitude":  1.997071
+                                                                 },
+                                             "title":  "Torres Clima climatización-refrigeración-hostelería-ventilación",
+                                             "type":  "Contratista de aire acondicionado",
+                                             "years_in_business":  "Más de 10 años en activo",
+                                             "address":  "Terrassa",
+                                             "phone":  "937 80 89 89",
+                                             "hours":  "Abierto · Cierre: 22:00",
+                                             "extensions":  [
+                                                                "Ofrece: Reparación de sistemas de aire acondicionado"
+                                                            ]
+                                         },
+                                         {
+                                             "position":  5,
+                                             "rating":  4.9,
+                                             "reviews":  152,
+                                             "reviews_original":  "(152)",
+                                             "links":  {
+                                                           "website":  "https://www.bercofred.com/",
+                                                           "directions":  "https://www.google.com/maps/dir//Bercofred+SL+-+Refrigeraci%C3%B3n+Comercial,+Ctra.+de+Castellar,+541,+08227+Terrassa,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a4932ed5454b13:0x1969dcd7c488161b?sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ48ADegQIaBAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "1831237542776149531",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026ludocid=1831237542776149531\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/1tkxpby5",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.580921,
+                                                                     "longitude":  2.035853
+                                                                 },
+                                             "title":  "Bercofred SL - Refrigeración Comercial",
+                                             "type":  "Empresa de climatización",
+                                             "years_in_business":  "Más de 25 años en activo",
+                                             "address":  "Terrassa",
+                                             "phone":  "937 33 60 57",
+                                             "hours":  "Abierto · Cierre: 18:00",
+                                             "extensions":  [
+                                                                "Ofrece: Reparación de sistemas de aire acondicionado"
+                                                            ]
+                                         },
+                                         {
+                                             "position":  6,
+                                             "rating":  5.0,
+                                             "reviews":  10,
+                                             "reviews_original":  "(10)",
+                                             "links":  {
+                                                           "website":  "https://ssinstalacions.es/",
+                                                           "directions":  "https://www.google.com/maps/dir//SS+Instal%C2%B7lacions,+Carrer+del+Comte+Borrell,+35,+08224+Terrassa,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a493052934cf65:0x57f8c983169f50e8?sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ48ADegQIahAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "6339038040381411560",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026ludocid=6339038040381411560\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11yq94_kkk",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.558293,
+                                                                     "longitude":  2.005924
+                                                                 },
+                                             "title":  "SS Instal·lacions",
+                                             "type":  "Electricista",
+                                             "address":  "Terrassa",
+                                             "phone":  "602 94 46 28",
+                                             "hours":  "Abierto · Cierre: 18:00",
+                                             "extensions":  [
+                                                                "Ofrece: Reparación de tomas eléctricas e interruptores"
+                                                            ]
+                                         }
+                                     ],
+                          "more_locations_link":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026udm=1\u0026lsack=BBYLaoKcDqat5NoP1paPoAE\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQjGp6BAglEAE"
+                      },
+    "related_questions":  [
+                              {
+                                  "question":  "¿Cuánto se cobra por arreglar un aire acondicionado?",
+                                  "type":  "ai_overview",
+                                  "page_token":  "cGihSHicHZDfbpswHEa1l-llg0PpRKRokgMma2Nnduwf4JvJmBBSzJ8mJDS92yvsGfZUe5pFu_6Ojo6-X3_csWv-fvldj-NwXsxm0zQ9Hvr-4PaPtm9n5nzr7Mwa5wpjm8Xz12f0rbLL-Grx6mQxV-hCbyhQHrhtBKd07brtml0YEp80coFp4cggvOybuhFOr4p0qGSksZDl1ThyUXMtqCtr5qFxn7AfdD5sCuKkivRnEb1UdM5WoA5zqYZEwtCyrhbQlndPiMXave86_cbWQy46DEUSxnaHztTHlVYvubyhjVX1lRJsds3HljUu5pnuZYzeATQwT7PMtz5LpoA3ZV34AptMIN7UeZqQV0gJM6Q8phlE963Ps_gJlHqK63LFnaN5Gm5yT3zkGUeyDTnNcK2Se5foj1wNGxnrceehnnvf7wwE0hNvQMJAgUtNRMw-AZJL9lpOD5W9Lv2H_18vf1btuBhO_eEfHo-LMQ",
+                                  "serpapi_ai_overview_link":  "https://serpapi.com/search.json?engine=google_ai_overview\u0026page_token=cGihSHicHZDfbpswHEa1l-llg0PpRKRokgMma2Nnduwf4JvJmBBSzJ8mJDS92yvsGfZUe5pFu_6Ojo6-X3_csWv-fvldj-NwXsxm0zQ9Hvr-4PaPtm9n5nzr7Mwa5wpjm8Xz12f0rbLL-Grx6mQxV-hCbyhQHrhtBKd07brtml0YEp80coFp4cggvOybuhFOr4p0qGSksZDl1ThyUXMtqCtr5qFxn7AfdD5sCuKkivRnEb1UdM5WoA5zqYZEwtCyrhbQlndPiMXave86_cbWQy46DEUSxnaHztTHlVYvubyhjVX1lRJsds3HljUu5pnuZYzeATQwT7PMtz5LpoA3ZV34AptMIN7UeZqQV0gJM6Q8phlE963Ps_gJlHqK63LFnaN5Gm5yT3zkGUeyDTnNcK2Se5foj1wNGxnrceehnnvf7wwE0hNvQMJAgUtNRMw-AZJL9lpOD5W9Lv2H_18vf1btuBhO_eEfHo-LMQ",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsUk4wdFNhMFJxWTBRdFRURnNVVmhHWW05c1FuVlpSMk5ST0ZaQ2FXOVBla055U205bVFsVkpValY0YkdoNGFIQkhia0l0ZDBobE9EaHNWbTlvWkZwRU5WaEtMWEZzTmxRdFVHaGtObVJ4YTE5Vk9UVTVSazh5VFhnMGR4SVhRa0paVEdGdlMyTkVjV0YwTlU1dlVERndZVkJ2UVVVYUlrRktTMHhHYlVwaGNTMVFiRnBxTjBweWJEQXpVMEpyVFVkMlNUazBUelZ2VDJjIiwiZmN2IjoiMyIsImVpIjoiQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUUiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuM0dHdkEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gc2UgY29icmEgcG9yIGFycmVnbGFyIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6IkdqTmpkY09oYm5SdklITmxJR052WW5KaElIQnZjaUJoY25KbFoyeGhjaUIxYmlCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4IiwiYnMiOiJjNldRdndyQ01CQ0g2WnJKT2RNOVFfMkhJSGJ3U2M1ckxJRTBKMG16dWZnb0hSMTlBc0c4bUNsRnFGaUY0cElNeWZmNzduNkN4ZXB4MzRmWTJvYkJLeUEtT0lRVE8wRG5WR1hRUWJDQTJpbEFZbHRxMG15eDVDSmZ5amxONThRbEUwVnZOTXFEWndzR1BSelJkRmNkVzUtaTZtRFRXNm0tcVhkeVMzOEVDRHRZMmdQR1d6ckxrT1pYQmlyOFpWN0luQUpPeE1UNXRYSlhWdDlVLXRqRUsxbE5fTjVheWhvVGItUzZGdzk0TllKX3NyUHNDUSIsImlkIjoiZmNfQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUVfNSJ9",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsUk4wdFNhMFJxWTBRdFRURnNVVmhHWW05c1FuVlpSMk5ST0ZaQ2FXOVBla055U205bVFsVkpValY0YkdoNGFIQkhia0l0ZDBobE9EaHNWbTlvWkZwRU5WaEtMWEZzTmxRdFVHaGtObVJ4YTE5Vk9UVTVSazh5VFhnMGR4SVhRa0paVEdGdlMyTkVjV0YwTlU1dlVERndZVkJ2UVVVYUlrRktTMHhHYlVwaGNTMVFiRnBxTjBweWJEQXpVMEpyVFVkMlNUazBUelZ2VDJjIiwiZmN2IjoiMyIsImVpIjoiQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUUiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuM0dHdkEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gc2UgY29icmEgcG9yIGFycmVnbGFyIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6IkdqTmpkY09oYm5SdklITmxJR052WW5KaElIQnZjaUJoY25KbFoyeGhjaUIxYmlCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4IiwiYnMiOiJjNldRdndyQ01CQ0g2WnJKT2RNOVFfMkhJSGJ3U2M1ckxJRTBKMG16dWZnb0hSMTlBc0c4bUNsRnFGaUY0cElNeWZmNzduNkN4ZXB4MzRmWTJvYkJLeUEtT0lRVE8wRG5WR1hRUWJDQTJpbEFZbHRxMG15eDVDSmZ5amxONThRbEUwVnZOTXFEWndzR1BSelJkRmNkVzUtaTZtRFRXNm0tcVhkeVMzOEVDRHRZMmdQR1d6ckxrT1pYQmlyOFpWN0luQUpPeE1UNXRYSlhWdDlVLXRqRUsxbE5fTjVheWhvVGItUzZGdzk0TllKX3NyUHNDUSIsImlkIjoiZmNfQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUVfNSJ9"
+                              },
+                              {
+                                  "question":  "¿Cuáles son las fallas más comunes de un aire acondicionado?",
+                                  "type":  "ai_overview",
+                                  "page_token":  "P7UMMXicHdBBbqMwAEBRzWW6bDBpMkOkqCpgh1IgNdgmsKlsQ0KDDZ6UBJpdrzBnmFP1NK26_osn_Y__6rVrP3_9a4bBvK1ms3Ecbw99f1D1rez1jL-9d3ImuVKCy3a1_L0E93u5hhfpeifpYgrO8TtY0Ln7WF4f7Lxrx5KETG6cxyRXWabTJ_HdBUF_C9Acc60CrppIMLUTc0MK1fhVlwLMwp6rdFl6YJGw8Jxa4ZlbiZG2M209YCeoPEr4bSFjcb_JuHpYRKzc1K0zjyjbZgh1JEBPRDlsCwEX-ThJUEy1NncUJNeIJZDnFSIa5VhXd4w1qO6SrGbpWbbhlPnuswiMx-mfIbaGoLQdHQdlII-VL3bSIrnxhQ4hp4sTbCoPKxUXuRMVVjoVOwyIdnC8cxu6cdw07V8xNRGB5ZC1qK9JFQg4REw7Nr2yDhPVUsi8ErkXhtwNxjd7eVnPb35er1_2eliZU3_4Aij5i0A",
+                                  "serpapi_ai_overview_link":  "https://serpapi.com/search.json?engine=google_ai_overview\u0026page_token=P7UMMXicHdBBbqMwAEBRzWW6bDBpMkOkqCpgh1IgNdgmsKlsQ0KDDZ6UBJpdrzBnmFP1NK26_osn_Y__6rVrP3_9a4bBvK1ms3Ecbw99f1D1rez1jL-9d3ImuVKCy3a1_L0E93u5hhfpeifpYgrO8TtY0Ln7WF4f7Lxrx5KETG6cxyRXWabTJ_HdBUF_C9Acc60CrppIMLUTc0MK1fhVlwLMwp6rdFl6YJGw8Jxa4ZlbiZG2M209YCeoPEr4bSFjcb_JuHpYRKzc1K0zjyjbZgh1JEBPRDlsCwEX-ThJUEy1NncUJNeIJZDnFSIa5VhXd4w1qO6SrGbpWbbhlPnuswiMx-mfIbaGoLQdHQdlII-VL3bSIrnxhQ4hp4sTbCoPKxUXuRMVVjoVOwyIdnC8cxu6cdw07V8xNRGB5ZC1qK9JFQg4REw7Nr2yDhPVUsi8ErkXhtwNxjd7eVnPb35er1_2eliZU3_4Aij5i0A",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsUk4wdFNhMFJxWTBRdFRURnNVVmhHWW05c1FuVlpSMk5ST0ZaQ2FXOVBla055U205bVFsVkpValY0YkdoNGFIQkhia0l0ZDBobE9EaHNWbTlvWkZwRU5WaEtMWEZzTmxRdFVHaGtObVJ4YTE5Vk9UVTVSazh5VFhnMGR4SVhRa0paVEdGdlMyTkVjV0YwTlU1dlVERndZVkJ2UVVVYUlrRktTMHhHYlVwaGNTMVFiRnBxTjBweWJEQXpVMEpyVFVkMlNUazBUelZ2VDJjIiwiZmN2IjoiMyIsImVpIjoiQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUUiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuM0dHdkEtIiwicXVlc3Rpb24iOiLCv0N1w6FsZXMgc29uIGxhcyBmYWxsYXMgbcOhcyBjb211bmVzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1T3lTUzQ5dkRBbnRWaWhPRDlQSVNleFdDRXRNUWRFNVI1ZVdLeVFuSjlibWdlVVMwbFZLTTFUU013c1NsVklUTTdQUzhsTXpzelBTMHpKQndBIiwiYnMiOiJjNldRdndyQ01CQ0g2WnJKT2RNOVFfMkhJSGJ3U2M1ckxJRTBKMG16dWZnb0hSMTlBc0c4bUNsRnFGaUY0cElNeWZmNzduNkN4ZXB4MzRmWTJvYkJLeUEtT0lRVE8wRG5WR1hRUWJDQTJpbEFZbHRxMG15eDVDSmZ5amxONThRbEUwVnZOTXFEWndzR1BSelJkRmNkVzUtaTZtRFRXNm0tcVhkeVMzOEVDRHRZMmdQR1d6ckxrT1pYQmlyOFpWN0luQUpPeE1UNXRYSlhWdDlVLXRqRUsxbE5fTjVheWhvVGItUzZGdzk0TllKX3NyUHNDUSIsImlkIjoiZmNfQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUVfNSJ9",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsUk4wdFNhMFJxWTBRdFRURnNVVmhHWW05c1FuVlpSMk5ST0ZaQ2FXOVBla055U205bVFsVkpValY0YkdoNGFIQkhia0l0ZDBobE9EaHNWbTlvWkZwRU5WaEtMWEZzTmxRdFVHaGtObVJ4YTE5Vk9UVTVSazh5VFhnMGR4SVhRa0paVEdGdlMyTkVjV0YwTlU1dlVERndZVkJ2UVVVYUlrRktTMHhHYlVwaGNTMVFiRnBxTjBweWJEQXpVMEpyVFVkMlNUazBUelZ2VDJjIiwiZmN2IjoiMyIsImVpIjoiQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUUiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuM0dHdkEtIiwicXVlc3Rpb24iOiLCv0N1w6FsZXMgc29uIGxhcyBmYWxsYXMgbcOhcyBjb211bmVzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1T3lTUzQ5dkRBbnRWaWhPRDlQSVNleFdDRXRNUWRFNVI1ZVdLeVFuSjlibWdlVVMwbFZLTTFUU013c1NsVklUTTdQUzhsTXpzelBTMHpKQndBIiwiYnMiOiJjNldRdndyQ01CQ0g2WnJKT2RNOVFfMkhJSGJ3U2M1ckxJRTBKMG16dWZnb0hSMTlBc0c4bUNsRnFGaUY0cElNeWZmNzduNkN4ZXB4MzRmWTJvYkJLeUEtT0lRVE8wRG5WR1hRUWJDQTJpbEFZbHRxMG15eDVDSmZ5amxONThRbEUwVnZOTXFEWndzR1BSelJkRmNkVzUtaTZtRFRXNm0tcVhkeVMzOEVDRHRZMmdQR1d6ckxrT1pYQmlyOFpWN0luQUpPeE1UNXRYSlhWdDlVLXRqRUsxbE5fTjVheWhvVGItUzZGdzk0TllKX3NyUHNDUSIsImlkIjoiZmNfQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUVfNSJ9"
+                              },
+                              {
+                                  "question":  "¿Cuántos años dura el gas de un aire acondicionado?",
+                                  "type":  "ai_overview",
+                                  "page_token":  "EPjIrHicHdBfbpswHABg9TJ9bOwiuhEpquTEsGSxM_9qmz8vkzEGAk6gKSlp33qXnWqnmbTvCN_XH38893_v3ttpGt-Wi8U8zw_NMDTePdjhtDBvH2e7sMb70th--fTtCT_XdkWvW7J-3RKh8JV94FAFcNSeJGZTbRUmP9Ou6CyKgCdagwIlM_CMTi3L4JelnFtZDTzLkTkXM8N-FjrqXBcHBu1kSUdR4OamO44c_R6WqmVVGiJFw95uGGIphAdNasiq2Gk-H36AfsEx0hu45npss0AEqfZX6D1jktS82_Vlt9tbzS88sKFLm4kHGksPF5dwah75vkhun-4FzWXs19KTgLbVWnjP8jTa5whueSawPEWCZaRVSUQAhqNQ417SYpIJJ4e4SB2tJHwK7OKYm6x9reIq5Xq3gdNkhLiv7fsquP__ufpdn6bleBmaf1RpgNg",
+                                  "serpapi_ai_overview_link":  "https://serpapi.com/search.json?engine=google_ai_overview\u0026page_token=EPjIrHicHdBfbpswHABg9TJ9bOwiuhEpquTEsGSxM_9qmz8vkzEGAk6gKSlp33qXnWqnmbTvCN_XH38893_v3ttpGt-Wi8U8zw_NMDTePdjhtDBvH2e7sMb70th--fTtCT_XdkWvW7J-3RKh8JV94FAFcNSeJGZTbRUmP9Ou6CyKgCdagwIlM_CMTi3L4JelnFtZDTzLkTkXM8N-FjrqXBcHBu1kSUdR4OamO44c_R6WqmVVGiJFw95uGGIphAdNasiq2Gk-H36AfsEx0hu45npss0AEqfZX6D1jktS82_Vlt9tbzS88sKFLm4kHGksPF5dwah75vkhun-4FzWXs19KTgLbVWnjP8jTa5whueSawPEWCZaRVSUQAhqNQ417SYpIJJ4e4SB2tJHwK7OKYm6x9reIq5Xq3gdNkhLiv7fsquP__ufpdn6bleBmaf1RpgNg",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsUk4wdFNhMFJxWTBRdFRURnNVVmhHWW05c1FuVlpSMk5ST0ZaQ2FXOVBla055U205bVFsVkpValY0YkdoNGFIQkhia0l0ZDBobE9EaHNWbTlvWkZwRU5WaEtMWEZzTmxRdFVHaGtObVJ4YTE5Vk9UVTVSazh5VFhnMGR4SVhRa0paVEdGdlMyTkVjV0YwTlU1dlVERndZVkJ2UVVVYUlrRktTMHhHYlVwaGNTMVFiRnBxTjBweWJEQXpVMEpyVFVkMlNUazBUelZ2VDJjIiwiZmN2IjoiMyIsImVpIjoiQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUUiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuM0dHdkEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG9zIGHDsW9zIGR1cmEgZWwgZ2FzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1TXlTaTVOekN2SkwxWklQTHdSU0thVUZpVXFwT1lvcENjQzJha0twWGtLaVpsRnFRcUp5Zmw1S1puSm1mbDVpU241QUEiLCJicyI6ImM2V1F2d3JDTUJDSDZackpPZE05UV8ySElIYndTYzVyTElFMEowbXp1ZmdvSFIxOUFzRzhtQ2xGcUZpRjRwSU15ZmY3N242Q3hlcHgzNGZZMm9iQkt5QS1PSVFUTzBEblZHWFFRYkNBMmlsQVlsdHEwbXl4NUNKZnlqbE41OFFsRTBWdk5NcURad3NHUFJ6UmRGY2RXNS1pNm1EVFc2bS1xWGR5UzM4RUNEdFkyZ1BHV3pyTGtPWlhCaXI4WlY3SW5BSk94TVQ1dFhKWFZ0OVUtdGpFSzFsTl9ONWF5aG9UYi1TNkZ3OTROWUpfc3JQc0NRIiwiaWQiOiJmY19CQllMYW9LY0RxYXQ1Tm9QMXBhUG9BRV81In0=",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsUk4wdFNhMFJxWTBRdFRURnNVVmhHWW05c1FuVlpSMk5ST0ZaQ2FXOVBla055U205bVFsVkpValY0YkdoNGFIQkhia0l0ZDBobE9EaHNWbTlvWkZwRU5WaEtMWEZzTmxRdFVHaGtObVJ4YTE5Vk9UVTVSazh5VFhnMGR4SVhRa0paVEdGdlMyTkVjV0YwTlU1dlVERndZVkJ2UVVVYUlrRktTMHhHYlVwaGNTMVFiRnBxTjBweWJEQXpVMEpyVFVkMlNUazBUelZ2VDJjIiwiZmN2IjoiMyIsImVpIjoiQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUUiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuM0dHdkEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG9zIGHDsW9zIGR1cmEgZWwgZ2FzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1TXlTaTVOekN2SkwxWklQTHdSU0thVUZpVXFwT1lvcENjQzJha0twWGtLaVpsRnFRcUp5Zmw1S1puSm1mbDVpU241QUEiLCJicyI6ImM2V1F2d3JDTUJDSDZackpPZE05UV8ySElIYndTYzVyTElFMEowbXp1ZmdvSFIxOUFzRzhtQ2xGcUZpRjRwSU15ZmY3N242Q3hlcHgzNGZZMm9iQkt5QS1PSVFUTzBEblZHWFFRYkNBMmlsQVlsdHEwbXl4NUNKZnlqbE41OFFsRTBWdk5NcURad3NHUFJ6UmRGY2RXNS1pNm1EVFc2bS1xWGR5UzM4RUNEdFkyZ1BHV3pyTGtPWlhCaXI4WlY3SW5BSk94TVQ1dFhKWFZ0OVUtdGpFSzFsTl9ONWF5aG9UYi1TNkZ3OTROWUpfc3JQc0NRIiwiaWQiOiJmY19CQllMYW9LY0RxYXQ1Tm9QMXBhUG9BRV81In0%3D"
+                              },
+                              {
+                                  "question":  "¿Cuánto cobra un técnico por arreglar el aire acondicionado?",
+                                  "type":  "ai_overview",
+                                  "page_token":  "rlY5S3icHdBNbptAGIBh9TJZxmCCGyxZVUnBmJpJZ5hvMGwqmLHB4QMmNjE_u16hZ8ipcppGXb_Ss3j_vOO5rT--_K36Xl_Xi8UwDPdl15V4vJdds8ivUysXMkcsclmvV19X5reT3Hg36T5dpEvBfIsm04Zk9BX3L-CTJg6kpRqSw6wqtbw-pIDLCOwgBhErkzFxCG9582jFVgYyqWdmeBNP-pmj5mBqknLcyRl_Ri_-cPTLsfDFHjzbTg1jihFt7u1mgQxpu7NidFaMw3gUhBRG16d1WEMSTdH2cSiEIHHDOhXoT0CEecsO0bK0qMCKGiPKZfbj2dOx8sASCTbFHJrpZyNB-Mp8d1BGlXDAV2oInW97QV4URPz7g1epJ4oYpYmzTw02pgdq8sah0cGtYOu4jHVnCnrPvayP293MoNL5nBnCdH4BZ285aJeb5JYF5HnP3TOldyd521h3_19vfp-afq0vXfkP1iGNDQ",
+                                  "serpapi_ai_overview_link":  "https://serpapi.com/search.json?engine=google_ai_overview\u0026page_token=rlY5S3icHdBNbptAGIBh9TJZxmCCGyxZVUnBmJpJZ5hvMGwqmLHB4QMmNjE_u16hZ8ipcppGXb_Ss3j_vOO5rT--_K36Xl_Xi8UwDPdl15V4vJdds8ivUysXMkcsclmvV19X5reT3Hg36T5dpEvBfIsm04Zk9BX3L-CTJg6kpRqSw6wqtbw-pIDLCOwgBhErkzFxCG9582jFVgYyqWdmeBNP-pmj5mBqknLcyRl_Ri_-cPTLsfDFHjzbTg1jihFt7u1mgQxpu7NidFaMw3gUhBRG16d1WEMSTdH2cSiEIHHDOhXoT0CEecsO0bK0qMCKGiPKZfbj2dOx8sASCTbFHJrpZyNB-Mp8d1BGlXDAV2oInW97QV4URPz7g1epJ4oYpYmzTw02pgdq8sah0cGtYOu4jHVnCnrPvayP293MoNL5nBnCdH4BZ285aJeb5JYF5HnP3TOldyd521h3_19vfp-afq0vXfkP1iGNDQ",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsUk4wdFNhMFJxWTBRdFRURnNVVmhHWW05c1FuVlpSMk5ST0ZaQ2FXOVBla055U205bVFsVkpValY0YkdoNGFIQkhia0l0ZDBobE9EaHNWbTlvWkZwRU5WaEtMWEZzTmxRdFVHaGtObVJ4YTE5Vk9UVTVSazh5VFhnMGR4SVhRa0paVEdGdlMyTkVjV0YwTlU1dlVERndZVkJ2UVVVYUlrRktTMHhHYlVwaGNTMVFiRnBxTjBweWJEQXpVMEpyVFVkMlNUazBUelZ2VDJjIiwiZmN2IjoiMyIsImVpIjoiQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUUiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuM0dHdkEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gY29icmEgdW4gdMOpY25pY28gcG9yIGFycmVnbGFyIGVsIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImN3M0d3UW5BTUF3RHdEMzYwaGFkUjFGTU1RU3JtR1RfOWw1MzNUcXNiY2lqaVZQWW9Vb1pyeHZzam1meFQzYUFjczFVdWpqOUFRIiwiYnMiOiJjNldRdndyQ01CQ0g2WnJKT2RNOVFfMkhJSGJ3U2M1ckxJRTBKMG16dWZnb0hSMTlBc0c4bUNsRnFGaUY0cElNeWZmNzduNkN4ZXB4MzRmWTJvYkJLeUEtT0lRVE8wRG5WR1hRUWJDQTJpbEFZbHRxMG15eDVDSmZ5amxONThRbEUwVnZOTXFEWndzR1BSelJkRmNkVzUtaTZtRFRXNm0tcVhkeVMzOEVDRHRZMmdQR1d6ckxrT1pYQmlyOFpWN0luQUpPeE1UNXRYSlhWdDlVLXRqRUsxbE5fTjVheWhvVGItUzZGdzk0TllKX3NyUHNDUSIsImlkIjoiZmNfQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUVfNSJ9",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsUk4wdFNhMFJxWTBRdFRURnNVVmhHWW05c1FuVlpSMk5ST0ZaQ2FXOVBla055U205bVFsVkpValY0YkdoNGFIQkhia0l0ZDBobE9EaHNWbTlvWkZwRU5WaEtMWEZzTmxRdFVHaGtObVJ4YTE5Vk9UVTVSazh5VFhnMGR4SVhRa0paVEdGdlMyTkVjV0YwTlU1dlVERndZVkJ2UVVVYUlrRktTMHhHYlVwaGNTMVFiRnBxTjBweWJEQXpVMEpyVFVkMlNUazBUelZ2VDJjIiwiZmN2IjoiMyIsImVpIjoiQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUUiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuM0dHdkEtIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gY29icmEgdW4gdMOpY25pY28gcG9yIGFycmVnbGFyIGVsIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImN3M0d3UW5BTUF3RHdEMzYwaGFkUjFGTU1RU3JtR1RfOWw1MzNUcXNiY2lqaVZQWW9Vb1pyeHZzam1meFQzYUFjczFVdWpqOUFRIiwiYnMiOiJjNldRdndyQ01CQ0g2WnJKT2RNOVFfMkhJSGJ3U2M1ckxJRTBKMG16dWZnb0hSMTlBc0c4bUNsRnFGaUY0cElNeWZmNzduNkN4ZXB4MzRmWTJvYkJLeUEtT0lRVE8wRG5WR1hRUWJDQTJpbEFZbHRxMG15eDVDSmZ5amxONThRbEUwVnZOTXFEWndzR1BSelJkRmNkVzUtaTZtRFRXNm0tcVhkeVMzOEVDRHRZMmdQR1d6ckxrT1pYQmlyOFpWN0luQUpPeE1UNXRYSlhWdDlVLXRqRUsxbE5fTjVheWhvVGItUzZGdzk0TllKX3NyUHNDUSIsImlkIjoiZmNfQkJZTGFvS2NEcWF0NU5vUDFwYVBvQUVfNSJ9"
+                              }
+                          ],
+    "organic_results":  [
+                            {
+                                "position":  1,
+                                "title":  "Reparación de Aire Acondicionado Terrassa en WALLAPOP",
+                                "link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/terrassa",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/terrassa\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECEIQAQ",
+                                "displayed_link":  "https://es.wallapop.com › ... › de Aire Acondicionado",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef1YXsBc4Wy1nuHBPjye3n18.png",
+                                "snippet":  "⚠️ Servicio técnico URGENTE – Lavadoras y Aire acondicionado DESCRIPCIÓN Reparación de lavadoras todas las marcas, LG , Siemens, balay, Bosch, carga de gas A ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Aire acondicionado",
+                                                                  "Reparación"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "⚠️ Servicio técnico URGENTE – Lavadoras y Aire acondicionado DESCRIPCIÓN Reparación de lavadoras todas las marcas, LG , Siemens, balay, Bosch, carga de gas A ...",
+                                                                         "source_info_link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/terrassa",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef1q2szywPzHPHYHyMA-yP38HaG6xiS4uiI9Hh-cD7McL.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/terrassa\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fes.wallapop.com%2Fservicios%2Freparacion-de-aire-acondicionado%2Fterrassa",
+                                "source":  "Wallapop"
+                            },
+                            {
+                                "position":  2,
+                                "title":  "Reparación Aire acondicionado Terrassa | SAT 93 14 39 169",
+                                "link":  "https://www.empresaclimatizacion.com/terrassa/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.empresaclimatizacion.com/terrassa/\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECEgQAQ",
+                                "displayed_link":  "https://www.empresaclimatizacion.com › terrassa",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73KmulefzvNcspR12m3jx3zjtmkHOo.png",
+                                "snippet":  "Servicio de reparación aire acondicionado en Terrassa : ☎️ 6 meses de garantía,✔️ desplazamiento inmediato. Técnicos 100% profesionales.",
+                                "snippet_highlighted_words":  [
+                                                                  "Servicio de reparación aire acondicionado en Terrassa"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Servicio de reparación aire acondicionado en Terrassa : ☎️ 6 meses de garantía,✔️ desplazamiento inmediato. Técnicos 100% profesionales.",
+                                                                         "source_info_link":  "https://www.empresaclimatizacion.com/terrassa/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef9yyxPk5GGNQkEs5ujyahR5bF7XsaUa3bFpolDPEbCQU.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.empresaclimatizacion.com/terrassa/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.empresaclimatizacion.com%2Fterrassa%2F",
+                                "source":  "empresaclimatizacion.com"
+                            },
+                            {
+                                "position":  3,
+                                "title":  "Instaladores de aire acondicionado en Terrassa y Sabadell",
+                                "link":  "https://quimservice.com/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://quimservice.com/\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECEYQAQ",
+                                "displayed_link":  "https://quimservice.com",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef-Aahfg2SzNkz4VTGkhtH6M.png",
+                                "date":  "7 oct 2025",
+                                "snippet":  "Servicio de instalación, reparación y mantenimiento de aires acondicionados en Terrassa y Sabadell. Instaladores de calderas de calefacción.",
+                                "snippet_highlighted_words":  [
+                                                                  "Servicio de instalación, reparación y mantenimiento de aires acondicionados"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Servicio de instalación, reparación y mantenimiento de aires acondicionados en Terrassa y Sabadell. Instaladores de calderas de calefacción.",
+                                                                         "source_info_link":  "https://quimservice.com/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73KmulefxqLk2e9HYyhj4TgoYsEJ2s2pkT19vo8mc_3RjcvJtqD.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://quimservice.com/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fquimservice.com%2F",
+                                "source":  "Quim Service"
+                            },
+                            {
+                                "position":  4,
+                                "title":  "Técnicos de aire acondicionado en Terrassa - HomeServe",
+                                "link":  "https://www.homeserve.es/aire-acondicionado/barcelona/terrassa",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.homeserve.es/aire-acondicionado/barcelona/terrassa\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECEkQAQ",
+                                "displayed_link":  "https://www.homeserve.es › ... › Barcelona",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef8sX63gLU9t5rJMzOiIYxt0.png",
+                                "snippet":  "Técnicos en climatización y refrigeración en Terrassa para servicios de mantenimiento, reparaciones e instalaciones de aire acondicionado y bombas de calor.",
+                                "snippet_highlighted_words":  [
+                                                                  "Técnicos en climatización y refrigeración en Terrassa"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "top":  {
+                                                                 "detected_extensions":  {
+                                                                                             "rating":  4.8,
+                                                                                             "reviews":  2696
+                                                                                         },
+                                                                 "extensions":  [
+                                                                                    "4,8(2.696)",
+                                                                                    "Gratis Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+                                                                                ]
+                                                             }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Técnicos en climatización y refrigeración en Terrassa para servicios de mantenimiento, reparaciones e instalaciones de aire acondicionado y bombas de calor.",
+                                                                         "source_info_link":  "https://www.homeserve.es/aire-acondicionado/barcelona/terrassa",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef3XB8-L8iBsqbpnX9OXUIn4diO-USiqVXFsyHlf3UaKH.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.homeserve.es/aire-acondicionado/barcelona/terrassa\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.homeserve.es%2Faire-acondicionado%2Fbarcelona%2Fterrassa",
+                                "source":  "homeserve.es"
+                            },
+                            {
+                                "position":  5,
+                                "title":  "Reparación de Aire Acondicionado en Terrassa",
+                                "link":  "https://aireacondicionadogisbert.com/aire-acondicionado/reparacion-aire-acondicionado-en-terrassa/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://aireacondicionadogisbert.com/aire-acondicionado/reparacion-aire-acondicionado-en-terrassa/\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECEUQAQ",
+                                "displayed_link":  "https://aireacondicionadogisbert.com › aire-acondicionado",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef1PFREoYzMH1dtDUGmDN-7w.png",
+                                "snippet":  "Reparamos cualquier avería en splits, multisplits y sistemas por conductos de todas las marcas. Servicio rápido con diagnóstico el mismo día. Ofrecemos ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparamos cualquier avería en splits, multisplits y sistemas por conductos de todas las marcas"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Reparamos cualquier avería en splits, multisplits y sistemas por conductos de todas las marcas. Servicio rápido con diagnóstico el mismo día. Ofrecemos ...",
+                                                                         "source_info_link":  "https://aireacondicionadogisbert.com/aire-acondicionado/reparacion-aire-acondicionado-en-terrassa/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73KmulefyjbHTdjHwqXc240nm33X9LfX20XQyAjwE9qMEfR2N1j.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://aireacondicionadogisbert.com/aire-acondicionado/reparacion-aire-acondicionado-en-terrassa/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Faireacondicionadogisbert.com%2Faire-acondicionado%2Freparacion-aire-acondicionado-en-terrassa%2F",
+                                "source":  "Aire Acondicionado Gisbert"
+                            },
+                            {
+                                "position":  6,
+                                "title":  "Reparación aire acondicionado – TallerStopGoTerrasa",
+                                "link":  "https://tallerstopgoterrassa.com/servicios/aire-acondicionado/reparacion-aire-acondicionado/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://tallerstopgoterrassa.com/servicios/aire-acondicionado/reparacion-aire-acondicionado/\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECGIQAQ",
+                                "displayed_link":  "https://tallerstopgoterrassa.com › aire-acondicionado › r...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73KmulefxXVwM0QwmMFatqe0ZwuJmY.png",
+                                "snippet":  "En nuestro taller mecánico en Terrassa reparamos, con totales garantías, cualquier vehículo. En Stop \u0026 Go Service cuidamos de tu automóvil como nadie. 93 784 14 ...",
+                                "snippet_highlighted_words":  [
+                                                                  "En nuestro taller mecánico en Terrassa reparamos, con totales garantías, cualquier vehículo"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "En nuestro taller mecánico en Terrassa reparamos, con totales garantías, cualquier vehículo. En Stop \u0026 Go Service cuidamos de tu automóvil como nadie. 93 784 14 ...",
+                                                                         "source_info_link":  "https://tallerstopgoterrassa.com/servicios/aire-acondicionado/reparacion-aire-acondicionado/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef6l_oXIj6Uwx3FPbziVHDSaUUslxU0QRQXWeoPShpsq1.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://tallerstopgoterrassa.com/servicios/aire-acondicionado/reparacion-aire-acondicionado/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Ftallerstopgoterrassa.com%2Fservicios%2Faire-acondicionado%2Freparacion-aire-acondicionado%2F",
+                                "source":  "tallerstopgoterrassa.com"
+                            },
+                            {
+                                "position":  7,
+                                "title":  "Aire Acondicionado Terrassa - Clima Ribas",
+                                "link":  "https://climaribas.es/aire-acondicionado-terrassa/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://climaribas.es/aire-acondicionado-terrassa/\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECGMQAQ",
+                                "displayed_link":  "https://climaribas.es › aire-acondicionado-terrassa",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73KmulefzfKdqHAoQDLVDM22NMyd3c.png",
+                                "snippet":  "Somos especialistas en reparación de aire acondicionado en Terrassa, atendiendo todo tipo de averías en hogares, oficinas y locales comerciales. Nuestros ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Somos especialistas en reparación de aire acondicionado en Terrassa"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Somos especialistas en reparación de aire acondicionado en Terrassa, atendiendo todo tipo de averías en hogares, oficinas y locales comerciales. Nuestros ...",
+                                                                         "source_info_link":  "https://climaribas.es/aire-acondicionado-terrassa/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef_110FQ8FltS6L5X45JM7SzxKfyr5feMurXm9y2v6Il6.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://climaribas.es/aire-acondicionado-terrassa/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fclimaribas.es%2Faire-acondicionado-terrassa%2F",
+                                "source":  "Climaribas"
+                            },
+                            {
+                                "position":  8,
+                                "title":  "Mantenimiento aires acondicionados Terrassa - Valles Clima",
+                                "link":  "https://vallesclima.com/mantenimiento-del-aire-acondicionado/mantenimiento-aires-acondicionados-terrassa",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://vallesclima.com/mantenimiento-del-aire-acondicionado/mantenimiento-aires-acondicionados-terrassa\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECEQQAQ",
+                                "displayed_link":  "https://vallesclima.com › mantenimiento-aires-acondicio...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef0__tMwv1dsbcAujQ6Hg_Cs.png",
+                                "snippet":  "Para ello, es importante contar con profesionales que garanticen un correcto diagnóstico y una reparación y mantenimiento adecuado que no repercuta en ...",
+                                "snippet_highlighted_words":  [
+                                                                  "reparación"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Para ello, es importante contar con profesionales que garanticen un correcto diagnóstico y una reparación y mantenimiento adecuado que no repercuta en ...",
+                                                                         "source_info_link":  "https://vallesclima.com/mantenimiento-del-aire-acondicionado/mantenimiento-aires-acondicionados-terrassa",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef69WTjfu_l9Nz6EqGuDl-JkxIGLjR5T5W0LQaNp0Hl77.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://vallesclima.com/mantenimiento-del-aire-acondicionado/mantenimiento-aires-acondicionados-terrassa\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fvallesclima.com%2Fmantenimiento-del-aire-acondicionado%2Fmantenimiento-aires-acondicionados-terrassa",
+                                "source":  "vallesclima.com"
+                            },
+                            {
+                                "position":  9,
+                                "title":  "Reparación de aire acondicionado en Terrassa | A Tu Aire",
+                                "link":  "https://www.atuairesabadell.com/reparacion-aire-acondicionado-terrassa",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.atuairesabadell.com/reparacion-aire-acondicionado-terrassa\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECEMQAQ",
+                                "displayed_link":  "https://www.atuairesabadell.com › reparacion-aire-acondi...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73KmulefyOgm5VUXVSPpMu15WeDeao.png",
+                                "snippet":  "Ofrecemos instalaciones, reparaciones y mantenimiento de sistemas de calefacción, aire acondicionado, agua caliente y frío industrial. Con años de experiencia ...",
+                                "snippet_highlighted_words":  [
+                                                                  "reparaciones",
+                                                                  "aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Ofrecemos instalaciones, reparaciones y mantenimiento de sistemas de calefacción, aire acondicionado, agua caliente y frío industrial. Con años de experiencia ...",
+                                                                         "source_info_link":  "https://www.atuairesabadell.com/reparacion-aire-acondicionado-terrassa",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef7kwyjPLqu00rRH6ye0oqeDc0EfSE8CkGRfFc6G03SIF.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.atuairesabadell.com/reparacion-aire-acondicionado-terrassa\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.atuairesabadell.com%2Freparacion-aire-acondicionado-terrassa",
+                                "source":  "atuairesabadell.com"
+                            },
+                            {
+                                "position":  10,
+                                "title":  "Empresas de Reparar aire acondicionado en Barcelona ...",
+                                "link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQFnoECEEQAQ",
+                                "displayed_link":  "https://www.habitissimo.es › empresas › barcelona",
+                                "favicon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef0qmOXHP1qJWBL2SZHgZfF4.png",
+                                "snippet":  "Encuentra empresas de reparar aire acondicionado en Barcelona en nuestro directorio: opiniones, fotos y precio medio de reparar aire acondicionado.",
+                                "snippet_highlighted_words":  [
+                                                                  "empresas de reparar aire acondicionado en Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Encuentra empresas de reparar aire acondicionado en Barcelona en nuestro directorio: opiniones, fotos y precio medio de reparar aire acondicionado.",
+                                                                         "source_info_link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/3j_YPJo_mgTLY73Kmulef8ehQE4uocWym4VWhCLgi9T0XgI1IG8ZD2pmOj4zIHow.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.habitissimo.es%2Fempresas%2Freparar-aire-acondicionado%2Fbarcelona",
+                                "source":  "habitissimo"
+                            }
+                        ],
+    "places_sites":  [
+                         {
+                             "position":  1,
+                             "title":  "Reparación de Aire Acondicionado Terrassa",
+                             "link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/terrassa",
+                             "image":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/LJ99tUbYJgedx4SByMtXZrZDceToXSMi7Hyg2aBDKvA.jpeg",
+                             "source":  "Wallapop",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/PotOY1kWSUtZ4ahEwOB4YfOEHPFhFZ2kN_MXlydmlXc.png"
+                         },
+                         {
+                             "position":  2,
+                             "title":  "Las 10 mejores empresas de reparar aire acondicionado en Barcelona",
+                             "link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona",
+                             "image":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/Ttkl2NNfW51uJwhL3MsGA9nGVf15KNJfeoJKw54PtPk.jpeg",
+                             "source":  "habitissimo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/YqKfd82EHjCIwLZlJe6o0km6egDWRlr3ADNaaomrv60.png"
+                         },
+                         {
+                             "position":  3,
+                             "title":  "Reparacion aire acondicionado Instalación de aire acondicionado y calefacción barato en Barcelona Provincia",
+                             "link":  "https://www.milanuncios.com/climatizacion-en-barcelona/reparacion-aire-acondicionado.htm",
+                             "source":  "Milanuncios",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/I8yYJhYKIIbSkzcC_2-oX551GqAXKKTxKTElROhSamU.png"
+                         },
+                         {
+                             "position":  4,
+                             "title":  "Servicio técnico aire acondicionado en Barcelona capital",
+                             "link":  "https://www.paginasamarillas.es/a/servicio-tecnico-aire-acondicionado/barcelona/barcelona/",
+                             "image":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/Mdz47Yw1XGgRSjzYg1KAsdMiR_WmqIo0HLTTxsUQvGw.png",
+                             "source":  "Páginas Amarillas",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/1zmS-lTRDSGLQQmTCWN50SzBqOzRMRJKbYdYQDfhf40.png"
+                         },
+                         {
+                             "position":  5,
+                             "title":  "Encuentra Reparadores Aire Acondicionado en Terrassa",
+                             "link":  "https://prontopro.es/terrassa-reparacion-aire-acondicionado",
+                             "source":  "ProntoPro",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/1EVbT1NBFoebTGKPFwDI4Ux4uN2ewNgQLTOHosJW6Hs.png"
+                         },
+                         {
+                             "position":  6,
+                             "title":  "Las 10 mejores Empresas de Reparación de Aire Acondicionado en Valencia Provincia",
+                             "link":  "https://valencia-provincia.infoisinfo.es/busqueda/reparacion_de_aire_acondicionado",
+                             "source":  "Infoisinfo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1601271332f9f8a94cec/images/HPY66g3G8CmxejALZInAClfl44MZBrQlxua6QVmwqyU.png"
+                         }
+                     ],
+    "filters":  [
+                    {
+                        "name":  "Abierto ahora",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro",
+                                           "q":  "reparación de aire acondicionado abierto ahora"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQxKsJKAB6BAgXEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro"
+                    },
+                    {
+                        "name":  "Mejor valorados",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU",
+                                           "q":  "reparación de aire acondicionado mejor valorados"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQxKsJKAF6BAgZEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU"
+                    },
+                    {
+                        "name":  "Estimaciones online",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc",
+                                           "q":  "reparación de aire acondicionado estimaciones online"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQxKsJKAJ6BAgaEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc"
+                    },
+                    {
+                        "name":  "Auto",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE",
+                                           "q":  "reparación de aire acondicionado de auto"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQxKsJKAN6BAgbEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE"
+                    },
+                    {
+                        "name":  "Barcelona",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv",
+                                           "q":  "Reparación aire acondicionado Barcelona"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQxKsJKAR6BAgYEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv"
+                    },
+                    {
+                        "name":  "Compresores",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg",
+                                           "q":  "Reparación de compresores de AIRE acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQxKsJKAV6BAh2EAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg"
+                    },
+                    {
+                        "name":  "Curso",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk",
+                                           "q":  "Curso de reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQxKsJKAZ6BAh1EAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk"
+                    },
+                    {
+                        "name":  "Instalación",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w",
+                                           "q":  "Instalación y reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Instalaci%C3%B3n+y+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w\u0026sa=X\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQxKsJKAd6BAhzEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=Instalaci%C3%B3n+y+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w"
+                    }
+                ],
+    "pagination":  {
+                       "current":  1,
+                       "next":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=10\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8NMDegQIXRAW",
+                       "other_pages":  {
+                                           "2":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=10\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAE",
+                                           "3":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=20\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAG",
+                                           "4":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=30\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAI",
+                                           "5":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=40\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAK",
+                                           "6":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=50\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAM",
+                                           "7":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=60\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAO",
+                                           "8":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=70\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAQ",
+                                           "9":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=80\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAS",
+                                           "10":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BBYLaoKcDqat5NoP1paPoAE\u0026start=90\u0026sa=N\u0026sstk=AU9db-BpKiPsuhJ3lwjgjsWPih3C1uFFFZGsbzQb59D6aKzKhUXjsKeF4XbBA99jPBePb1vOJbueuinNRnusHBDQC4gJ29TbjBvysQ\u0026ved=2ahUKEwiCrsjF-sKUAxWmFlkFHVbLAxQQ8tMDegQIXRAU"
+                                       }
+                   },
+    "serpapi_pagination":  {
+                               "current":  1,
+                               "next_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "next":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "other_pages":  {
+                                                   "2":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                                                   "3":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=20",
+                                                   "4":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=30",
+                                                   "5":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=40",
+                                                   "6":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=50",
+                                                   "7":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=60",
+                                                   "8":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=70",
+                                                   "9":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=80",
+                                                   "10":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Terrassa%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=90"
+                                               }
+                           }
+}

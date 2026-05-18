@@ -1,0 +1,345 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b1d7fb9fc5f31f23e4b4e",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/0FX_mZc5QBTSEmA8AJGYeA/6a0b1d7fb9fc5f31f23e4b4e.json",
+                            "created_at":  "2026-05-18 14:09:03 UTC",
+                            "processed_at":  "2026-05-18 14:09:03 UTC",
+                            "google_maps_url":  "https://www.google.com/maps/place///data=!4m6!3m5!1s0x12a493b891a70b33:0xa2fb8437592764ae!8m2!3d0!4d0!16s?hl=es\u0026gl=es",
+                            "raw_html_file":  "https://serpapi.com/searches/0FX_mZc5QBTSEmA8AJGYeA/6a0b1d7fb9fc5f31f23e4b4e.html",
+                            "prettify_html_file":  "https://serpapi.com/searches/0FX_mZc5QBTSEmA8AJGYeA/6a0b1d7fb9fc5f31f23e4b4e.prettify",
+                            "total_time_taken":  0.37
+                        },
+    "search_parameters":  {
+                              "engine":  "google_maps",
+                              "place_id":  "ChIJMwunkbiTpBIRrmQnWTeE-6I",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es"
+                          },
+    "place_results":  {
+                          "title":  "Clic Reparación Terrassa",
+                          "place_id":  "ChIJMwunkbiTpBIRrmQnWTeE-6I",
+                          "data_id":  "0x12a493b891a70b33:0xa2fb8437592764ae",
+                          "data_cid":  "11744125826552521902",
+                          "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a493b891a70b33%3A0xa2fb8437592764ae\u0026engine=google_maps_reviews\u0026hl=es",
+                          "photos_link":  "https://serpapi.com/search.json?data_id=0x12a493b891a70b33%3A0xa2fb8437592764ae\u0026engine=google_maps_photos\u0026hl=es",
+                          "gps_coordinates":  {
+                                                  "latitude":  41.5580225,
+                                                  "longitude":  2.0055281
+                                              },
+                          "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJMwunkbiTpBIRrmQnWTeE-6I",
+                          "provider_id":  "/g/11mdv0z5pc",
+                          "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhVRpJ5ssqE3vq2k9Vnj5JEgSllhL5P7qcJjEkaiB0lE80OPr6z6asS8wEJVYQDjZGr-10XgsD1tiBf1JJJU6rvjntj2U0KxvtFayb1qj1EbFBGZMWJzB5HdPhg4NvKK-89VORO7jW_bU5=w1000-h1000-c-n",
+                          "serpapi_thumbnail":  "https://serpapi.com/images/url/6dTJU3icHcTbboIwGADgJ6q0ahGXeCGxupRNUAMebgx0rLV05fB3eHjJXe9tTPwuvv8_5VwDb55n1Ggg61qa8hfKTtTWldYNRP3jyQaQAATePFlvqjlT2bbhFKBlo74dVtPMasqZ3BmjPmgyaQXXrMovITYswHHS-Q8_h11wZTw7bhb6tOoQwQcJC-Iu4TfhnKd-12vr9DDF0a13y_xekFYTVizD1elzzx8hff9KlByv-yhCwTSLt_FE789FSmdXgjFG6rVA9glfNUYc",
+                          "rating_summary":  [
+                                                 {
+                                                     "stars":  1,
+                                                     "amount":  2
+                                                 },
+                                                 {
+                                                     "stars":  2,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  3,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  4,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  5,
+                                                     "amount":  43
+                                                 }
+                                             ],
+                          "rating":  4.8,
+                          "reviews":  45,
+                          "type":  [
+                                       "Servicio de reparación de electrodomésticos",
+                                       "Servicio de reparación de aire acondicionado",
+                                       "Empresa de climatización",
+                                       "Servicio de reparación de neveras",
+                                       "Servicio de reparación de lavadoras y secadoras"
+                                   ],
+                          "type_ids":  [
+                                           "appliance_repair_service",
+                                           "air_conditioning_repair_service",
+                                           "hvac_contractor",
+                                           "refrigerator_repair_service",
+                                           "washer_and_dryer_repair_service"
+                                       ],
+                          "extensions":  [
+                                             {
+                                                 "from_the_business":  [
+                                                                           "Se identifica como de propietarias mujeres"
+                                                                       ]
+                                             },
+                                             {
+                                                 "accessibility":  [
+                                                                       "Aseo adaptado para sillas de ruedas"
+                                                                   ]
+                                             },
+                                             {
+                                                 "offerings":  [
+                                                                   "Servicios de reparación"
+                                                               ]
+                                             },
+                                             {
+                                                 "amenities":  [
+                                                                   "Aseos unisex"
+                                                               ]
+                                             },
+                                             {
+                                                 "crowd":  [
+                                                               "Amigable con la comunidad LGBTQ+",
+                                                               "Espacio seguro para personas transgénero"
+                                                           ]
+                                             },
+                                             {
+                                                 "planning":  [
+                                                                  "Se necesita cita"
+                                                              ]
+                                             },
+                                             {
+                                                 "payments":  [
+                                                                  "Pagos con móvil vía NFC",
+                                                                  "Tarjetas de crédito"
+                                                              ]
+                                             },
+                                             {
+                                                 "parking":  [
+                                                                 "Aparcamiento en la calle de pago"
+                                                             ]
+                                             }
+                                         ],
+                          "unsupported_extensions":  [
+                                                         {
+                                                             "service_options":  [
+                                                                                     "Estimaciones online",
+                                                                                     "Servicios en las instalaciones"
+                                                                                 ]
+                                                         },
+                                                         {
+                                                             "accessibility":  [
+                                                                                   "Asientos adaptados sillas de ruedas",
+                                                                                   "Bucle magnético asistencial"
+                                                                               ]
+                                                         }
+                                                     ],
+                          "service_options":  {
+                                                  "estimaciones_online":  false,
+                                                  "servicios_en_las_instalaciones":  false
+                                              },
+                          "address":  "Carrer de Galileu, 58, 08224 Terrassa, Barcelona",
+                          "website":  "https://clicreparacion.com/terrassa/",
+                          "phone":  "936 94 03 96",
+                          "open_state":  "Abierto · Cierre: 20:00",
+                          "plus_code":  "H254+66 Terrassa",
+                          "hours":  [
+                                        {
+                                            "lunes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "martes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "miércoles":  "8:00–20:00"
+                                        },
+                                        {
+                                            "jueves":  "8:00–20:00"
+                                        },
+                                        {
+                                            "viernes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "sábado":  "9:00–17:00"
+                                        },
+                                        {
+                                            "domingo":  "Cerrado"
+                                        }
+                                    ],
+                          "serpapi_posts_link":  "https://serpapi.com/search.json?data_id=0x12a493b891a70b33%3A0xa2fb8437592764ae\u0026engine=google_maps_posts",
+                          "posts":  [
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipOj3oG_V7rMxVWao23bSRGaj4C-g4Vvn2Y_xzwj=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 03 96",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Terrassa\u0026ludocid=11744125826552521902\u0026lpsid=CIHM0ogKEMPClpvuwP7y8AE\u0026source=sh/x/loc/post\u0026lsig=AB86z5UwVlYowdhsRUzlmG4YusLX",
+                                            "description":  "Guarda este post. 📌\nNo para darle like.\nPara cuando lo necesites. 🥵\nQue va a ser en agosto.\nQue siempre es en agosto. 📅\n🌡️ clicreparacion.com",
+                                            "date":  "4 may 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipP2W9CKkYmGEo7NcCqkvPpuTOYaJrbt0oiN9UOv=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 03 96",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Terrassa\u0026ludocid=11744125826552521902\u0026lpsid=CIHM0ogKENuQ4oSMvLa3Rg\u0026source=sh/x/loc/post\u0026lsig=AB86z5UwVlYowdhsRUzlmG4YusLX",
+                                            "description":  "Tener el Aire Acondicionado roto desde marzo. Llamarnos en agosto.\n\nTodos los años igual. El calor llega, el AC falla y entonces sí, entonces toca llamar.\n\nEste verano no. Revisa tu aire acondicionado antes de que te revise él a ti.\n\n🔧 Mantenimiento preventivo \n\n📍 Barcelona y alrededores\n\n#AireAcondicionado #MantenimientoAC #ClicReparacion #Verano #FrioEnVerano #Barcelona",
+                                            "date":  "20 abr 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipP8QGJF1PTCWVhMh8sLH84nc1D8wleLBa5b6fPy=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 03 96",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Terrassa\u0026ludocid=11744125826552521902\u0026lpsid=CIHM0ogKEK6uzfnr_eyMyQE\u0026source=sh/x/loc/post\u0026lsig=AB86z5UwVlYowdhsRUzlmG4YusLX",
+                                            "description":  "Tu nevera no se rompe cuando está vacía.\nSe rompe cuando está llena. Siempre.\n\nCompra hecha.\nTuppers preparados.\nTodo perfecto…\n\nY de repente deja de enfriar.\n\nEmpiezas a abrir y cerrar la puerta como si así fuese a arreglarse.\nSpoiler: no lo hará.\n\nY mientras decides qué hacer, ya estás perdiendo dinero.\n\n👉 En Clic Reparación no venimos a mirar.\nVenimos a solucionarlo.\n\nDiagnóstico rápido.\nReparación real.\nSin mareos.\n\nPorque una nevera rota no espera.\nY tu comida tampoco.\n\n📞 Llámanos antes de tener que tirar todo.",
+                                            "date":  "24 mar 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipMq5pl_sleaB4ABcyGPPl2e5k2LP9HB0XTuG7M2=h400-no",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Terrassa\u0026ludocid=11744125826552521902\u0026lpsid=CIHM0ogKEO7S4c7Ox43xIw\u0026source=sh/x/loc/post\u0026lsig=AB86z5UwVlYowdhsRUzlmG4YusLX",
+                                            "description":  "Oferta en instalación de aire acondicionado",
+                                            "date":  "16 mar 2026"
+                                        }
+                                    ],
+                          "images":  [
+                                         {
+                                             "title":  "Todas",
+                                             "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhVRpJ5ssqE3vq2k9Vnj5JEgSllhL5P7qcJjEkaiB0lE80OPr6z6asS8wEJVYQDjZGr-10XgsD1tiBf1JJJU6rvjntj2U0KxvtFayb1qj1EbFBGZMWJzB5HdPhg4NvKK-89VORO7jW_bU5=w1000-h1000-c-n",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/6dTJU3icHcTbboIwGADgJ6q0ahGXeCGxupRNUAMebgx0rLV05fB3eHjJXe9tTPwuvv8_5VwDb55n1Ggg61qa8hfKTtTWldYNRP3jyQaQAATePFlvqjlT2bbhFKBlo74dVtPMasqZ3BmjPmgyaQXXrMovITYswHHS-Q8_h11wZTw7bhb6tOoQwQcJC-Iu4TfhnKd-12vr9DDF0a13y_xekFYTVizD1elzzx8hff9KlByv-yhCwTSLt_FE789FSmdXgjFG6rVA9glfNUYc"
+                                         },
+                                         {
+                                             "title":  "Del propietario",
+                                             "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxjQQb2DNo1lVS9XvGrI_GJyirFpOdJN7nb8aBoIztBke6l2P4cOT0DmTFQd_MVROHB5rY1dKEcDXPAmT2JJVU0B7-2sFiwLexRi9aSnJHOICGZImmNy7f2hAp_fqYlmsSbO_0UB87-w8=w1000-h1000-c-n",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/iMTEK3icHcRLUoMwAADQE6WEWIU644KIUKISKJRp3TAlpIDNB0mUtod0722c6Vu8v9_e2tE8Oo7o7xad1p3g34ZPTCvLlV0wLZ1uNIAZYJwgS_NTEJ0_87xBYapdURWr3U88JXVMLsMUjbQlqaca_4B1crX4xB8EypaMljCUZZS39Xu1oWt8P-3d9vWFhbsskCUipNpC7AFkomF-4-fNsDoUiqxp8hx_JFKmF--I-mCsj197IU3R0Bpuse-B2X-aXQgh6G8zoP4B-bZFqA"
+                                         },
+                                         {
+                                             "title":  "Street View y 360°",
+                                             "thumbnail":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lorBYiMsKWiFkTftgnKmAw\u0026cb_client=maps_sv.tactile.gps\u0026w=224\u0026h=298\u0026yaw=98.41529\u0026pitch=0\u0026thumbfov=100",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/uVQvunicHc1LCsIwFADA22Rn0oYKrRBEF26KO0FclTSmycP8aJ6JHsdjeRvBucB8PxYx5R1jGVetsYCuCV7a5U2S1MRonJYJMlXRs9IytE8_Bwlun2SIcBcurscbnPN4hdPjsqAJoz9UouZJOdABhZcpT7lQlArBaWpSJlVw3hEr-NCTt6xi6GnXbvlAEqCyoiH_ZolFtE3zA_6POr0"
+                                         }
+                                     ],
+                          "user_reviews":  {
+                                               "summary":  [
+                                                               {
+                                                                   "snippet":  "\"Todo ha ido correctamente bien, estamos muy contentos, muchas gracias.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjXFIhWT87738yAv-2t-qhlNvRz7SSNtPDtLT-zITZa1Dvjk_sE=s40-k-cc-rp-mo"
+                                                               },
+                                                               {
+                                                                   "snippet":  "\"Me parecieron muy económicos, rápidos y puntuales.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjVKK0oBDsGrQmbq4QX20jflKjgvhD_vR23iS7KLTjSDE5yLDZjd=s40-k-cc-rp-mo"
+                                                               },
+                                                               {
+                                                                   "snippet":  "\"Tan pronto llegó la pieza averiada, fue rápido en venir.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocLBHQUrBw1a7hLu3Nn9gV5nCa4F9X07LWqBq48G_I02F_Y8gQ=s40-k-cc-rp-mo"
+                                                               }
+                                                           ],
+                                               "most_relevant":  [
+                                                                     {
+                                                                         "username":  "Jorge Castro",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "112394674133147816073",
+                                                                         "user_review_count":  389,
+                                                                         "user_photo_count":  443,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjXpRGQKssHUDXM70h0R_D7rM7gSrWcIkWq4EWCZv1lmb4_ypnGQ=s120-c-rp-mo-ba5-br100",
+                                                                         "description":  "Estoy muy satisfecha con la asistencia técnica que recibí para arreglar mi lavadora. Me atendieron el mismo día que contacté y Gabriel, que demostró ser todo un experto, solucionó el problema en mi casa de forma rápida y eficaz. Un servicio excelente en todos los sentidos: atentos, rápidos, profesionales y con un precio justo. Agradezco mucho su atención.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pabE0yMVJOVGsxY2tsakxVOVROblJIVlhWTlVFRRAB!2m1!1s0x0:0xa2fb8437592764ae!3m1!1s2@1:CAIQACodChtycF9oOjZlM21RNTk1ckljLU9TNnRHVXVNUEE%7C%7C?hl=es",
+                                                                         "images":  [
+                                                                                        {
+                                                                                            "thumbnail":  "https://lh3.googleusercontent.com/grass-cs/ANxoTn0x9N0HZ6p3qyMVp71ZsPfw35INNGD9uufKtSOxOdDQW4x-h8JRDdFGotnvS-hnt6mU0Z5vUpoidvN_EDg23pv5os51oFEcn0bvqM7C3Q5gKtzirzdHnG5T9uUJTLPO9WMKVC-t3Adx80gZ=k-no"
+                                                                                        }
+                                                                                    ],
+                                                                         "date":  "Hace 4 meses",
+                                                                         "date_iso8601":  "2026-01-05T07:10:35+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Karelis Brea",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "110951421437481404185",
+                                                                         "user_review_count":  325,
+                                                                         "user_photo_count":  57,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjWhkCx4n0l0FdxsoUIIJu0dt8NQYh3qbStDICjHzeYIo2tyL6Ua=s120-c-rp-mo-ba5-br100",
+                                                                         "description":  "Opté por cambiar mi caldera de gas con ellos, ya que aunque en un inicio quería solamente repararla, tras consultar con Brian concluimos que sería mejor colocar una nueva. Recibí un trato excelente desde el primer momento, la instalación fue sumamente rápida y demostraron un gran nivel de profesionalismo, siempre tomando en cuenta mis sugerencias y necesidades. Además, cuando surgió un inconveniente con una pieza del circuito de los radiadores que habían reemplazado, lo resolvieron en menos de un día. Sin duda, los recomendaría y volveré a contactarles en el futuro.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5T00xZDFVMlpCY1ZORkxYQkpVbUZTZFcxS2RuYxAB!2m1!1s0x0:0xa2fb8437592764ae!3m1!1s2@1:CAIQACodChtycF9oOl9OM1d1U2ZBcVNFLXBJUmFSdW1Kdnc%7C%7C?hl=es",
+                                                                         "images":  [
+                                                                                        {
+                                                                                            "thumbnail":  "https://lh3.googleusercontent.com/grass-cs/ANxoTn0vDVz5DZNd4KkaxZ3Utf_SUlu0ZUAmvjUuP6AfYyx9f6aytYJVrHqJiszNGmXjXgoxpQzSYOOatT5Nhhqj9RWKuWFsl-4KYiga-9WQRuRFdv1w3UloirASVnqaGazewtjYTKx0EH8V_xNp=k-no"
+                                                                                        }
+                                                                                    ],
+                                                                         "date":  "Hace 7 meses",
+                                                                         "date_iso8601":  "2025-10-05T17:19:25+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Xavier Alvarez",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "112065998537766270548",
+                                                                         "user_review_count":  2,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocI-ZRG0OugK8j-nnKdsnAcMmV4kjHi1SmFXbFVyFcYaJQCbCw=s120-c-rp-mo-ba2-br100",
+                                                                         "description":  "Me atendieron bien desde el primer mensaje, sin el típico “ya te llamaremos” que nunca llega. El técnico de aire acondicionado llegó, diagnosticó y me explicó el presupuesto con calma. Al final era un problema de mantenimiento y dejó el equipo como nuevo. También recogió todo y no dejó el salón patas arriba. Para aires acondicionados reparaciones, muy recomendables.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKeWJXbEZTVFJXTkU5WmFFVmlWRFYxUnpOSGNHYxAB!2m1!1s0x0:0xa2fb8437592764ae!3m1!1s2@1:CAIQACodChtycF9oOjJybWlFSTRWNE9ZaEViVDV1RzNHcGc%7C%7C?hl=es",
+                                                                         "date":  "Hace 3 meses",
+                                                                         "date_iso8601":  "2026-02-17T15:00:02+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Pablo rodriguez",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "106059632663361799207",
+                                                                         "user_review_count":  82,
+                                                                         "user_photo_count":  11,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjV7BwxvL0hkn00FuPsoYqZNgoCnCErHipL1Ru7aULEUqMsXaQ0=s120-c-rp-mo-ba3-br100",
+                                                                         "description":  "Se acaba de marchar el tecnico de Clic Reparación, empresa de reparacion de lavadoras cerca de mi muy profesional y rápido, totalmente recomendable su servicio.Se me había estropeado la lavadora . El servicio oficial de la lavadora nos trato fatal , esperando más de una semana y nada.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OdE5FYzVXVzh6Um0xNFZWUnZUMk5YZW5OaE9HYxAB!2m1!1s0x0:0xa2fb8437592764ae!3m1!1s2@1:CAIQACodChtycF9oOmNtNEc5WW8zRm14VVRvT2NXenNhOGc%7C%7C?hl=es",
+                                                                         "images":  [
+                                                                                        {
+                                                                                            "thumbnail":  "https://lh3.googleusercontent.com/grass-cs/ANxoTn1oGrWPwS966AMDr31MWudRH2F_9syxtk9xVTF5C4RloDCDLpivGf_8OgdOPNTEWv43vBvLB0z_JHupHqWF6fxl54-ibF35zrOFATKkIjq9NaSVUqTptrL01yrRZ7e3DI_YvW2ZYCLnPx97=k-no"
+                                                                                        }
+                                                                                    ],
+                                                                         "date":  "Hace 6 meses",
+                                                                         "date_iso8601":  "2025-11-10T17:55:50+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Antoine Moglia",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "110506429202049449074",
+                                                                         "user_review_count":  1,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocLBpeo2V7yXg0ZXk6Hsd7Fy8wcxIPt7sELmcoweFUqKtp-oOA=s120-c-rp-mo-br100",
+                                                                         "description":  "Vivo en Terrassa y tenía problemas constantes con la presión de la caldera. Cada dos por tres se apagaba sola. Contraté una reparacion de calderas con ellos y la diferencia ha sido brutal. Ajustaron la instalación, purgaron radiadores y desde entonces todo va fino. Me ha gustado que explican todo en un lenguaje que se entiende.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsYWRHTjNkM2ROVERVelZUUTVNMUZKT1VOMVVtYxAB!2m1!1s0x0:0xa2fb8437592764ae!3m1!1s2@1:CAIQACodChtycF9oOkladGN3d3dNTDUzVTQ5M1FJOUN1Umc%7C%7C?hl=es",
+                                                                         "date":  "Hace 4 meses",
+                                                                         "date_iso8601":  "2025-12-20T16:13:38+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "José María Mireles",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "107798876104135672435",
+                                                                         "user_review_count":  2,
+                                                                         "user_photo_count":  2,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocIwtH4ce2dEmwy8sufg1liFasUO87CnJTFVlzPrGL_18bcz5Q=s120-c-rp-mo-br100",
+                                                                         "description":  "Gabriel, hizo un trabajo excelente reparando mi lavadora. Fue puntual, muy amable y explio claramente el problema y la solución. La reparación fue rápida y dejaron todo limpio y funcionando perfectamente. ¡Muy profesionales y recomendables!",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSSU5EVjVZMDQwYm1sQmRERnhibHBUVkdNeFZFRRAB!2m1!1s0x0:0xa2fb8437592764ae!3m1!1s2@1:CAIQACodChtycF9oOlRINDV5Y040bmlBdDFxblpTVGMxVEE%7C%7C?hl=es",
+                                                                         "date":  "Hace 6 meses",
+                                                                         "date_iso8601":  "2025-11-06T16:14:44+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Tanguy de Gélis",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "101478611038861651069",
+                                                                         "user_review_count":  3,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocLa60h3-NupO5rggJsA0U-SM5IBajLDqXBRuVQ3uqVpQHjjlA=s120-c-rp-mo-br100",
+                                                                         "description":  "Hemos contado con ellos ya en dos ocasiones, primero por la nevera y más tarde por el lavavajillas. En ambos casos la atención fue rápida y el resultado impecable. Da tranquilidad tener un servicio técnico de confianza en Barcelona para cualquier avería en electrodomésticos.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSWFdHRklMWG8xVm1waWMxRnJNMkZ4YWxSeE1WRRAB!2m1!1s0x0:0xa2fb8437592764ae!3m1!1s2@1:CAIQACodChtycF9oOkRXWGFILXo1Vmpic1FrM2FxalRxMVE%7C%7C?hl=es",
+                                                                         "date":  "Hace 4 meses",
+                                                                         "date_iso8601":  "2025-12-19T18:19:59+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Jeannine LaRue",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "106446238637773992960",
+                                                                         "user_review_count":  2,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocL1gbUADpg3S2-mocDQoggFixFmdUFkJFti_4W2WN9EQ1pV6A=s120-c-rp-mo-br100",
+                                                                         "description":  "Llevo años contando con esta empresa de reparación de calderas: primero en Rubí y ahora también en Terrassa sigo confiando en su trabajo. Esta misma mañana me han instalado una caldera nueva y en pocas horas tenía la casa calentita. Son muy profesionales y responden siempre muy bien, totalmente recomendables.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CVVFqZEhaMUYzV0ZGS09EVTJTbnB5ZEVKd05YYxAB!2m1!1s0x0:0xa2fb8437592764ae!3m1!1s2@1:CAIQACodChtycF9oOnBUQjdHZ1F3WFFKODU2SnpydEJwNXc%7C%7C?hl=es",
+                                                                         "date":  "Hace 5 meses",
+                                                                         "date_iso8601":  "2025-12-02T18:45:47+00:00"
+                                                                     }
+                                                                 ]
+                                           },
+                          "web_results_link":  "https://www.google.com/search?q=local+guide+program\u0026ibp=gwp;0,26,OigKJiIiQ2xpYyBSZXBhcmFjacOzbiBUZXJyYXNzYSBUZXJyYXNzYSgC\u0026pcl=lp",
+                          "serpapi_web_results_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026google_domain=google.com\u0026ibp=gwp%3B0%2C26%2COigKJiIiQ2xpYyBSZXBhcmFjacOzbiBUZXJyYXNzYSBUZXJyYXNzYSgC\u0026q=local+guide+program"
+                      }
+}

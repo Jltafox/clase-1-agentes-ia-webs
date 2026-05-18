@@ -1,0 +1,25 @@
+﻿{
+    "slug":  "clic-rubi",
+    "name":  "Clic Reparación Rubí",
+    "ciudad":  "Rubí",
+    "website":  "https://clicreparacion.com/rubi",
+    "phone":  "936 94 07 84",
+    "address":  "Av. de l\u0027Estatut, 130, 08191 Rubí, Barcelona",
+    "type":  [
+                 "Servicio de reparación de lavadoras y secadoras",
+                 "Servicio de reparación de aire acondicionado",
+                 "Empresa de climatización",
+                 "Servicio de reparación de neveras"
+             ],
+    "rating":  4.8,
+    "reviews":  30,
+    "rating_5star":  28,
+    "rating_1star":  1,
+    "horario_semana":  "8:00–20:00",
+    "horario_sabado":  null,
+    "n_posts":  5,
+    "last_post_date":  "4 may 2026",
+    "n_images":  3,
+    "attributes":  "Se identifica como de propietarias mujeres | Servicios en las instalaciones | Servicios de reparación | Aseos unisex | Amigable con la comunidad LGBTQ+ | Espacio seguro para personas transgénero | Se necesita cita | Pagos con móvil vía NFC | Tarjetas de crédito",
+    "service_options":  "servicios_en_las_instalaciones:True | estimaciones_online:False"
+}

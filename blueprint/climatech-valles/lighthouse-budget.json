@@ -1,0 +1,29 @@
+{
+  "note": "Budget basado en patrones del top 3 del mercado. Sin datos Lighthouse reales de competidores (requiere PSI API key). Valores según estándares Core Web Vitals 2026.",
+  "mobile": {
+    "performance": { "min": 80, "target": 90 },
+    "seo": { "min": 95, "target": 100 },
+    "accessibility": { "min": 90, "target": 95 },
+    "best_practices": { "min": 90, "target": 95 },
+    "core_web_vitals": {
+      "LCP_ms": { "max": 2500, "target": 1800, "note": "Hero estático sin imagen pesada" },
+      "CLS": { "max": 0.1, "target": 0.05, "note": "Sin layout shifts en hero ni FAQ accordion" },
+      "TBT_ms": { "max": 200, "target": 100, "note": "Astro genera 0 JS por defecto" },
+      "FCP_ms": { "max": 1800, "target": 1200 },
+      "INP_ms": { "max": 200, "target": 100 }
+    }
+  },
+  "estrategia_astro": {
+    "framework": "Astro",
+    "rendering": "SSG (Static Site Generation)",
+    "js_strategy": "Zero JS by default — islands solo para formulario de contacto y WhatsApp widget",
+    "images": "astro:assets con format=webp + lazy loading",
+    "fonts": "preload + font-display:swap",
+    "css": "Tailwind CSS purgeado — sin CSS no usado"
+  },
+  "alertas": [
+    "Si LCP > 2500ms en mobile → revisar hero image (usar <Image> de Astro con priority)",
+    "Si CLS > 0.1 → reservar espacio para imágenes con width/height explícitos",
+    "Si TBT > 200ms → mover WhatsApp widget a island con client:idle"
+  ]
+}

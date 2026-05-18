@@ -1,0 +1,35 @@
+﻿[
+    {
+        "name":  "Climagisa (BCN #1)",
+        "https":  false,
+        "title":  "",
+        "h1":  "",
+        "og_image":  "NO",
+        "schema_types":  "",
+        "has_faq":  "NO",
+        "sitemap_count":  0,
+        "robots_ok":  "NO"
+    },
+    {
+        "name":  "Clima Solution (VAL #1)",
+        "https":  true,
+        "title":  "Clima Solution",
+        "h1":  "",
+        "og_image":  "NO",
+        "schema_types":  "",
+        "has_faq":  "NO",
+        "sitemap_count":  0,
+        "robots_ok":  "SI"
+    },
+    {
+        "name":  "NOVAMYR (MAD #1)",
+        "https":  true,
+        "title":  "",
+        "h1":  "",
+        "og_image":  "NO",
+        "schema_types":  "",
+        "has_faq":  "NO",
+        "sitemap_count":  0,
+        "robots_ok":  "NO"
+    }
+]

@@ -1,0 +1,324 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b1d7ef607a95e9633e247",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/CQSpZjLsIOUNMl8RimFa0g/6a0b1d7ef607a95e9633e247.json",
+                            "created_at":  "2026-05-18 14:09:02 UTC",
+                            "processed_at":  "2026-05-18 14:09:02 UTC",
+                            "google_maps_url":  "https://www.google.com/maps/place///data=!4m6!3m5!1s0x12a495460f86e2f3:0x20388c525b587981!8m2!3d0!4d0!16s?hl=es\u0026gl=es",
+                            "raw_html_file":  "https://serpapi.com/searches/CQSpZjLsIOUNMl8RimFa0g/6a0b1d7ef607a95e9633e247.html",
+                            "prettify_html_file":  "https://serpapi.com/searches/CQSpZjLsIOUNMl8RimFa0g/6a0b1d7ef607a95e9633e247.prettify",
+                            "total_time_taken":  0.8
+                        },
+    "search_parameters":  {
+                              "engine":  "google_maps",
+                              "place_id":  "ChIJ8-KGD0aVpBIRgXlYW1KMOCA",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es"
+                          },
+    "place_results":  {
+                          "title":  "Clic Reparación",
+                          "place_id":  "ChIJ8-KGD0aVpBIRgXlYW1KMOCA",
+                          "data_id":  "0x12a495460f86e2f3:0x20388c525b587981",
+                          "data_cid":  "2321759893257222529",
+                          "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a495460f86e2f3%3A0x20388c525b587981\u0026engine=google_maps_reviews\u0026hl=es",
+                          "photos_link":  "https://serpapi.com/search.json?data_id=0x12a495460f86e2f3%3A0x20388c525b587981\u0026engine=google_maps_photos\u0026hl=es",
+                          "gps_coordinates":  {
+                                                  "latitude":  41.5521257,
+                                                  "longitude":  2.0986257999999998
+                                              },
+                          "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJ8-KGD0aVpBIRgXlYW1KMOCA",
+                          "provider_id":  "/g/11mz5hn5vp",
+                          "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPXV32yYpnsJxAJslkPOzDVzGnv6OWFawvYf5bhcXP18UB-zoVAC0XvZyKb50lO3_Rv1C5qMSM3i8eggHP_NIeBALcNrCxaVI9ACCtLENdXH9RIkTHrJBF_fVcRXbi2BC-cyZ0P94T-OQn=w1000-h1000-c-n",
+                          "serpapi_thumbnail":  "https://serpapi.com/images/url/0FCPeHicHcTBboIwAADQL6oUkUVMPJRuCkyhMu2qFyJdLQbWIq0o_OTO-5sle4f3-1NZ25qF4zSVN5Fay0bcjei4VlYoO-H625GtAdwA4yCS7mq0Jox60-HYKpM8UWKammTjKx3Xqn_JPlfnR3-8-GXFGXHnhxCMmiIMWX8a3ksfNplX5L2L_dv2Y-td50LKiBRpLEK04WmHn2caBwhju3lLv1gU5HG9j7okXBUXynNWXqchBnw4QRLM9iDbqeXDhRCC6n8O1B95JEX0",
+                          "rating_summary":  [
+                                                 {
+                                                     "stars":  1,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  2,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  3,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  4,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  5,
+                                                     "amount":  11
+                                                 }
+                                             ],
+                          "rating":  5,
+                          "reviews":  11,
+                          "type":  [
+                                       "Empresa de climatización",
+                                       "Servicio de reparación de aire acondicionado",
+                                       "Servicio de reparación de neveras",
+                                       "Servicio de reparación de lavadoras y secadoras"
+                                   ],
+                          "type_ids":  [
+                                           "hvac_contractor",
+                                           "air_conditioning_repair_service",
+                                           "refrigerator_repair_service",
+                                           "washer_and_dryer_repair_service"
+                                       ],
+                          "extensions":  [
+                                             {
+                                                 "from_the_business":  [
+                                                                           "Se identifica como de propietarias mujeres"
+                                                                       ]
+                                             },
+                                             {
+                                                 "offerings":  [
+                                                                   "Servicios de reparación"
+                                                               ]
+                                             },
+                                             {
+                                                 "amenities":  [
+                                                                   "Aseos unisex"
+                                                               ]
+                                             },
+                                             {
+                                                 "crowd":  [
+                                                               "Amigable con la comunidad LGBTQ+",
+                                                               "Espacio seguro para personas transgénero"
+                                                           ]
+                                             }
+                                         ],
+                          "unsupported_extensions":  [
+                                                         {
+                                                             "service_options":  [
+                                                                                     "Estimaciones online",
+                                                                                     "Servicios en las instalaciones"
+                                                                                 ]
+                                                         },
+                                                         {
+                                                             "accessibility":  [
+                                                                                   "Acceso para sillas de ruedas",
+                                                                                   "Aparcamiento adaptado para sillas de ruedas",
+                                                                                   "Aseo adaptado para sillas de ruedas",
+                                                                                   "Asientos adaptados sillas de ruedas",
+                                                                                   "Bucle magnético asistencial"
+                                                                               ]
+                                                         }
+                                                     ],
+                          "service_options":  {
+                                                  "estimaciones_online":  false,
+                                                  "servicios_en_las_instalaciones":  false
+                                              },
+                          "address":  "Av. de Francesc Macià, 30, 08208 Sabadell, Barcelona",
+                          "website":  "https://clicreparacion.com/sabadell/",
+                          "phone":  "936 94 06 82",
+                          "open_state":  "Abierto · Cierre: 20:00",
+                          "plus_code":  "H32X+VF Sabadell",
+                          "hours":  [
+                                        {
+                                            "lunes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "martes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "miércoles":  "8:00–20:00"
+                                        },
+                                        {
+                                            "jueves":  "8:00–20:00"
+                                        },
+                                        {
+                                            "viernes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "sábado":  "9:00–17:00"
+                                        },
+                                        {
+                                            "domingo":  "9:00–17:00"
+                                        }
+                                    ],
+                          "serpapi_posts_link":  "https://serpapi.com/search.json?data_id=0x12a495460f86e2f3%3A0x20388c525b587981\u0026engine=google_maps_posts",
+                          "posts":  [
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipOoQay7F-Bomz7rj4y2LvL6EkVh8JNRMz42wbjE=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 06 82",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n\u0026ludocid=2321759893257222529\u0026lpsid=CIHM0ogKEPHQptrN_urIUg\u0026source=sh/x/loc/post\u0026lsig=AB86z5UOq4VD4h_NlmLGH0t9j-mc",
+                                            "description":  "Guarda este post. 📌\nNo para darle like.\nPara cuando lo necesites. 🥵\nQue va a ser en agosto.\nQue siempre es en agosto. 📅\n🌡️ clicreparacion.com",
+                                            "date":  "4 may 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipMJfz0qPri0EDFgA9E4RtMhS2wTRqzpbYMDTuKR=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 06 82",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n\u0026ludocid=2321759893257222529\u0026lpsid=CIHM0ogKEPD9l5a3qP3wFw\u0026source=sh/x/loc/post\u0026lsig=AB86z5UOq4VD4h_NlmLGH0t9j-mc",
+                                            "description":  "Tu nevera no se rompe cuando está vacía.\nSe rompe cuando está llena. Siempre.\n\nCompra hecha.\nTuppers preparados.\nTodo perfecto…\n\nY de repente deja de enfriar.\n\nEmpiezas a abrir y cerrar la puerta como si así fuese a arreglarse.\nSpoiler: no lo hará.\n\nY mientras decides qué hacer, ya estás perdiendo dinero.\n\n👉 En Clic Reparación no venimos a mirar.\nVenimos a solucionarlo.\n\nDiagnóstico rápido.\nReparación real.\nSin mareos.\n\nPorque una nevera rota no espera.\nY tu comida tampoco.\n\n📞 Llámanos antes de tener que tirar todo.",
+                                            "date":  "24 mar 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipOhbnuh1g4nJ-0G1XxyHuUXsPIGaU1XEmnZgKWR=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 06 82",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n\u0026ludocid=2321759893257222529\u0026lpsid=CIHM0ogKEN6Ovs63w42TtQE\u0026source=sh/x/loc/post\u0026lsig=AB86z5UOq4VD4h_NlmLGH0t9j-mc",
+                                            "description":  "Oferta en instalación de aire acondicionado",
+                                            "date":  "16 mar 2026"
+                                        }
+                                    ],
+                          "images":  [
+                                         {
+                                             "title":  "Todas",
+                                             "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPXV32yYpnsJxAJslkPOzDVzGnv6OWFawvYf5bhcXP18UB-zoVAC0XvZyKb50lO3_Rv1C5qMSM3i8eggHP_NIeBALcNrCxaVI9ACCtLENdXH9RIkTHrJBF_fVcRXbi2BC-cyZ0P94T-OQn=w1000-h1000-c-n",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/0FCPeHicHcTBboIwAADQL6oUkUVMPJRuCkyhMu2qFyJdLQbWIq0o_OTO-5sle4f3-1NZ25qF4zSVN5Fay0bcjei4VlYoO-H625GtAdwA4yCS7mq0Jox60-HYKpM8UWKammTjKx3Xqn_JPlfnR3-8-GXFGXHnhxCMmiIMWX8a3ksfNplX5L2L_dv2Y-td50LKiBRpLEK04WmHn2caBwhju3lLv1gU5HG9j7okXBUXynNWXqchBnw4QRLM9iDbqeXDhRCC6n8O1B95JEX0"
+                                         },
+                                         {
+                                             "title":  "Interior",
+                                             "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbu4Rs-p83-yQqAykcdCQDnZExTgNl90mq5ThJs_VojydMQZ4YiWrJtVtEqfwSoHr9N8WSBesVHRzT_43TTG9GEU6QHYXowNGtSU4i8TOPbn9ysmeUzg1lHHFvlBhNc9qo7hbA01ra7vuP=w1000-h1000-c-n",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/U4zavnicHcTBToMwAADQL-oogTlq4oE5pFlipaMwt8siXW3nSgu0DNlPevZvTHyH9_ujvO_cYxBoFS2ktVKL0YmBW-OF8Qtu20B2DnAHXJAWhF7TrBnjnQNdEoGZ9ul85ednujHH7JtJohFs-yVTW3eq7dd8fqXH-HDZD1tf-6z_nEqLB0SSfbkWrsa7OzvFEWM5yrPqgeLDu51I7ssqviTsrWgMml0rqrsMNcYvN71WhKPerlSTwnD4WN3G4mkKIYRA_c-B-QPeFUf4"
+                                         },
+                                         {
+                                             "title":  "Del propietario",
+                                             "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGW33i_kIpdKAtfs4FgnPo_wAH08v2TVdusrHWlC7GUWnJ-E8mK4esHwQ1TTzazavGFUloue87bBNVV6tOFmcxqraoFdLnHZdmBSBtugKjlMwnilE_nVsK83jzWToPVkKIIYmHBgQZyhn0y=w1000-h1000-c-n",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/WCoflHicHcTdboIwGADQJ6rUYSZZ4gUsQlk3hQxL5g1hpStKf5CvyOQlvfZtluxcnMe9da6HF89Trb-Q1kolRhADt8YJ4xbcak_2gDgg8MJsl3dhUvr-qerSvqGh-4FVLE1mqykkOLg-FawZYSClel0nh9K8oW2g6UoAmfJlUcz1XF-T-KDsKIL1d7Rj7NntY81_L0Nt4-bdkGOjo8_IjZKe1cdkTmpbGQY08M9zWdiMdTRNvzSJZH68tQbfNtMSY4za_zkyf_1VSQo"
+                                         },
+                                         {
+                                             "title":  "Street View y 360°",
+                                             "thumbnail":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3wntAVers6fdreWOYdCSLQ\u0026cb_client=maps_sv.tactile.gps\u0026w=224\u0026h=298\u0026yaw=81.46058\u0026pitch=0\u0026thumbfov=100",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/yG8IZXicHc3RCsIgFADQv_EtdWuNFUhEr0FEUPQ0nLubgtPLvLn6nD6rvwk6P3C-H0uEaSdEohmAsoMF3Qt8WqHmY4yjB40ucRMnkQtB9jl1QTu_Rx2i69V6CXS4wZzqoZ_hfn70x-vpwkzXGu8gkJo0pjZlTtqQ88BHTGxRZVkxq8ptw956UU3Bq1puGoaOjFWS_ZshZlVI-QPdSTpR"
+                                         }
+                                     ],
+                          "user_reviews":  {
+                                               "summary":  [
+                                                               {
+                                                                   "snippet":  "\"Al final fue un atasco + una pieza barata, y quedó funcionando en el momento.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjW7Qm5eKlPugRyIM7_uv5yr1bkvbDV7JFE44t_zNLyiSdQr_lrDkw=s40-k-cc-rp-mo"
+                                                               },
+                                                               {
+                                                                   "snippet":  "\"Muy agradecidos porque ya veía venir un problema mayor.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjXF2-AbiqmVw0MNEMg5vOF9tCT21I-CqP9J7lj9om4LJ0uvqsup=s40-k-cc-rp-mo"
+                                                               },
+                                                               {
+                                                                   "snippet":  "\"Pudo arreglar el aire acondicionado en el momento y ahora funciona sin cortes.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjV1ZgnsTZk2Kocebxb7ysVX0odmuP7gP7aGYJ_q_47KVu8dEJbw=s40-k-cc-rp-mo"
+                                                               }
+                                                           ],
+                                               "most_relevant":  [
+                                                                     {
+                                                                         "username":  "Iván Pastor",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "116109133774635676723",
+                                                                         "user_review_count":  315,
+                                                                         "user_photo_count":  13,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjW7Qm5eKlPugRyIM7_uv5yr1bkvbDV7JFE44t_zNLyiSdQr_lrDkw=s120-c-rp-mo-ba5-br100",
+                                                                         "description":  "Busqué en google reparación de lavadoras cerca de mi porque la lavadora dejó de desaguar y ya me veía lavando a mano. Llamé y me dieron cita bastante rápido. El técnico vino a casa, Gabriel,  revisó la bomba y me explicó claro lo que pasaba antes de tocar nada. Al final fue un atasco + una pieza barata, y quedó funcionando en el momento. Muy buen servicio de reparación de lavadoras a domicilio, puntuales y sin historias raras.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxUFZHaFVkM1ZoTnpkMWJtVnFRM04zUzFwTFkzYxAB!2m1!1s0x0:0x20388c525b587981!3m1!1s2@1:CAIQACodChtycF9oOi1PVGhUd3VhNzd1bmVqQ3N3S1pLY3c%7C%7C?hl=es",
+                                                                         "images":  [
+                                                                                        {
+                                                                                            "thumbnail":  "https://lh3.googleusercontent.com/grass-cs/ANxoTn09CapslRLx54WPRLgHuJ7_bIns1suDEhC737NykxOhaM1No2L4uza8tmm6Jnfz0WlWOnr4PbQJHN9HZ23vPnfO0TV8wygVbSBVtQ7Z4UZmVJLikQP4WhlppV_s6AB_kg7LwrYCFN-6z3E=k-no"
+                                                                                        }
+                                                                                    ],
+                                                                         "date":  "Hace 3 meses",
+                                                                         "date_iso8601":  "2026-02-08T23:01:10+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Debora Zimerman",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "109968180022238345381",
+                                                                         "user_review_count":  29,
+                                                                         "user_photo_count":  3,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocJaDUllumdt3wy1cm239WEAR3RvJFXQ2Fnd82lNLzbxzUoxvOg=s120-c-rp-mo-ba2-br100",
+                                                                         "description":  "La nevera del local empezó a fallar justo antes del servicio. Imaginaos el estrés. Busqué reparación de neveras cerca de mi porque necesitaba una solución inmediata. Vinieron, revisaron todo y no se fueron hasta comprobar que enfriaba como debía. Tuvieron que cambiar una pieza importante y se aseguraron de que quedara estable antes de marcharse. Gracias a ellos no perdí la comida. Muy buena experiencia con la reparacion nevera.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pRNWJFRnFRV3hxUzNKS2QxSm5OR05sVTBNM01IYxAB!2m1!1s0x0:0x20388c525b587981!3m1!1s2@1:CAIQACodChtycF9oOjQ5bEFqQWxqS3JKd1JnNGNlU0M3MHc%7C%7C?hl=es",
+                                                                         "images":  [
+                                                                                        {
+                                                                                            "thumbnail":  "https://lh3.googleusercontent.com/grass-cs/ANxoTn3ER3TUxylccbIgddSkQNElxGEMboDHU-Y9CfGnlFesfBkxDm-JmTujjMvlkAE6SMsZ1exi3IxlR-YY9_LAyCnn7UBo9gk_7ooy9D3_7QmJkBtcFXvGZaW4McXlbbI4AtVm49XS59JNojds=k-no"
+                                                                                        }
+                                                                                    ],
+                                                                         "date":  "Hace 2 meses",
+                                                                         "date_iso8601":  "2026-03-02T19:43:10+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Paul Cabrera",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "101752106668131938085",
+                                                                         "user_review_count":  51,
+                                                                         "user_photo_count":  4,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjXSYwO223j4Galai-_N9yyBFCt4SPy21ddqDMdyGYyxFNqr0lw=s120-c-rp-mo-ba3-br100",
+                                                                         "description":  "El técnico en lavadoras que mandó a mi casa esta empresa de reaparacion de lavavdoras fue en mi caso Gabriel, el cual fue muy profesional y solucionó rápido el problema de la lavadora. Cosa que no habían solucionado anteriormente otros técnicos de otras empresas que habían venido. Quedamos muy contentos con el servicio y no dudaremos en volver a llamar si en otra ocasión lo necesitamos  .",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OWU1YSlRSRlZyWmxscFUwaDFRMjE1VDNSS2FrRRAB!2m1!1s0x0:0x20388c525b587981!3m1!1s2@1:CAIQACodChtycF9oOnNYMXJTRFVrZllpU0h1Q215T3RKakE%7C%7C?hl=es",
+                                                                         "images":  [
+                                                                                        {
+                                                                                            "thumbnail":  "https://lh3.googleusercontent.com/grass-cs/ANxoTn0Y7LHWCOtf5MjkBUK79LbuDmF6rAzn2MSHbeFm1BEowAvY6zN0uN_Yey7wcaY4FfPclY69zPo73jWq3tHvcOKXwDMAygBwtMCcXez2oRHxDPKvYElTSx7ENEyGDL_oF6rNhoA443Jar6JV=k-no"
+                                                                                        }
+                                                                                    ],
+                                                                         "date":  "Hace 3 meses",
+                                                                         "date_iso8601":  "2026-01-27T07:39:11+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Rubén Miramontes",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "118345520230212754264",
+                                                                         "user_review_count":  2,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocI02mCbpxkcYbUJ3xXcDLeLbrlzuh6PDWhmMfhAH96gvqvzmw=s120-c-rp-mo-br100",
+                                                                         "description":  "Se oía un zumbido raro y olía a “esto va a petar”. Pedí reparación de lavadoras a domicilio y los tecnicos en lavadoras dieron con la pieza y lo dejaron solucionado. Menos mal.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xkQlgyZEJRMU5aTmxWQllYSlhNRUp2VDBacmQxRRAB!2m1!1s0x0:0x20388c525b587981!3m1!1s2@1:CAIQACodChtycF9oOldBX2dBQ1NZNlVBYXJXMEJvT0Zrd1E%7C%7C?hl=es",
+                                                                         "date":  "Hace 2 meses",
+                                                                         "date_iso8601":  "2026-02-28T16:41:32+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Eugenio Oliveros",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "112688862904699868431",
+                                                                         "user_review_count":  2,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocI-zrmNqlTsYpg_WGoFs7qF9uwd5eG2WjB2rynVzJvg1I8fig=s120-c-rp-mo-br100",
+                                                                         "description":  "El aire dejó de enfriar justo ahora que empieza el calor y la casa se quedaba igual de caliente… un agobio.\nBusqué una reparación de aire acondicionado cerca de mí y encontré Clic Reparación en Sabadell.\nVinieron rápido y vieron que tenía una fuga de gas.\nPudieron reparar aire acondicionado en el momento y ahora enfría como antes.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OaVZGOUVXVFEzYVRoWmJYbHdTVFZyY25sa1dsRRAB!2m1!1s0x0:0x20388c525b587981!3m1!1s2@1:CAIQACodChtycF9oOmNiVF9EWTQ3aThZbXlwSTVrcnlkWlE%7C%7C?hl=es",
+                                                                         "date":  "Hace una semana",
+                                                                         "date_iso8601":  "2026-05-05T19:22:46+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Fátima",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "104352837421869174225",
+                                                                         "user_review_count":  109,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjV1ZgnsTZk2Kocebxb7ysVX0odmuP7gP7aGYJ_q_47KVu8dEJbw=s120-c-rp-mo-ba4-br100",
+                                                                         "description":  "El aire llevaba meses sin usarse y al encenderlo empezó a hacer un ruido raro y luego se apagaba solo.\nNo sabíamos si era algo grave o no.\nContactamos con Clic Reparación y vino un técnico de aire acondicionado.\nEncontró el problema en una pieza que hacía que se protegiera y se apagara.\nPudo arreglar el aire acondicionado en el momento y ahora funciona sin cortes.\nMuy buen servicio.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGRU1FY3pTbVE0Y0ZaaFpWUmZYelF6YVVoaFdrRRAB!2m1!1s0x0:0x20388c525b587981!3m1!1s2@1:CAIQACodChtycF9oOkFEMEczSmQ4cFZhZVRfXzQzaUhhWkE%7C%7C?hl=es",
+                                                                         "date":  "Hace 2 semanas",
+                                                                         "date_iso8601":  "2026-05-01T18:09:54+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "AFRO RAICES",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "106065138702475497165",
+                                                                         "user_review_count":  2,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocLIIkHlUOJsJWsrXLWVXblKIDMtiIU6w-hrG5oFE9v8a9Aq=s120-c-rp-mo-br100",
+                                                                         "description":  "La lavadora empezó a perder agua por abajo y cada día iba a más.\nContacté con Clic Reparación y vino Gabi como tecnico de lavadoras.\nDetectó la fuga y realizó la reparacion lavadora en la misma visita.\nMuy contento porque ya estaba preocupado por el suelo.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsMGQzZG1Zemc0U0dWelMzaG1YMmt0Y2tsbmJGRRAB!2m1!1s0x0:0x20388c525b587981!3m1!1s2@1:CAIQACodChtycF9oOkl0d3dmYzg4SGVzS3hmX2ktcklnbFE%7C%7C?hl=es",
+                                                                         "date":  "Hace 2 semanas",
+                                                                         "date_iso8601":  "2026-04-28T15:25:53+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Fernando P",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "102727045162931876461",
+                                                                         "user_review_count":  216,
+                                                                         "user_photo_count":  6,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjXF2-AbiqmVw0MNEMg5vOF9tCT21I-CqP9J7lj9om4LJ0uvqsup=s120-c-rp-mo-ba4-br100",
+                                                                         "description":  "El aire llevaba meses sin usarse y al encenderlo empezó a gotear bastante agua dentro del salón, hasta el punto de tener que poner un cubo. Busqué un técnico de aire acondicionado urgente y contacté con Clic Reparación.\nEra un atasco en el desagüe por falta de mantenimiento. La reparacion de aire acondicionado fue limpiarlo bien y en el momento dejó de gotear. Muy agradecidos porque ya veía venir un problema mayor.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25obFlVUTNSMjVCWVRGM1VHSXphREk1ZFc5Sk1rRRAB!2m1!1s0x0:0x20388c525b587981!3m1!1s2@1:CAIQACodChtycF9oOnhlYUQ3R25BYTF3UGIzaDI5dW9JMkE%7C%7C?hl=es",
+                                                                         "date":  "Hace 3 semanas",
+                                                                         "date_iso8601":  "2026-04-23T20:00:20+00:00"
+                                                                     }
+                                                                 ]
+                                           },
+                          "web_results_link":  "https://www.google.com/search?q=local+guide+program\u0026ibp=gwp;0,26,Oh8KHSIZQ2xpYyBSZXBhcmFjacOzbiBTYWJhZGVsbCgC\u0026pcl=lp",
+                          "serpapi_web_results_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026google_domain=google.com\u0026ibp=gwp%3B0%2C26%2COh8KHSIZQ2xpYyBSZXBhcmFjacOzbiBTYWJhZGVsbCgC\u0026q=local+guide+program"
+                      }
+}

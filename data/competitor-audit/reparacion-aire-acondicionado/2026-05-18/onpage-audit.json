@@ -1,0 +1,32 @@
+﻿[
+    {
+        "slug":  "clicreparacion",
+        "title":  "❄️🔥 Reparación de Calderas y A.A en Sabadell",
+        "meta_desc":  "Si tienes problemas con tu aire acondicionado, caldera, nevera, lavadora en Sabadell o alrededores, ",
+        "h1":  "Reparación Electrodomésticos",
+        "og_title":  "SI",
+        "og_image":  "NO",
+        "schema_types":  "ImageObject | WebSite | WebPage | Person | Article",
+        "canonical":  "https://clicreparacion"
+    },
+    {
+        "slug":  "atuairesabadell",
+        "title":  "Aire acondicionado en Sabadell | A Tu Aire",
+        "meta_desc":  "A Tu Aire, aire acondicionado en Sabadell, servicio técnico de instalación, reparación y mantenimien",
+        "h1":  "Aire acondicionado en Sabadell",
+        "og_title":  "SI",
+        "og_image":  "SI",
+        "schema_types":  "HVACBusiness | PostalAddress | GeoCoordinates | City | OpeningHoursSpecification",
+        "canonical":  ""
+    },
+    {
+        "slug":  "homeserve",
+        "title":  "T\u0026#233;cnicos en aire acondicionado | HomeServe",
+        "meta_desc":  "Deja en manos de nuestros t\u0026#233;cnicos profesionales el mantenimiento, reparaci\u0026#243;n o instalaci\u0026",
+        "h1":  "",
+        "og_title":  "SI",
+        "og_image":  "SI",
+        "schema_types":  "WebPage | ListItem | BreadcrumbList | SoftwareApplication | AggregateRating | Offer",
+        "canonical":  "https://www"
+    }
+]

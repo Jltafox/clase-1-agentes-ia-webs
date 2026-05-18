@@ -1,0 +1,25 @@
+﻿{
+    "slug":  "clic-sabadell",
+    "name":  "Clic Reparación",
+    "ciudad":  "Sabadell",
+    "website":  "https://clicreparacion.com/sabadell/",
+    "phone":  "936 94 06 82",
+    "address":  "Av. de Francesc Macià, 30, 08208 Sabadell, Barcelona",
+    "type":  [
+                 "Empresa de climatización",
+                 "Servicio de reparación de aire acondicionado",
+                 "Servicio de reparación de neveras",
+                 "Servicio de reparación de lavadoras y secadoras"
+             ],
+    "rating":  5,
+    "reviews":  11,
+    "rating_5star":  11,
+    "rating_1star":  0,
+    "horario_semana":  "8:00–20:00",
+    "horario_sabado":  null,
+    "n_posts":  3,
+    "last_post_date":  "4 may 2026",
+    "n_images":  4,
+    "attributes":  "Se identifica como de propietarias mujeres | Servicios de reparación | Aseos unisex | Amigable con la comunidad LGBTQ+ | Espacio seguro para personas transgénero",
+    "service_options":  "estimaciones_online:False | servicios_en_las_instalaciones:False"
+}

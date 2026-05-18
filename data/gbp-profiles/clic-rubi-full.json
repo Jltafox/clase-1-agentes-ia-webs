@@ -1,0 +1,949 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b1d80bb40c807dd1b0714",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/9hJ50Stp9WAXSX6MNQn2jg/6a0b1d80bb40c807dd1b0714.json",
+                            "created_at":  "2026-05-18 14:09:04 UTC",
+                            "processed_at":  "2026-05-18 14:09:04 UTC",
+                            "google_maps_url":  "https://www.google.com/maps/place///data=!4m6!3m5!1s0x12a497e408de4b0f:0x89eb7a1c2cffeb28!8m2!3d0!4d0!16s?hl=es\u0026gl=es",
+                            "raw_html_file":  "https://serpapi.com/searches/9hJ50Stp9WAXSX6MNQn2jg/6a0b1d80bb40c807dd1b0714.html",
+                            "prettify_html_file":  "https://serpapi.com/searches/9hJ50Stp9WAXSX6MNQn2jg/6a0b1d80bb40c807dd1b0714.prettify",
+                            "total_time_taken":  2.52
+                        },
+    "search_parameters":  {
+                              "engine":  "google_maps",
+                              "place_id":  "ChIJD0veCOSXpBIRKOv_LBx664k",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es"
+                          },
+    "place_results":  {
+                          "title":  "Clic Reparación Rubí",
+                          "place_id":  "ChIJD0veCOSXpBIRKOv_LBx664k",
+                          "data_id":  "0x12a497e408de4b0f:0x89eb7a1c2cffeb28",
+                          "data_cid":  "9938171264155773736",
+                          "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a497e408de4b0f%3A0x89eb7a1c2cffeb28\u0026engine=google_maps_reviews\u0026hl=es",
+                          "photos_link":  "https://serpapi.com/search.json?data_id=0x12a497e408de4b0f%3A0x89eb7a1c2cffeb28\u0026engine=google_maps_photos\u0026hl=es",
+                          "gps_coordinates":  {
+                                                  "latitude":  41.4952166,
+                                                  "longitude":  2.038631
+                                              },
+                          "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJD0veCOSXpBIRKOv_LBx664k",
+                          "provider_id":  "/g/11mlc3hsp6",
+                          "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGx_YvwiNNPY1UPkfXmlg7cvCgwSM1Iz5MqBXbF5V_xM4zCRi84rTBLKxdUiIbGaXXK81lruzhLWNN7xgIHSMQMgArCuh44glXdu9LV0u5R_5SLIxkxtNCc_tcJWw6pFoFVyh3twN5DemM=w1000-h1000-c-n",
+                          "serpapi_thumbnail":  "https://serpapi.com/images/url/7CxGC3icHcRLjoIwAADQEyEQqb_EBTLBQWmDMmJdEa1MSygUaWsrh3TvbSaZt3ifN1OqlyvX5Ww6oUJQXmlZDUR0qurUhIjWpb10iHSkG2bo0IRbW16epkYou_inrPnFLadz8oyoyaGfjAA-NvgWg6K0MBijY70Ihp9Nurf3U53ctleM9wufD3pk6RmhuaXJdw4PkIZDpFkQUI7vepkWngbHEuRpYhurUERKRXZnM-tjERcvNlUGga-qhWvje57nsP-J0_0Bo8BH2g",
+                          "rating_summary":  [
+                                                 {
+                                                     "stars":  1,
+                                                     "amount":  1
+                                                 },
+                                                 {
+                                                     "stars":  2,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  3,
+                                                     "amount":  0
+                                                 },
+                                                 {
+                                                     "stars":  4,
+                                                     "amount":  1
+                                                 },
+                                                 {
+                                                     "stars":  5,
+                                                     "amount":  28
+                                                 }
+                                             ],
+                          "rating":  4.8,
+                          "reviews":  30,
+                          "type":  [
+                                       "Servicio de reparación de lavadoras y secadoras",
+                                       "Servicio de reparación de aire acondicionado",
+                                       "Empresa de climatización",
+                                       "Servicio de reparación de neveras"
+                                   ],
+                          "type_ids":  [
+                                           "washer_and_dryer_repair_service",
+                                           "air_conditioning_repair_service",
+                                           "hvac_contractor",
+                                           "refrigerator_repair_service"
+                                       ],
+                          "extensions":  [
+                                             {
+                                                 "from_the_business":  [
+                                                                           "Se identifica como de propietarias mujeres"
+                                                                       ]
+                                             },
+                                             {
+                                                 "service_options":  [
+                                                                         "Servicios en las instalaciones"
+                                                                     ]
+                                             },
+                                             {
+                                                 "offerings":  [
+                                                                   "Servicios de reparación"
+                                                               ]
+                                             },
+                                             {
+                                                 "amenities":  [
+                                                                   "Aseos unisex"
+                                                               ]
+                                             },
+                                             {
+                                                 "crowd":  [
+                                                               "Amigable con la comunidad LGBTQ+",
+                                                               "Espacio seguro para personas transgénero"
+                                                           ]
+                                             },
+                                             {
+                                                 "planning":  [
+                                                                  "Se necesita cita"
+                                                              ]
+                                             },
+                                             {
+                                                 "payments":  [
+                                                                  "Pagos con móvil vía NFC",
+                                                                  "Tarjetas de crédito"
+                                                              ]
+                                             }
+                                         ],
+                          "unsupported_extensions":  [
+                                                         {
+                                                             "service_options":  [
+                                                                                     "Estimaciones online"
+                                                                                 ]
+                                                         },
+                                                         {
+                                                             "accessibility":  [
+                                                                                   "Acceso para sillas de ruedas",
+                                                                                   "Aparcamiento adaptado para sillas de ruedas",
+                                                                                   "Aseo adaptado para sillas de ruedas",
+                                                                                   "Asientos adaptados sillas de ruedas",
+                                                                                   "Bucle magnético asistencial"
+                                                                               ]
+                                                         }
+                                                     ],
+                          "service_options":  {
+                                                  "servicios_en_las_instalaciones":  true,
+                                                  "estimaciones_online":  false
+                                              },
+                          "address":  "Av. de l\u0027Estatut, 130, 08191 Rubí, Barcelona",
+                          "located_in":  "Centre Tècnic",
+                          "website":  "https://clicreparacion.com/rubi",
+                          "phone":  "936 94 07 84",
+                          "open_state":  "Abierto · Cierre: 20:00",
+                          "plus_code":  "F2WQ+3F Rubí",
+                          "hours":  [
+                                        {
+                                            "lunes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "martes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "miércoles":  "8:00–20:00"
+                                        },
+                                        {
+                                            "jueves":  "8:00–20:00"
+                                        },
+                                        {
+                                            "viernes":  "8:00–20:00"
+                                        },
+                                        {
+                                            "sábado":  "9:00–17:00"
+                                        },
+                                        {
+                                            "domingo":  "9:00–17:00"
+                                        }
+                                    ],
+                          "serpapi_posts_link":  "https://serpapi.com/search.json?data_id=0x12a497e408de4b0f%3A0x89eb7a1c2cffeb28\u0026engine=google_maps_posts",
+                          "posts":  [
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipOq6LLJ6ZwwTt5TBk9dy-SdxzdmLcfg1PxN9lCy=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 07 84",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Rub%C3%AD\u0026ludocid=9938171264155773736\u0026lpsid=CIHM0ogKEPbSyfr12ZC_-wE\u0026source=sh/x/loc/post\u0026lsig=AB86z5UWDS1CcpiHLpqz6WilrtoO",
+                                            "description":  "Guarda este post. 📌\nNo para darle like.\nPara cuando lo necesites. 🥵\nQue va a ser en agosto.\nQue siempre es en agosto. 📅\n🌡️ clicreparacion.com",
+                                            "date":  "4 may 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipPYSSti-czLtxsFYlLF8aVchEFj5wWafmo8Sf3I=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 07 84",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Rub%C3%AD\u0026ludocid=9938171264155773736\u0026lpsid=CIHM0ogKEIfH9ZvAks_XgwE\u0026source=sh/x/loc/post\u0026lsig=AB86z5UWDS1CcpiHLpqz6WilrtoO",
+                                            "description":  "Tener el Aire Acondicionado roto desde marzo. Llamarnos en agosto.\n\nTodos los años igual. El calor llega, el AC falla y entonces sí, entonces toca llamar.\n\nEste verano no. Revisa tu aire acondicionado antes de que te revise él a ti.\n\n🔧 Mantenimiento preventivo \n\n📍 Barcelona y alrededores\n\n#AireAcondicionado #MantenimientoAC #ClicReparacion #Verano #FrioEnVerano #Barcelona",
+                                            "date":  "20 abr 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipPysHDBUjjKBd4tmLqqo3Q3eP-EhRFAM49PJXnv=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 07 84",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Rub%C3%AD\u0026ludocid=9938171264155773736\u0026lpsid=CIHM0ogKEIXArqey57HRcQ\u0026source=sh/x/loc/post\u0026lsig=AB86z5UWDS1CcpiHLpqz6WilrtoO",
+                                            "description":  "Tu nevera no se rompe cuando está vacía.\nSe rompe cuando está llena. Siempre.\n\nCompra hecha.\nTuppers preparados.\nTodo perfecto…\n\nY de repente deja de enfriar.\n\nEmpiezas a abrir y cerrar la puerta como si así fuese a arreglarse.\nSpoiler: no lo hará.\n\nY mientras decides qué hacer, ya estás perdiendo dinero.\n\n👉 En Clic Reparación no venimos a mirar.\nVenimos a solucionarlo.\n\nDiagnóstico rápido.\nReparación real.\nSin mareos.\n\nPorque una nevera rota no espera.\nY tu comida tampoco.\n\n📞 Llámanos antes de tener que tirar todo.",
+                                            "date":  "24 mar 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipNKSKvaENc-zCaY9QyGngZGKMIv5eGo57Nx_XuJ=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 07 84",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Rub%C3%AD\u0026ludocid=9938171264155773736\u0026lpsid=CIHM0ogKEKmU-9qFxdjTsgE\u0026source=sh/x/loc/post\u0026lsig=AB86z5UWDS1CcpiHLpqz6WilrtoO",
+                                            "description":  "Oferta en instalación de aire acondicionado",
+                                            "date":  "16 mar 2026"
+                                        },
+                                        {
+                                            "media":  "https://lh3.googleusercontent.com/geougc/AF1QipP3mHXcPb8So7bRsEf6_s1eT5uXdbMNu4omdODf=h400-no",
+                                            "cta":  "Llamar ahora",
+                                            "phone":  "936 94 07 84",
+                                            "post_link":  "https://search.google.com/local/posts?q=Clic+Reparaci%C3%B3n+Rub%C3%AD\u0026ludocid=9938171264155773736\u0026lpsid=CIHM0ogKEJ-Q1dSIyYTWwQE\u0026source=sh/x/loc/post\u0026lsig=AB86z5UWDS1CcpiHLpqz6WilrtoO",
+                                            "description":  "Servicio Técnico de Reparación de lavadoras.",
+                                            "date":  "5 dic 2025"
+                                        }
+                                    ],
+                          "images":  [
+                                         {
+                                             "title":  "Todas",
+                                             "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGx_YvwiNNPY1UPkfXmlg7cvCgwSM1Iz5MqBXbF5V_xM4zCRi84rTBLKxdUiIbGaXXK81lruzhLWNN7xgIHSMQMgArCuh44glXdu9LV0u5R_5SLIxkxtNCc_tcJWw6pFoFVyh3twN5DemM=w1000-h1000-c-n",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/7CxGC3icHcRLjoIwAADQEyEQqb_EBTLBQWmDMmJdEa1MSygUaWsrh3TvbSaZt3ifN1OqlyvX5Ww6oUJQXmlZDUR0qurUhIjWpb10iHSkG2bo0IRbW16epkYou_inrPnFLadz8oyoyaGfjAA-NvgWg6K0MBijY70Ihp9Nurf3U53ctleM9wufD3pk6RmhuaXJdw4PkIZDpFkQUI7vepkWngbHEuRpYhurUERKRXZnM-tjERcvNlUGga-qhWvje57nsP-J0_0Bo8BH2g"
+                                         },
+                                         {
+                                             "title":  "Del propietario",
+                                             "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEyjKRKk9h_4ESR8M-cIpV6P-WmuK4t_x86PXioQhU9U2x9XolnzV7JvOhP-Xy55MsnBunEAcVqvZ29IZPNSmsvy4eG6NIg0cI3sHfFusEiUtY6N4_U4FerwNYY5cVJnYU_tY3uEiwHmP4B=w1000-h1000-c-n",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/oasnNHicHcTBboIwGADgJ6owKUyW7IBJVSR2VVNGvXBoKmVCy_xbkL3kznsbk32H7-9XOzfAWxB0Olo01jad8qDu0hqnjFtI2wfNAEgCgiBj9HjLyPxVnIpbqmtMzqfVAcl8KBOGPntfYFc_VgmrWnvUPOXLR1rZzvyUr_vxQzNUzXF8ALP2hmSy_B4vyzS_MHruYZyx2iY0b0KZR7C7bjyQljuRUFxzvFH3iQoRy3JvBK-diDxpp13P8Pp9egnDEOn_JTJPauRHAA"
+                                         },
+                                         {
+                                             "title":  "Street View y 360°",
+                                             "thumbnail":  "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_VAFL8ACCWtbDRMVCYSTSQ\u0026cb_client=maps_sv.tactile.gps\u0026w=224\u0026h=298\u0026yaw=61.86443\u0026pitch=0\u0026thumbfov=100",
+                                             "serpapi_thumbnail":  "https://serpapi.com/images/url/yAEPxXicHc3RCoIwFADQv9lbm5qIBSPE6KkeyjB6krmWuzDdpd1mfU6f1d8EnR84348lwrAWItDDGIpgZoSXcWGBig_eD84ohMC1H0VMBdnn2E8K3AbV5OEmu7ba7cuqri_Ub0-Htr425-bIdN9pB2YiOSoMXYiclCZwhg8Y2CyzLGdWZquSvdUsi5SXRZ4vGQJpKxP2b-4-yjRJfoAVOUs"
+                                         }
+                                     ],
+                          "user_reviews":  {
+                                               "summary":  [
+                                                               {
+                                                                   "snippet":  "\"Dejan claro los precios antes de acudir a la reparación.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocJLyWUxs-k4RGwf0lgHEb3MxhcMRop0Rg-vHezI2LxMYzt5qg=s40-k-cc-rp-mo"
+                                                               },
+                                                               {
+                                                                   "snippet":  "\"Envío video de la avería.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocJoUoelBN4_YJitjk6G5U73B0UXiL86tW5jidmblrFbVT6fxQ=s40-k-cc-rp-mo"
+                                                               },
+                                                               {
+                                                                   "snippet":  "\"Son cuidadosos, detallistas y se preocupan porque todo quede perfecto.\"",
+                                                                   "thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocIZDU1oPVz5ojOYkkfh7mFFiHnlVVgitDe0FTckMONojUBWyA=s40-k-cc-rp-mo"
+                                                               }
+                                                           ],
+                                               "most_relevant":  [
+                                                                     {
+                                                                         "username":  "Sergio Barqueros",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "117751144331879580641",
+                                                                         "user_review_count":  347,
+                                                                         "user_photo_count":  21,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjUnQvQdFHX_RuB3SVJismoTS-gszTyezrngfGdxpN6ELEEw64hA=s120-c-rp-mo-ba5-br100",
+                                                                         "description":  "Le llamé una sábado a las 3 PM porque mi lavadora necesitaba una reparación, cuando todas las empresas de reparación de Rubí ya estaban cerradas y Clic Reparación sí me atendió. Dos horas después, su técnico en lavadoras (Gabi) se comunicó para ver si estaba ya funcionando y decidió darse la vuelta para revisarlo. Excelente atención, muy profesional y agradable. Muy recomendable",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kS1VVeG9PVTgzZFZkcVVFMUhPRU54VDB0SVpWRRAB!2m1!1s0x0:0x89eb7a1c2cffeb28!3m1!1s2@1:CAIQACodChtycF9oOmdKUUxoOU83dVdqUE1HOENxT0tIZVE%7C%7C?hl=es",
+                                                                         "images":  [
+                                                                                        {
+                                                                                            "thumbnail":  "https://lh3.googleusercontent.com/grass-cs/ANxoTn26PBV0J3zh2oWgM4ycoHBiCELJ5nLewe1MLV7yyrkjZVTfje4F6d0xUrl375PmlP-ih-XEqm66N9VS2zEJWKGqia13kYMl0wMA2r1BQ9_4uedQczY9r2qcDEdlr-0LUeujIp5P_a6N46ZR=k-no"
+                                                                                        }
+                                                                                    ],
+                                                                         "date":  "Hace 5 meses",
+                                                                         "date_iso8601":  "2025-12-08T23:02:08+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Emilio Palenzuela",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "104559677510020763167",
+                                                                         "user_review_count":  21,
+                                                                         "user_photo_count":  54,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjVjXcWMHpfew9w046eaLBI5kxzxfdOBw3j1Q3F2lEVI-fGpUoMAow=s120-c-rp-mo-ba3-br100",
+                                                                         "description":  "Servicio excelente. Llamé para reparar la lavadora por fuga de agua y en menos de 1 hora ya estaba en contacto con el técnico.\nYa arreglado y funcionando. Gracias Gabi por tu profesionalidad.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210cU1IWnZabXBSV1hCQlJGVnZNamhUWVZkSE4xRRAB!2m1!1s0x0:0x89eb7a1c2cffeb28!3m1!1s2@1:CAIQACodChtycF9oOmtqMHZvZmpRWXBBRFVvMjhTYVdHN1E%7C%7C?hl=es",
+                                                                         "date":  "Hace 2 meses",
+                                                                         "date_iso8601":  "2026-03-06T17:56:15+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Carlos G",
+                                                                         "rating":  1,
+                                                                         "contributor_id":  "117307195967870295839",
+                                                                         "user_review_count":  1,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocJoUoelBN4_YJitjk6G5U73B0UXiL86tW5jidmblrFbVT6fxQ=s120-c-rp-mo-br100",
+                                                                         "description":  "El lunes 16 de febrero de 2026 llamé para reparar un calentador de butano y expliqué la avería. Hoy es sábado 7 de marzo y seguimos sin calentador. Me dan el teléfono del reparador, Andrés. Envío video de la avería. Me dice que no hay problema que yo haya conectado agua y gas y lo haya colgado en la pared, tampoco que estáé instalado en una cocina con 3 ventilaciones ( mi padre era reparador y lo instaló así con la normativa de ésa época) Me da cita para el  viernes 27 a las 11. Estamos 3 horas esperando. Envío WhatsApps y al final a las 13 h le llamo y a la tercera vez me cuelga.\nEl lunes 2/3 vuelvo a llamar a la oficina. Me dan el teléfono de otro reparador, Raúl, viene a las 16h. Manipula los mandos del aparato un poco violentamente. Dice que huele a gas y que el no tiene carnet para tocar gas. El chaval no tiene la culpa, pero me envían un profesional equivocado, debía ser electricista o fontanero. Muy correcto y educado. Me dice que hablará con un colega que toca gas. No ha estado ni 10 min. No cobra desplazamiento, correcto. A las 17h me dice que he comprado un calentador de gas natural o ciudad. Le envío todas las especificaciones técnicas y como ya sabíamos él y yo, el calentador es de butano. El martes 3 me dice que el colega no toca un calentador que esté abierto. Le doy las gracias y aquí seguimos. El lunes9/3 llamaré a ver si para el 25, tienen 3 semanas, el mismo tiempo que llevamos sin agua caliente, nos arreglan el calentador. No tengo ningún problema en borrar la reseña negativa si me arreglan el problema x unos 60/70 €  máximo ( la pieza que han de cambiar vale 35 y comprobar y aislar la estanqueidad de las juntas, trabajo sin requerimiento de material ). Ah, tengo la lavadora estropeada también, y depende como se comporten tampoco les llamaré a ellos, les deben sobrar los clientes, mi padre en 40 años de servicio no había tratado nunca un cliente así. Plegó en el 98. Como ha cambiado el país en 25 años. Esperamos que arreglen este desaguisado. Gracias.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205RFpWRk9TWFJoZERnNFQzRlVlVlJVZDJRd2RIYxAB!2m1!1s0x0:0x89eb7a1c2cffeb28!3m1!1s2@1:CAIQACodChtycF9oOm9DZVFOSXRhdDg4T3FUeVRUd2QwdHc%7C%7C?hl=es",
+                                                                         "date":  "Hace 2 meses",
+                                                                         "date_iso8601":  "2026-03-07T01:23:19+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Laura Martos",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "118110085626087530374",
+                                                                         "user_review_count":  35,
+                                                                         "user_photo_count":  1,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a-/ALV-UjVYnhqSdjBT7sH6Frqp7fWPqBYMOcdTzkecI69PuK_p2Evv1Qg=s120-c-rp-mo-ba3-br100",
+                                                                         "description":  "Excelente atención por parte de los especialistas en electrodomésticos. Necesitaba reemplazar la goma de mi lavadora y logré comunicarme con ellos vía WhatsApp. Gabriel, el técnico, me proporcionó el coste al instante y organizamos la visita ese mismo día. Llegó a la hora acordada y realizó el trabajo con gran rapidez.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tvd05GWk9lbE5MWjJOS2FFZGxiMkZVU1had1pHYxAB!2m1!1s0x0:0x89eb7a1c2cffeb28!3m1!1s2@1:CAIQACodChtycF9oOkowNFZOelNLZ2NKaEdlb2FUSXZwZGc%7C%7C?hl=es",
+                                                                         "date":  "Hace 4 meses",
+                                                                         "date_iso8601":  "2026-01-03T18:09:26+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "ramon cardo",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "100726149548832278608",
+                                                                         "user_review_count":  3,
+                                                                         "user_photo_count":  1,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocKDkOA4PLj1vrx4JPlvBBXfQw6XDveNU_nndWv3W1l3BVDAcg=s120-c-rp-mo-ba2-br100",
+                                                                         "description":  "Muchas gracias a clic reparación!!! Llamé en plena ola de frío porque nuestro calentador falló y necesitábamos repararlo lo antes posible, y nos solucionaron en menos de 24 horas  a un precio muy razonable.\nSois un 10!!!!",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5cGRHaGpZVnBNV1ZkNVdWUm9OMWh0WVhKTldFRRAB!2m1!1s0x0:0x89eb7a1c2cffeb28!3m1!1s2@1:CAIQACodChtycF9oOk9pdGhjYVpMWVd5WVRoN1htYXJNWEE%7C%7C?hl=es",
+                                                                         "images":  [
+                                                                                        {
+                                                                                            "thumbnail":  "https://lh3.googleusercontent.com/grass-cs/ANxoTn3N0WNoCng26jvKsAC--Elzq-pKNd_VLmzurT8GDnl2siPGmtC9HtIKtD1_BNQt96qnB4fUMHPaelT49uotSDb_0ma1CKJtu_hhIVYPDsTjW8nHm10a5YvfrCMn0ogjJPnEU0Oq-dkX6eWp=k-no"
+                                                                                        }
+                                                                                    ],
+                                                                         "date":  "Hace 5 meses",
+                                                                         "date_iso8601":  "2025-11-27T12:29:53+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Okweji Christian",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "100320714435744791932",
+                                                                         "user_review_count":  2,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocIoB8PN8hB-AdeSLOVBAvGpkqCd4FuoTt8_irBRlNeo6LmX=s120-c-rp-mo-br100",
+                                                                         "description":  "Mi refrigerador no enfriaba y me asignaron un especialista en refrigeración. El diagnóstico fue rápido y directo. Una experiencia muy buena; se nota que están muy bien organizados. Definitivamente lo recomiendo al 100%.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25BMVNGOVViVUpIUW5rd2RtTkZka1p0V0VKRVdFRRAB!2m1!1s0x0:0x89eb7a1c2cffeb28!3m1!1s2@1:CAIQACodChtycF9oOnA1SF9UbUJHQnkwdmNFdkZtWEJEWEE%7C%7C?hl=es",
+                                                                         "date":  "Hace 3 meses",
+                                                                         "date_iso8601":  "2026-01-30T18:09:09+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Alex Valiente",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "102455224226179332539",
+                                                                         "user_review_count":  35,
+                                                                         "user_photo_count":  3,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocJgfSGeUof2yTwo_LNDQStOJCECoX5cIu3h2dIyU_mpCR9gsg=s120-c-rp-mo-ba3-br100",
+                                                                         "description":  "He solicitado el servicio de reparación de una lavadora cerca de mi marca AEG. He llamado a clic reparación y se han puesto en contacto conmigo enseguida. Gabriel el técnico de lavadoras ha hecho un trabajo excelente. Ha sido muy eficaz y profesional. Lo recomiendo sin duda.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GWFJFUllYM2cxVXpob1JsUk1iaTFHYjE5aFpsRRAB!2m1!1s0x0:0x89eb7a1c2cffeb28!3m1!1s2@1:CAIQACodChtycF9oOnFXRERYX3g1UzhoRlRMbi1Gb19hZlE%7C%7C?hl=es",
+                                                                         "date":  "Hace 5 meses",
+                                                                         "date_iso8601":  "2025-12-06T14:30:50+00:00"
+                                                                     },
+                                                                     {
+                                                                         "username":  "Manuel Moreno Caballero",
+                                                                         "rating":  5,
+                                                                         "contributor_id":  "110738753687889583770",
+                                                                         "user_review_count":  2,
+                                                                         "user_photo_count":  0,
+                                                                         "user_thumbnail":  "https://lh3.googleusercontent.com/a/ACg8ocJivs86yjbmhs5Ulj91WnlMYheX2VqaNyPLZJzdm0Tt9sn1_hk=s120-c-rp-mo-ba2-br100",
+                                                                         "description":  "Muy buena experiencia en Rubí. Llamamos por un problema con el lavavajillas y lo solucionaron rápido. Atención telefónica correcta y técnico eficaz. Repetiría sin dudar.",
+                                                                         "link":  "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Wc2NGVmtZbFY1UjJOQ1NtRkpPRVpmVW1veWVFRRAB!2m1!1s0x0:0x89eb7a1c2cffeb28!3m1!1s2@1:CAIQACodChtycF9oOnVscFVkYlV5R2NCSmFJOEZfUmoyeEE%7C%7C?hl=es",
+                                                                         "date":  "Hace 4 meses",
+                                                                         "date_iso8601":  "2026-01-14T03:50:17+00:00"
+                                                                     }
+                                                                 ]
+                                           },
+                          "popular_times":  {
+                                                "current_day":  "monday",
+                                                "live_hash":  {
+                                                                  "info":  "Ahora: No suele estar muy concurrido"
+                                                              },
+                                                "graph_results":  {
+                                                                      "sunday":  [
+                                                                                     {
+                                                                                         "time":  "6:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "7:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "8:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "9:00",
+                                                                                         "info":  "No suele estar concurrido",
+                                                                                         "busyness_score":  20
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "10:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  46
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "11:00",
+                                                                                         "info":  "Suele estar un poco concurrido",
+                                                                                         "busyness_score":  66
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "12:00",
+                                                                                         "info":  "Hora a la que suele estar más concurrido",
+                                                                                         "busyness_score":  100
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "13:00",
+                                                                                         "info":  "Hora a la que suele estar más concurrido",
+                                                                                         "busyness_score":  86
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "14:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  46
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "15:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  33
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "16:00",
+                                                                                         "info":  "No suele estar concurrido",
+                                                                                         "busyness_score":  20
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "17:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "18:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "19:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "20:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "21:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "22:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "23:00",
+                                                                                         "busyness_score":  0
+                                                                                     }
+                                                                                 ],
+                                                                      "monday":  [
+                                                                                     {
+                                                                                         "time":  "6:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "7:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "8:00",
+                                                                                         "info":  "Suele estar un poco concurrido",
+                                                                                         "busyness_score":  80
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "9:00",
+                                                                                         "info":  "Suele estar un poco concurrido",
+                                                                                         "busyness_score":  60
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "10:00",
+                                                                                         "info":  "Suele estar un poco concurrido",
+                                                                                         "busyness_score":  53
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "11:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  46
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "12:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  46
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "13:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  46
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "14:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  33
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "15:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  26
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "16:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  26,
+                                                                                         "current":  true
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "17:00",
+                                                                                         "info":  "No suele estar concurrido",
+                                                                                         "busyness_score":  20
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "18:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  33
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "19:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  26
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "20:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "21:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "22:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "23:00",
+                                                                                         "busyness_score":  0
+                                                                                     }
+                                                                                 ],
+                                                                      "tuesday":  [
+                                                                                      {
+                                                                                          "time":  "6:00",
+                                                                                          "busyness_score":  0
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "7:00",
+                                                                                          "busyness_score":  0
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "8:00",
+                                                                                          "info":  "Suele estar un poco concurrido",
+                                                                                          "busyness_score":  53
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "9:00",
+                                                                                          "info":  "No suele estar muy concurrido",
+                                                                                          "busyness_score":  40
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "10:00",
+                                                                                          "info":  "No suele estar muy concurrido",
+                                                                                          "busyness_score":  26
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "11:00",
+                                                                                          "info":  "No suele estar muy concurrido",
+                                                                                          "busyness_score":  33
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "12:00",
+                                                                                          "info":  "Suele estar un poco concurrido",
+                                                                                          "busyness_score":  53
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "13:00",
+                                                                                          "info":  "No suele estar muy concurrido",
+                                                                                          "busyness_score":  33
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "14:00",
+                                                                                          "info":  "No suele estar muy concurrido",
+                                                                                          "busyness_score":  26
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "15:00",
+                                                                                          "info":  "No suele estar concurrido",
+                                                                                          "busyness_score":  13
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "16:00",
+                                                                                          "info":  "No suele estar concurrido",
+                                                                                          "busyness_score":  20
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "17:00",
+                                                                                          "info":  "No suele estar concurrido",
+                                                                                          "busyness_score":  20
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "18:00",
+                                                                                          "info":  "No suele estar muy concurrido",
+                                                                                          "busyness_score":  26
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "19:00",
+                                                                                          "info":  "No suele estar muy concurrido",
+                                                                                          "busyness_score":  46
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "20:00",
+                                                                                          "busyness_score":  0
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "21:00",
+                                                                                          "busyness_score":  0
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "22:00",
+                                                                                          "busyness_score":  0
+                                                                                      },
+                                                                                      {
+                                                                                          "time":  "23:00",
+                                                                                          "busyness_score":  0
+                                                                                      }
+                                                                                  ],
+                                                                      "wednesday":  [
+                                                                                        {
+                                                                                            "time":  "6:00",
+                                                                                            "busyness_score":  0
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "7:00",
+                                                                                            "busyness_score":  0
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "8:00",
+                                                                                            "info":  "Suele estar un poco concurrido",
+                                                                                            "busyness_score":  60
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "9:00",
+                                                                                            "info":  "Suele estar un poco concurrido",
+                                                                                            "busyness_score":  73
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "10:00",
+                                                                                            "info":  "Suele estar un poco concurrido",
+                                                                                            "busyness_score":  53
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "11:00",
+                                                                                            "info":  "Suele estar un poco concurrido",
+                                                                                            "busyness_score":  60
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "12:00",
+                                                                                            "info":  "No suele estar muy concurrido",
+                                                                                            "busyness_score":  40
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "13:00",
+                                                                                            "info":  "No suele estar muy concurrido",
+                                                                                            "busyness_score":  46
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "14:00",
+                                                                                            "info":  "Suele estar un poco concurrido",
+                                                                                            "busyness_score":  60
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "15:00",
+                                                                                            "info":  "Suele estar un poco concurrido",
+                                                                                            "busyness_score":  53
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "16:00",
+                                                                                            "info":  "No suele estar muy concurrido",
+                                                                                            "busyness_score":  40
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "17:00",
+                                                                                            "info":  "No suele estar muy concurrido",
+                                                                                            "busyness_score":  33
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "18:00",
+                                                                                            "info":  "No suele estar muy concurrido",
+                                                                                            "busyness_score":  33
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "19:00",
+                                                                                            "info":  "No suele estar muy concurrido",
+                                                                                            "busyness_score":  40
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "20:00",
+                                                                                            "busyness_score":  0
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "21:00",
+                                                                                            "busyness_score":  0
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "22:00",
+                                                                                            "busyness_score":  0
+                                                                                        },
+                                                                                        {
+                                                                                            "time":  "23:00",
+                                                                                            "busyness_score":  0
+                                                                                        }
+                                                                                    ],
+                                                                      "thursday":  [
+                                                                                       {
+                                                                                           "time":  "6:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "7:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "8:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  26
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "9:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  33
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "10:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  40
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "11:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  26
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "12:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  26
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "13:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  40
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "14:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  40
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "15:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  60
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "16:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  40
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "17:00",
+                                                                                           "info":  "No suele estar muy concurrido",
+                                                                                           "busyness_score":  40
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "18:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  53
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "19:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  53
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "20:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "21:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "22:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "23:00",
+                                                                                           "busyness_score":  0
+                                                                                       }
+                                                                                   ],
+                                                                      "friday":  [
+                                                                                     {
+                                                                                         "time":  "6:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "7:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "8:00",
+                                                                                         "info":  "Hora a la que suele estar más concurrido",
+                                                                                         "busyness_score":  86
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "9:00",
+                                                                                         "info":  "Suele estar un poco concurrido",
+                                                                                         "busyness_score":  66
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "10:00",
+                                                                                         "info":  "Suele estar un poco concurrido",
+                                                                                         "busyness_score":  53
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "11:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  33
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "12:00",
+                                                                                         "info":  "No suele estar concurrido",
+                                                                                         "busyness_score":  20
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "13:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  26
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "14:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  46
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "15:00",
+                                                                                         "info":  "Suele estar un poco concurrido",
+                                                                                         "busyness_score":  66
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "16:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  46
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "17:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  40
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "18:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  26
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "19:00",
+                                                                                         "info":  "No suele estar muy concurrido",
+                                                                                         "busyness_score":  46
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "20:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "21:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "22:00",
+                                                                                         "busyness_score":  0
+                                                                                     },
+                                                                                     {
+                                                                                         "time":  "23:00",
+                                                                                         "busyness_score":  0
+                                                                                     }
+                                                                                 ],
+                                                                      "saturday":  [
+                                                                                       {
+                                                                                           "time":  "6:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "7:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "8:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "9:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  53
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "10:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  60
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "11:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  60
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "12:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  53
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "13:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  53
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "14:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  73
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "15:00",
+                                                                                           "info":  "Hora a la que suele estar más concurrido",
+                                                                                           "busyness_score":  86
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "16:00",
+                                                                                           "info":  "Suele estar un poco concurrido",
+                                                                                           "busyness_score":  66
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "17:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "18:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "19:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "20:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "21:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "22:00",
+                                                                                           "busyness_score":  0
+                                                                                       },
+                                                                                       {
+                                                                                           "time":  "23:00",
+                                                                                           "busyness_score":  0
+                                                                                       }
+                                                                                   ]
+                                                                  }
+                                            },
+                          "web_results_link":  "https://www.google.com/search?q=local+guide+program\u0026ibp=gwp;0,26,OiIKICIcQ2xpYyBSZXBhcmFjacOzbiBSdWLDrSBSdWLDrSgC\u0026pcl=lp",
+                          "serpapi_web_results_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026google_domain=google.com\u0026ibp=gwp%3B0%2C26%2COiIKICIcQ2xpYyBSZXBhcmFjacOzbiBSdWLDrSBSdWLDrSgC\u0026q=local+guide+program"
+                      }
+}

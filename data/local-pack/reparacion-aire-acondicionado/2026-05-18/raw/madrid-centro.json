@@ -1,0 +1,700 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b1606b7942f7f4b6b3a4a",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/G1RfplK7q0kQ1sSAVkQGrg/6a0b1606b7942f7f4b6b3a4a.json",
+                            "pixel_position_endpoint":  "https://serpapi.com/searches/G1RfplK7q0kQ1sSAVkQGrg/6a0b1606b7942f7f4b6b3a4a.json_with_pixel_position",
+                            "created_at":  "2026-05-18 13:37:10 UTC",
+                            "processed_at":  "2026-05-18 13:37:10 UTC",
+                            "google_url":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026oq=reparaci%C3%B3n+de+aire+acondicionado\u0026uule=w+CAIQICIgTWFkcmlkLENvbW11bml0eSBvZiBNYWRyaWQsU3BhaW4\u0026hl=es\u0026gl=es\u0026sourceid=chrome\u0026ie=UTF-8",
+                            "raw_html_file":  "https://serpapi.com/searches/G1RfplK7q0kQ1sSAVkQGrg/6a0b1606b7942f7f4b6b3a4a.html",
+                            "total_time_taken":  0.99
+                        },
+    "search_parameters":  {
+                              "engine":  "google",
+                              "q":  "reparación de aire acondicionado",
+                              "location_requested":  "Madrid, Community of Madrid, Spain",
+                              "location_used":  "Madrid,Community of Madrid,Spain",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es",
+                              "device":  "desktop"
+                          },
+    "search_information":  {
+                               "query_displayed":  "reparación de aire acondicionado",
+                               "total_results":  170,
+                               "time_taken_displayed":  0.33,
+                               "organic_results_state":  "Results for exact spelling",
+                               "results_for":  "Madrid"
+                           },
+    "local_map":  {
+                      "image":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/FTXPFUywb3cnpnA5QaKbDA.png",
+                      "gps_coordinates":  {
+                                              "latitude":  40.41480304205038,
+                                              "longitude":  -3.698272705078125
+                                          }
+                  },
+    "local_results":  {
+                          "places":  [
+                                         {
+                                             "position":  1,
+                                             "rating":  5.0,
+                                             "reviews":  28,
+                                             "reviews_original":  "(28)",
+                                             "links":  {
+                                                           "directions":  "https://www.google.com/maps/dir//NOVAMYR+Instalaci%C3%B3n+Aire+Acondicionado+Reparaci%C3%B3n+y+mantenimiento,+C.+de+la+Palma,+8,+28004+Madrid/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x491ba118f6147e8d:0x89593815ce1798f7?sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q48ADegQIHRAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "9897003322426497271",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026ludocid=9897003322426497271\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11yk_sf5lc",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  40.426329,
+                                                                     "longitude":  -3.702127
+                                                                 },
+                                             "title":  "NOVAMYR Instalación Aire Acondicionado Reparación y mantenimiento",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 15 años en activo",
+                                             "address":  "Madrid",
+                                             "phone":  "617 14 43 01",
+                                             "hours":  "Abierto · Cierre: 19:00"
+                                         },
+                                         {
+                                             "position":  2,
+                                             "rating":  4.8,
+                                             "reviews":  20,
+                                             "reviews_original":  "(20)",
+                                             "links":  {
+                                                           "directions":  "https://www.google.com/maps/dir//REPARACI%C3%93N+E+INSTALACI%C3%93N+DE+AIRES+ACONDICIONADOS,+Calle+de+G%C3%A9nova,+28,+28004+Madrid/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd4229a60505305b:0x1c5f6f2090b8d15c?sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q48ADegQIHxAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "2044474941507162460",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026ludocid=2044474941507162460\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11n4wv9nty",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  40.425223,
+                                                                     "longitude":  -3.691916
+                                                                 },
+                                             "title":  "REPARACIÓN E INSTALACIÓN DE AIRES ACONDICIONADOS",
+                                             "type":  "Tienda aire acondicionado",
+                                             "address":  "Madrid",
+                                             "phone":  "643 54 93 01",
+                                             "hours":  "Abierto · Cierre: 19:00"
+                                         },
+                                         {
+                                             "position":  3,
+                                             "rating":  5.0,
+                                             "reviews":  3,
+                                             "reviews_original":  "(3)",
+                                             "description":  "Estimaciones online",
+                                             "links":  {
+                                                           "directions":  "https://www.google.com/maps/dir//SAT+IberiaClima+Reparacion+de+Aire+Acondicionado,+C.+de+San+Eugenio,+28012+Madrid/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd42262a27e88f03:0x5675a61e79b98ee4?sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q48ADegQIHhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "6230068309358382820",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026ludocid=6230068309358382820\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11gfd2jb6h",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  40.411081,
+                                                                     "longitude":  -3.697787
+                                                                 },
+                                             "title":  "SAT IberiaClima Reparacion de Aire Acondicionado",
+                                             "type":  "Empresa de climatización",
+                                             "years_in_business":  "Más de 7 años en activo",
+                                             "address":  "Madrid",
+                                             "phone":  "917 37 10 88",
+                                             "hours":  "Abierto · Cierre: 19:30"
+                                         },
+                                         {
+                                             "position":  4,
+                                             "rating":  5.0,
+                                             "reviews":  29,
+                                             "reviews_original":  "(29)",
+                                             "description":  "Estimaciones online",
+                                             "place_id":  "13658559440577840865",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026ludocid=13658559440577840865\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  40.461631,
+                                                                     "longitude":  -3.736868
+                                                                 },
+                                             "title":  "Contacto: Nazario Ramos Madrid Aire Acondicionado",
+                                             "type":  "Empresa de climatización",
+                                             "years_in_business":  "Más de 25 años en activo",
+                                             "phone":  "615 24 13 28",
+                                             "hours":  "Abierto · Cierre: 20:00"
+                                         },
+                                         {
+                                             "position":  5,
+                                             "rating":  4.8,
+                                             "reviews":  176,
+                                             "reviews_original":  "(176)",
+                                             "description":  "Estimaciones online·Servicios en las instalaciones no disponibles",
+                                             "links":  {
+                                                           "website":  "https://aire-caldera.com/",
+                                                           "directions":  "https://www.google.com/maps/dir//Cambio,+Instalaci%C3%B3n+y+Reparaci%C3%B3n+Calderas+y+Aire+Acondicionado+%7C+Aire-Caldera,+Calle+del+Divino+Vall%C3%A9s,+15,+28045+Madrid/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd4227f9052a511d:0x1db2dd064d2a0df3?sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q48ADegQIQhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "2140015792088550899",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026ludocid=2140015792088550899\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11stzby3dw",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  40.396238,
+                                                                     "longitude":  -3.696895
+                                                                 },
+                                             "title":  "Cambio, Instalación y Reparación Calderas y Aire Acondicionado | Aire-Caldera",
+                                             "type":  "Empresa de climatización",
+                                             "years_in_business":  "Más de 20 años en activo",
+                                             "address":  "Madrid",
+                                             "phone":  "603 56 93 66",
+                                             "hours":  "Abierto · Cierre: 20:00"
+                                         },
+                                         {
+                                             "position":  6,
+                                             "rating":  4.0,
+                                             "reviews":  7,
+                                             "reviews_original":  "(7)",
+                                             "links":  {
+                                                           "directions":  "https://www.google.com/maps/dir//CLIMATEK,+Calle+Mayor,+1,+28013+Madrid/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd42287e4383c01b:0x904c791f29701489?sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q48ADegQIQxAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "10397818814437790857",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026ludocid=10397818814437790857\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11gff825gl",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  40.416355,
+                                                                     "longitude":  -3.70463
+                                                                 },
+                                             "title":  "CLIMATEK",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 7 años en activo",
+                                             "address":  "Madrid",
+                                             "phone":  "628 38 78 72",
+                                             "hours":  "Abierto · Cierre: 19:00"
+                                         }
+                                     ],
+                          "more_locations_link":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026udm=1\u0026lsack=BhYLarXrLdWqw8cP4YOx-AU\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QjGp6BAgmEAE"
+                      },
+    "organic_results":  [
+                            {
+                                "position":  1,
+                                "title":  "Empresas de Reparar aire acondicionado en Madrid ...",
+                                "link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/madrid",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.habitissimo.es/empresas/reparar-aire-acondicionado/madrid\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECCoQAQ",
+                                "displayed_link":  "https://www.habitissimo.es › empresas › madrid",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR3ntXRyc1CWYSovEkmDBKSM.png",
+                                "snippet":  "Encuentra empresas de reparar aire acondicionado en Madrid en nuestro directorio: opiniones, fotos y precio medio de reparar aire acondicionado.",
+                                "snippet_highlighted_words":  [
+                                                                  "empresas de reparar aire acondicionado en Madrid"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Encuentra empresas de reparar aire acondicionado en Madrid en nuestro directorio: opiniones, fotos y precio medio de reparar aire acondicionado.",
+                                                                         "source_info_link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/madrid",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR-_AS5Cx0XevjiRhC4aYMyAIFtDbHymmv-9CSQv5scQY.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.habitissimo.es/empresas/reparar-aire-acondicionado/madrid\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.habitissimo.es%2Fempresas%2Freparar-aire-acondicionado%2Fmadrid",
+                                "source":  "habitissimo"
+                            },
+                            {
+                                "position":  2,
+                                "title":  "Técnicos de aire acondicionado en Madrid capital - HomeServe",
+                                "link":  "https://www.homeserve.es/aire-acondicionado/madrid/madrid",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.homeserve.es/aire-acondicionado/madrid/madrid\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECC8QAQ",
+                                "displayed_link":  "https://www.homeserve.es › Aire Acondicionado › Madrid",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR2RuweA0JAnhc3uGa5SWqJs.png",
+                                "snippet":  "Técnicos en climatización y refrigeración en Madrid para servicios de mantenimiento, reparaciones e instalaciones de aire acondicionado y bombas de calor.",
+                                "snippet_highlighted_words":  [
+                                                                  "Técnicos en climatización y refrigeración en Madrid"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "top":  {
+                                                                 "detected_extensions":  {
+                                                                                             "rating":  4.8,
+                                                                                             "reviews":  2696
+                                                                                         },
+                                                                 "extensions":  [
+                                                                                    "4,8(2.696)",
+                                                                                    "Gratis Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+                                                                                ]
+                                                             }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Técnicos en climatización y refrigeración en Madrid para servicios de mantenimiento, reparaciones e instalaciones de aire acondicionado y bombas de calor.",
+                                                                         "source_info_link":  "https://www.homeserve.es/aire-acondicionado/madrid/madrid",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR_X8U9aNug845Gke2u2_tELgsxaqI1DxMmOCrqWBhrQo.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.homeserve.es/aire-acondicionado/madrid/madrid\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.homeserve.es%2Faire-acondicionado%2Fmadrid%2Fmadrid",
+                                "source":  "homeserve.es"
+                            },
+                            {
+                                "position":  3,
+                                "title":  "Reparación de aire acondicionado en Madrid - Don Clima",
+                                "link":  "https://www.donclima.com/servicios-climatizacion-madrid/aire-acondicionado-reparacion-madrid/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.donclima.com/servicios-climatizacion-madrid/aire-acondicionado-reparacion-madrid/\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECCgQAQ",
+                                "displayed_link":  "https://www.donclima.com › aire-acondicionado-repara...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR6AHXb2PrMmqPoORzHlmMmU.png",
+                                "snippet":  "En don clima llevamos más de 39 años realizando reparación de aire acondicionado en Madrid y alrededores. Nuestros técnicos diagnostican y reparan de forma ...",
+                                "snippet_highlighted_words":  [
+                                                                  "En don clima llevamos más de 39 años realizando reparación de aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "En don clima llevamos más de 39 años realizando reparación de aire acondicionado en Madrid y alrededores. Nuestros técnicos diagnostican y reparan de forma ...",
+                                                                         "source_info_link":  "https://www.donclima.com/servicios-climatizacion-madrid/aire-acondicionado-reparacion-madrid/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR-DRZgk5UVJav1ptIIdDzcEtwuTEcaiBOvt1AZHmReJf.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.donclima.com/servicios-climatizacion-madrid/aire-acondicionado-reparacion-madrid/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.donclima.com%2Fservicios-climatizacion-madrid%2Faire-acondicionado-reparacion-madrid%2F",
+                                "source":  "donclima.com"
+                            },
+                            {
+                                "position":  4,
+                                "title":  "Reparación de aire acondicionado en Madrid al mejor precio",
+                                "link":  "https://arteyclima.es/madrid/reparacion/aire-acondicionado-precio/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://arteyclima.es/madrid/reparacion/aire-acondicionado-precio/\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECC4QAQ",
+                                "displayed_link":  "https://arteyclima.es › madrid › reparacion › aire-acond...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR4B1MlcmK-uG66qYxD8nuic.jpeg",
+                                "date":  "2 jun 2025",
+                                "snippet":  "En Arte y Clima somos especialistas en reparación de todo tipo de equipos de aire acondicionado. Ofrecemos un servicio de calidad, trato ...",
+                                "snippet_highlighted_words":  [
+                                                                  "reparación",
+                                                                  "aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "En Arte y Clima somos especialistas en reparación de todo tipo de equipos de aire acondicionado. Ofrecemos un servicio de calidad, trato ...",
+                                                                         "source_info_link":  "https://arteyclima.es/madrid/reparacion/aire-acondicionado-precio/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VRy8ihEeLQEysgbKWYjTFgtgAg--Ysm9a5fmDpuAS7dQn.jpeg"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://arteyclima.es/madrid/reparacion/aire-acondicionado-precio/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Farteyclima.es%2Fmadrid%2Freparacion%2Faire-acondicionado-precio%2F",
+                                "source":  "Arte y Clima"
+                            },
+                            {
+                                "position":  5,
+                                "title":  "Servicios tecnico aire acondicionado en Madrid",
+                                "link":  "https://www.milanuncios.com/servicios-en-madrid/tecnico-aire-acondicionado.htm",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.milanuncios.com/servicios-en-madrid/tecnico-aire-acondicionado.htm\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECCwQAQ",
+                                "displayed_link":  "https://www.milanuncios.com › Servicios en Madrid",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR3MPMrREu0ZQIsK7sCo-FOc.png",
+                                "snippet":  "Técnico autónomo, profesional y responsable, hago reparaciones de averías y cargas de gas ,reparación de placa electrónica ,equipos de aire acondicionado.",
+                                "snippet_highlighted_words":  [
+                                                                  "reparaciones",
+                                                                  "reparación",
+                                                                  "aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Técnico autónomo, profesional y responsable, hago reparaciones de averías y cargas de gas ,reparación de placa electrónica ,equipos de aire acondicionado.",
+                                                                         "source_info_link":  "https://www.milanuncios.com/servicios-en-madrid/tecnico-aire-acondicionado.htm",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR3n2bj6yKXMIhXTbfqEQjvOSWr_fVDfIFyxjYQip5F1w.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.milanuncios.com/servicios-en-madrid/tecnico-aire-acondicionado.htm\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.milanuncios.com%2Fservicios-en-madrid%2Ftecnico-aire-acondicionado.htm",
+                                "source":  "Milanuncios"
+                            },
+                            {
+                                "position":  6,
+                                "title":  "Sistemas de climatización y aire acondicionado",
+                                "link":  "https://www.tcastillo.es/taller-mecanico-en-madrid/sistema-de-climatizacion-y-aire-acondicionado-madrid/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.tcastillo.es/taller-mecanico-en-madrid/sistema-de-climatizacion-y-aire-acondicionado-madrid/\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECE0QAQ",
+                                "displayed_link":  "https://www.tcastillo.es › taller-mecanico-en-madrid › si...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR1j_UL4ChSiucCKaHuEWanE.png",
+                                "snippet":  "Reparación y sustitución de compresores, condensador, evaporador, filtro deshidratador y válvulas de expansión. Nuestro equipo del Castillo en Madrid, trabaja ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparación"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Reparación y sustitución de compresores, condensador, evaporador, filtro deshidratador y válvulas de expansión. Nuestro equipo del Castillo en Madrid, trabaja ...",
+                                                                         "source_info_link":  "https://www.tcastillo.es/taller-mecanico-en-madrid/sistema-de-climatizacion-y-aire-acondicionado-madrid/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR1eNZtUXSi6TbUQo0GbotiXRwkQv9O_vg1eInbtTsBFC.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.tcastillo.es/taller-mecanico-en-madrid/sistema-de-climatizacion-y-aire-acondicionado-madrid/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.tcastillo.es%2Ftaller-mecanico-en-madrid%2Fsistema-de-climatizacion-y-aire-acondicionado-madrid%2F",
+                                "source":  "Autoradio Castillo"
+                            },
+                            {
+                                "position":  7,
+                                "title":  "▷ Reparación Aire Acondicionado Madrid 🛠️【605 344 ...",
+                                "link":  "https://asmclimatizacion.es/reparacion-aire-acondicionado/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://asmclimatizacion.es/reparacion-aire-acondicionado/\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECFEQAQ",
+                                "displayed_link":  "https://asmclimatizacion.es › reparacion-aire-acondicion...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VRxJJ427FSvvwVMewZ2ysigg.png",
+                                "snippet":  "605 344 667. Trabajamos todas las marcas, modelos y diseños de equipos de aires acondicionados existentes, desde los modelos más antiguos hasta los modelos ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Trabajamos todas las marcas, modelos y diseños de equipos de aires acondicionados existentes"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "top":  {
+                                                                 "detected_extensions":  {
+                                                                                             "rating":  4.2,
+                                                                                             "reviews":  48
+                                                                                         },
+                                                                 "extensions":  [
+                                                                                    "4,2(48)",
+                                                                                    "Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+                                                                                ]
+                                                             }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "605 344 667. Trabajamos todas las marcas, modelos y diseños de equipos de aires acondicionados existentes, desde los modelos más antiguos hasta los modelos ...",
+                                                                         "source_info_link":  "https://asmclimatizacion.es/reparacion-aire-acondicionado/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR0Fihp3OKQPmkILoDyyewDfHRujO6o7HeXnjt3zFzx-u.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://asmclimatizacion.es/reparacion-aire-acondicionado/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fasmclimatizacion.es%2Freparacion-aire-acondicionado%2F",
+                                "source":  "ASM Instalaciones y Servicios"
+                            },
+                            {
+                                "position":  8,
+                                "title":  "Reparación Aire Acondicionado Madrid | 912 277 ...",
+                                "link":  "https://www.tureparacionelectrodomesticosmadrid.com/reparacion-aire-acondicionado-madrid.html",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.tureparacionelectrodomesticosmadrid.com/reparacion-aire-acondicionado-madrid.html\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECCsQAQ",
+                                "displayed_link":  "https://www.tureparacionelectrodomesticosmadrid.com › ...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR1qZ650UJZCTAJPTVmoiXgI.jpeg",
+                                "snippet":  "Llamando a nuestro teléfono directo 912 277 546, por WhatsApp al 648 75 65 99 o bien a traves de nuestro formulario de contacto. ¿Realizan instalaciones de ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Llamando a nuestro teléfono directo 912 277 546"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Llamando a nuestro teléfono directo 912 277 546, por WhatsApp al 648 75 65 99 o bien a traves de nuestro formulario de contacto. ¿Realizan instalaciones de ...",
+                                                                         "source_info_link":  "https://www.tureparacionelectrodomesticosmadrid.com/reparacion-aire-acondicionado-madrid.html",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR_sCEqhE3GzdiTTMeoQFKi-QnTTWq_qNjWM268fQZTTD.jpeg"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.tureparacionelectrodomesticosmadrid.com/reparacion-aire-acondicionado-madrid.html\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.tureparacionelectrodomesticosmadrid.com%2Freparacion-aire-acondicionado-madrid.html",
+                                "source":  "912 277 546"
+                            },
+                            {
+                                "position":  9,
+                                "title":  "Reparación de Aire Acondicionado Madrid en WALLAPOP",
+                                "link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/madrid",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/madrid\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECC0QAQ",
+                                "displayed_link":  "https://es.wallapop.com › ... › de Aire Acondicionado",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR8Ew378SiRsafBIhb8nJth0.png",
+                                "snippet":  "Reparamos toda clase de aire acondicionado. Servicio profesional de reparación de aire acondicionado en Madrid. Realizamos carga de gas, cambio de piezas, ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparamos toda clase de aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Reparamos toda clase de aire acondicionado. Servicio profesional de reparación de aire acondicionado en Madrid. Realizamos carga de gas, cambio de piezas, ...",
+                                                                         "source_info_link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/madrid",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VRx6A_1rlQXm10FhMU8nmtko6XBUEefOSaz7RDemrFyMi.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/madrid\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fes.wallapop.com%2Fservicios%2Freparacion-de-aire-acondicionado%2Fmadrid",
+                                "source":  "Wallapop"
+                            },
+                            {
+                                "position":  10,
+                                "title":  "Reparación de aire acondicionado en Madrid y SAT ...",
+                                "link":  "https://grupolasser.com/servicios/empresa-climatizacion-madrid/reparacion-aire-acondicionado/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://grupolasser.com/servicios/empresa-climatizacion-madrid/reparacion-aire-acondicionado/\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QFnoECCkQAQ",
+                                "displayed_link":  "https://grupolasser.com › Servicios › Climatización",
+                                "favicon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR2G5Ik7lUgDWPx3-bO97dT4.png",
+                                "snippet":  "CONTACTO. Llama al 900 321 111 y comunícanos tu avería para confirmar el aviso. REPARACIÓN. Nuestro experto acudirá a tu hogar, edifico o negocio a realizar un ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Llama al 900 321 111"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "CONTACTO. Llama al 900 321 111 y comunícanos tu avería para confirmar el aviso. REPARACIÓN. Nuestro experto acudirá a tu hogar, edifico o negocio a realizar un ...",
+                                                                         "source_info_link":  "https://grupolasser.com/servicios/empresa-climatizacion-madrid/reparacion-aire-acondicionado/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/VmcYlmVPFme2BxqJaH_VR1Ok2dwMp_im40Y8z-3tK0NX5oZmSXlLNJ0ldozRaA44.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://grupolasser.com/servicios/empresa-climatizacion-madrid/reparacion-aire-acondicionado/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fgrupolasser.com%2Fservicios%2Fempresa-climatizacion-madrid%2Freparacion-aire-acondicionado%2F",
+                                "source":  "grupolasser.com"
+                            }
+                        ],
+    "places_sites":  [
+                         {
+                             "position":  1,
+                             "title":  "Las 10 mejores empresas de reparar aire acondicionado en Madrid",
+                             "link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/madrid",
+                             "image":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/exL4fgjzefjoe8TWra58yePUEIz-7r-ycjKroJFucSE.jpeg",
+                             "source":  "habitissimo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/yXo7Ri2olrVerDol6Ui8UiMRdBaGdH6TtYfYZIlQBpM.png"
+                         },
+                         {
+                             "position":  2,
+                             "title":  "Tecnico aire acondicionado Anuncios de servicios con ofertas y baratos en Madrid Provincia",
+                             "link":  "https://www.milanuncios.com/servicios-en-madrid/tecnico-aire-acondicionado.htm",
+                             "image":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/Sxs8YQZBYDyEwmfQ5EjCldNft1kyDK8dVh3xPzN1d5g.jpeg",
+                             "source":  "Milanuncios",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/9HZgupXlf88CEoDKTDOTDh2wv61zNZt2rL9WqIRE43A.png"
+                         },
+                         {
+                             "position":  3,
+                             "title":  "Reparación de Aire Acondicionado Madrid",
+                             "link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/madrid",
+                             "image":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/P68EJPLJ5kdb584CaZUN2ufIFHn6LqFMGfRle1aUcfY.jpeg",
+                             "source":  "Wallapop",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/SH8wc2EhSi-nswoA884AVWriYdYm4-ysLUB5IsZGLoo.png"
+                         },
+                         {
+                             "position":  4,
+                             "title":  "Arreglo de Aparatos de Aire Acondicionado - Reparación de Electrodomésticos Grandes SAT Madrid, Chamberí",
+                             "link":  "https://www.lomejordelbarrio.com/chamberi/escaparate/1181-arreglo-de-aparatos-de-aire-acondicionado",
+                             "source":  "lomejordelbarrio",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/_SnJwYgvm4nK5-97uR7oYcZo-PzLHuF_7Jk8LhpBuNA.png"
+                         },
+                         {
+                             "position":  5,
+                             "title":  "Reparación de aire acondicionado en Madrid (provincia)",
+                             "link":  "https://www.paginasamarillas.es/a/reparacion-de-aire-acondicionado/madrid/",
+                             "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbI6bwRRf3BGpB5ji-f1TlvvJzjPHAu0\u0026s=0",
+                             "source":  "Páginas Amarillas",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/nVyIO2eUVSC8jMM56kSbHkXAtkf7fUg_BguVDDJP1IM.png"
+                         },
+                         {
+                             "position":  6,
+                             "title":  "Los mejores 40 Reparadores Aire Acondicionado en Valencia",
+                             "link":  "https://prontopro.es/valencia-reparacion-aire-acondicionado",
+                             "source":  "ProntoPro",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/hAwkzj6tgHFPbMi9vgdw47qVkOBXI2VCpIlVAdDBYzQ.png"
+                         },
+                         {
+                             "position":  7,
+                             "title":  "Las 10 mejores Empresas de Reparación de Aire Acondicionado en Madrid",
+                             "link":  "https://madrid.infoisinfo.es/busqueda/reparacion_de_aire_acondicionado",
+                             "source":  "Infoisinfo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/-EPSzmKJtWG82q3snL7XYphCylExAkt8d0tkXdRuZmk.png"
+                         },
+                         {
+                             "position":  8,
+                             "title":  "Servicio técnico aire acondicionado Las Palmas de Gran Canaria, Reparación Instalación",
+                             "link":  "https://peninsula.canarias.uno/servicio-tecnico-aire-acondicionado-las-palmas-de-gran-canaria/",
+                             "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZNNoiXnWhIemKjTa7ZDvXuy9U0tZVqA\u0026s=0",
+                             "source":  "Aire acondicionado",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1606b7942f7f4b6b3a4a/images/iftEp7SzMVzgHrzoy4r59g8vuGwDlfXDgC8QVO5LHI0.png"
+                         }
+                     ],
+    "filters":  [
+                    {
+                        "name":  "Abierto ahora",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro",
+                                           "q":  "reparación de aire acondicionado abierto ahora"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QxKsJKAB6BAgXEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro"
+                    },
+                    {
+                        "name":  "En Madrid",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-wtnP9KNrZwkpJrg7zPaYLQwlrNKpns766qaBK98vizrUptCwAg0NZ6z1zs4mhsrqcDk2dRrCNd9_fz7Nd4QgB8yDxXBa2zeLW7Td8VWwPf9qrxcEc62oYD1moZPQMIDrkVb0NTQWnFV5fJ3KMqKnj0II_Eevz9h4ABX2EBXpNafdgDG6YxbQgDxp1Jvzn-i77d2q-7gE-QJUbQ5UaX3vBBE3WyyjTmF5VHPQ_YswijjnQYIn",
+                                           "q":  "Reparación de aire acondicionado en Madrid"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+de+aire+acondicionado+en+Madrid\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-wtnP9KNrZwkpJrg7zPaYLQwlrNKpns766qaBK98vizrUptCwAg0NZ6z1zs4mhsrqcDk2dRrCNd9_fz7Nd4QgB8yDxXBa2zeLW7Td8VWwPf9qrxcEc62oYD1moZPQMIDrkVb0NTQWnFV5fJ3KMqKnj0II_Eevz9h4ABX2EBXpNafdgDG6YxbQgDxp1Jvzn-i77d2q-7gE-QJUbQ5UaX3vBBE3WyyjTmF5VHPQ_YswijjnQYIn\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QxKsJKAF6BAgbEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Reparaci%C3%B3n+de+aire+acondicionado+en+Madrid\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-wtnP9KNrZwkpJrg7zPaYLQwlrNKpns766qaBK98vizrUptCwAg0NZ6z1zs4mhsrqcDk2dRrCNd9_fz7Nd4QgB8yDxXBa2zeLW7Td8VWwPf9qrxcEc62oYD1moZPQMIDrkVb0NTQWnFV5fJ3KMqKnj0II_Eevz9h4ABX2EBXpNafdgDG6YxbQgDxp1Jvzn-i77d2q-7gE-QJUbQ5UaX3vBBE3WyyjTmF5VHPQ_YswijjnQYIn"
+                    },
+                    {
+                        "name":  "Mejor valorados",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU",
+                                           "q":  "reparación de aire acondicionado mejor valorados"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QxKsJKAJ6BAgaEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU"
+                    },
+                    {
+                        "name":  "Estimaciones online",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc",
+                                           "q":  "reparación de aire acondicionado estimaciones online"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QxKsJKAN6BAgZEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc"
+                    },
+                    {
+                        "name":  "Auto",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE",
+                                           "q":  "reparación de aire acondicionado de auto"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QxKsJKAR6BAgYEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE"
+                    },
+                    {
+                        "name":  "Barcelona",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv",
+                                           "q":  "Reparación aire acondicionado Barcelona"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QxKsJKAV6BAhzEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv"
+                    },
+                    {
+                        "name":  "Compresores",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg",
+                                           "q":  "Reparación de compresores de AIRE acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QxKsJKAZ6BAh1EAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg"
+                    },
+                    {
+                        "name":  "Curso",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk",
+                                           "q":  "Curso de reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8QxKsJKAd6BAh0EAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk"
+                    }
+                ],
+    "related_searches":  [
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación de aire acondicionado en Madrid",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+de+aire+acondicionado+en+Madrid\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q1QJ6BAhGEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Reparaci%C3%B3n+de+aire+acondicionado+en+Madrid"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación aire acondicionado cerca de mi",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+cerca+de+mi\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q1QJ6BAhMEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+cerca+de+mi"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Mantenimiento aire acondicionado Madrid precio",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Mantenimiento+aire+acondicionado+Madrid+precio\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q1QJ6BAhLEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Mantenimiento+aire+acondicionado+Madrid+precio"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación aire acondicionado coche",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+coche\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q1QJ6BAhKEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+coche"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Técnico aire acondicionado Valdemoro",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=T%C3%A9cnico+aire+acondicionado+Valdemoro\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q1QJ6BAhJEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=T%C3%A9cnico+aire+acondicionado+Valdemoro"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Mejores instaladores aire acondicionado Madrid",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Mejores+instaladores+aire+acondicionado+Madrid\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q1QJ6BAhHEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Mejores+instaladores+aire+acondicionado+Madrid"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Revisión aire acondicionado precio",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Revisi%C3%B3n+aire+acondicionado+precio\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q1QJ6BAhIEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Revisi%C3%B3n+aire+acondicionado+precio"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación aire acondicionado Leganés",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+Legan%C3%A9s\u0026sa=X\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q1QJ6BAhFEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+Legan%C3%A9s"
+                             }
+                         ],
+    "pagination":  {
+                       "current":  1,
+                       "next":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=10\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8NMDegQIQRAW",
+                       "other_pages":  {
+                                           "2":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=10\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAE",
+                                           "3":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=20\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAG",
+                                           "4":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=30\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAI",
+                                           "5":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=40\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAK",
+                                           "6":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=50\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAM",
+                                           "7":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=60\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAO",
+                                           "8":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=70\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAQ",
+                                           "9":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=80\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAS",
+                                           "10":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=BhYLarXrLdWqw8cP4YOx-AU\u0026start=90\u0026sa=N\u0026sstk=AU9db-DuZtqbS27LkavWDMxv382KSSkNNZcYsv2vzwRt5M86FUt2txTR9UpQhYDLLwV5-fjbVnhE88CAml8QBCsNnM4L5D5cKb2_Pg\u0026ved=2ahUKEwi1huLG-sKUAxVV1fACHeFBDF8Q8tMDegQIQRAU"
+                                       }
+                   },
+    "serpapi_pagination":  {
+                               "current":  1,
+                               "next_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "next":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "other_pages":  {
+                                                   "2":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                                                   "3":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=20",
+                                                   "4":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=30",
+                                                   "5":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=40",
+                                                   "6":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=50",
+                                                   "7":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=60",
+                                                   "8":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=70",
+                                                   "9":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=80",
+                                                   "10":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Madrid%2C+Community+of+Madrid%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=90"
+                                               }
+                           }
+}

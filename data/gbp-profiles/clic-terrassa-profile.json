@@ -1,0 +1,26 @@
+﻿{
+    "slug":  "clic-terrassa",
+    "name":  "Clic Reparación Terrassa",
+    "ciudad":  "Terrassa",
+    "website":  "https://clicreparacion.com/terrassa/",
+    "phone":  "936 94 03 96",
+    "address":  "Carrer de Galileu, 58, 08224 Terrassa, Barcelona",
+    "type":  [
+                 "Servicio de reparación de electrodomésticos",
+                 "Servicio de reparación de aire acondicionado",
+                 "Empresa de climatización",
+                 "Servicio de reparación de neveras",
+                 "Servicio de reparación de lavadoras y secadoras"
+             ],
+    "rating":  4.8,
+    "reviews":  45,
+    "rating_5star":  43,
+    "rating_1star":  2,
+    "horario_semana":  "8:00–20:00",
+    "horario_sabado":  null,
+    "n_posts":  4,
+    "last_post_date":  "4 may 2026",
+    "n_images":  3,
+    "attributes":  "Se identifica como de propietarias mujeres | Aseo adaptado para sillas de ruedas | Servicios de reparación | Aseos unisex | Amigable con la comunidad LGBTQ+ | Espacio seguro para personas transgénero | Se necesita cita | Pagos con móvil vía NFC | Tarjetas de crédito | Aparcamiento en la calle de pago",
+    "service_options":  "estimaciones_online:False | servicios_en_las_instalaciones:False"
+}

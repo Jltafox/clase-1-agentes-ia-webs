@@ -1,0 +1,72 @@
+# Plan de Internal Linking · ClimaTech Vallès
+# Basado en H8: URLs /servicio-ciudad permiten cobertura multi-ciudad
+
+reglas:
+
+  home_hacia_servicios:
+    descripcion: "Cada servicio pillar enlazado desde Home"
+    links:
+      - origen: /
+        destino: /reparacion-aire-acondicionado/
+        anchor: "Reparación de Aire Acondicionado"
+      - origen: /
+        destino: /instalacion-aire-acondicionado/
+        anchor: "Instalación de Aire Acondicionado"
+      - origen: /
+        destino: /mantenimiento-aire-acondicionado/
+        anchor: "Mantenimiento de Aire Acondicionado"
+      - origen: /
+        destino: /reparacion-caldera/
+        anchor: "Reparación de Calderas"
+
+  home_hacia_ciudades:
+    descripcion: "Ciudad principal enlazada directamente desde Home (señal de relevancia local)"
+    links:
+      - origen: /
+        destino: /reparacion-aire-acondicionado/sabadell/
+        anchor: "Reparación AC en Sabadell"
+      - origen: /
+        destino: /reparacion-aire-acondicionado/terrassa/
+        anchor: "Reparación AC en Terrassa"
+
+  pillar_hacia_ciudades:
+    descripcion: "Cada servicio pillar enlaza a todas sus páginas de ciudad"
+    patron: "/{servicio}/ → /{servicio}/{ciudad}/"
+    ejemplo:
+      - /reparacion-aire-acondicionado/ → /reparacion-aire-acondicionado/sabadell/
+      - /reparacion-aire-acondicionado/ → /reparacion-aire-acondicionado/terrassa/
+      - /reparacion-aire-acondicionado/ → /reparacion-aire-acondicionado/rubi/
+      - /reparacion-aire-acondicionado/ → /reparacion-aire-acondicionado/cerdanyola-del-valles/
+      - /reparacion-aire-acondicionado/ → /reparacion-aire-acondicionado/sant-cugat-del-valles/
+
+  ciudad_hacia_ciudades_vecinas:
+    descripcion: "Bloque 'Zonas próximas' en cada página de ciudad — consolida cobertura geográfica"
+    patron: "/{servicio}/{ciudad}/ → /{servicio}/{ciudad-vecina}/"
+    max_links: 4
+    ejemplo_desde_sabadell:
+      - /reparacion-aire-acondicionado/terrassa/
+      - /reparacion-aire-acondicionado/rubi/
+      - /reparacion-aire-acondicionado/cerdanyola-del-valles/
+      - /reparacion-aire-acondicionado/sant-cugat-del-valles/
+
+  ciudad_hacia_servicios_relacionados:
+    descripcion: "Cross-linking entre servicios en la misma ciudad"
+    patron: "/{servicio-a}/{ciudad}/ → /{servicio-b}/{ciudad}/"
+    ejemplo_desde_reparacion_sabadell:
+      - /mantenimiento-aire-acondicionado/sabadell/
+        anchor: "Mantenimiento de AA en Sabadell"
+      - /instalacion-aire-acondicionado/sabadell/
+        anchor: "Instalación de AA en Sabadell"
+
+  blog_hacia_paginas_servicio:
+    descripcion: "Cada post de blog enlaza a la página de servicio relevante"
+    ejemplo:
+      - post: /blog/cuanto-cuesta-reparar-aire-acondicionado/
+        destino: /reparacion-aire-acondicionado/sabadell/
+        anchor: "reparación de aire acondicionado en Sabadell"
+
+reglas_generales:
+  - max_3_clicks_desde_home: true
+  - anchor_text_descriptivo: true  # nunca "haz clic aquí"
+  - no_links_rotos: true           # validar con landing-qa-runner
+  - dofollow_todo: true            # no nofollow en internal links

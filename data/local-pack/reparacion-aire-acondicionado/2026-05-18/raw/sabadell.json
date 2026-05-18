@@ -1,0 +1,787 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b15faf6d5ee1883d34312",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/w3Wo6hEpxJ9J58oT4L4OfA/6a0b15faf6d5ee1883d34312.json",
+                            "pixel_position_endpoint":  "https://serpapi.com/searches/w3Wo6hEpxJ9J58oT4L4OfA/6a0b15faf6d5ee1883d34312.json_with_pixel_position",
+                            "created_at":  "2026-05-18 13:36:58 UTC",
+                            "processed_at":  "2026-05-18 13:36:58 UTC",
+                            "google_url":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026oq=reparaci%C3%B3n+de+aire+acondicionado\u0026uule=w+CAIQICIYU2FiYWRlbGwsQ2F0YWxvbmlhLFNwYWlu\u0026hl=es\u0026gl=es\u0026sourceid=chrome\u0026ie=UTF-8",
+                            "raw_html_file":  "https://serpapi.com/searches/w3Wo6hEpxJ9J58oT4L4OfA/6a0b15faf6d5ee1883d34312.html",
+                            "total_time_taken":  6.3
+                        },
+    "search_parameters":  {
+                              "engine":  "google",
+                              "q":  "reparación de aire acondicionado",
+                              "location_requested":  "Sabadell, Catalonia, Spain",
+                              "location_used":  "Sabadell,Catalonia,Spain",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es",
+                              "device":  "desktop"
+                          },
+    "search_information":  {
+                               "query_displayed":  "reparación de aire acondicionado",
+                               "total_results":  184,
+                               "time_taken_displayed":  0.51,
+                               "organic_results_state":  "Results for exact spelling",
+                               "results_for":  "Sabadell"
+                           },
+    "local_map":  {
+                      "image":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/-7Z7ruu5BQl_USEmLTWg4w.png",
+                      "gps_coordinates":  {
+                                              "latitude":  41.549571676950194,
+                                              "longitude":  2.105083465576172
+                                          }
+                  },
+    "local_results":  {
+                          "places":  [
+                                         {
+                                             "position":  1,
+                                             "rating":  5.0,
+                                             "reviews":  11,
+                                             "reviews_original":  "(11)",
+                                             "description":  "Servicios en las instalaciones no disponibles",
+                                             "links":  {
+                                                           "website":  "https://clicreparacion.com/sabadell/",
+                                                           "directions":  "https://www.google.com/maps/dir//Clic+Reparaci%C3%B3n,+Av.+de+Francesc+Maci%C3%A0,+30,+08208+Sabadell,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a495460f86e2f3:0x20388c525b587981?sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ48ADegQIHRAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "2321759893257222529",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026ludocid=2321759893257222529\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11mz5hn5vp",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.552126,
+                                                                     "longitude":  2.098626
+                                                                 },
+                                             "title":  "Clic Reparación",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "address":  "Sabadell",
+                                             "phone":  "936 94 06 82",
+                                             "hours":  "Abierto · Cierre: 20:00"
+                                         },
+                                         {
+                                             "position":  2,
+                                             "rating":  5.0,
+                                             "reviews":  8,
+                                             "reviews_original":  "(8)",
+                                             "links":  {
+                                                           "website":  "https://www.clima-bcn.com/",
+                                                           "directions":  "https://www.google.com/maps/dir//Clima+BCN,+Carrer+del+Montseny,+134,+08208+Sabadell,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a49598dc4b4af7:0x7fd6319ba0ec713a?sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ48ADegQIHhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "9211604632322470202",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026ludocid=9211604632322470202\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11lz2r7gr3",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.557064,
+                                                                     "longitude":  2.107987
+                                                                 },
+                                             "title":  "Clima BCN",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 25 años en activo",
+                                             "address":  "Sabadell",
+                                             "phone":  "653 40 34 26",
+                                             "hours":  "Abierto · Cierre: 18:00"
+                                         },
+                                         {
+                                             "position":  3,
+                                             "rating":  4.5,
+                                             "reviews":  32,
+                                             "reviews_original":  "(32)",
+                                             "description":  "Servicios en las instalaciones",
+                                             "links":  {
+                                                           "website":  "https://airconfortvalles.com/es/",
+                                                           "directions":  "https://www.google.com/maps/dir//AIR-CONFORT+VALL%C3%88S,+SL,+Carrer+de+Permanyer,+30,+08205+Sabadell,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a4948d073edd69:0x3726abb242dbf8e5?sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ48ADegQIHxAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "3974052503315282149",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026ludocid=3974052503315282149\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/1tn8npps",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.540988,
+                                                                     "longitude":  2.099269
+                                                                 },
+                                             "title":  "AIR-CONFORT VALLÈS, SL",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 30 años en activo",
+                                             "address":  "Sabadell",
+                                             "phone":  "937 27 42 43",
+                                             "hours":  "Abierto · Cierre: 18:00"
+                                         },
+                                         {
+                                             "position":  4,
+                                             "rating":  4.8,
+                                             "reviews":  47,
+                                             "reviews_original":  "(47)",
+                                             "description":  "Servicios en las instalaciones·Estimaciones online",
+                                             "links":  {
+                                                           "website":  "http://www.clima-45sbd.cat/",
+                                                           "directions":  "https://www.google.com/maps/dir//Clima+45+Sbd+Servicio+Tecnico+Calderas+Intergas,+instaladores+autorizados,+Carrer+de+Sard%C3%A0,+7,+08203+Sabadell,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a4956235f36437:0xf74a53db29b5bdb9?sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ48ADegQILhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "17819147076407508409",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026ludocid=17819147076407508409\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/1tdj7gq5",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.538623,
+                                                                     "longitude":  2.111669
+                                                                 },
+                                             "title":  "Clima 45 Sbd Servicio Tecnico Calderas Intergas, instaladores autorizados",
+                                             "type":  "Contratista",
+                                             "years_in_business":  "Más de 40 años en activo",
+                                             "address":  "Sabadell",
+                                             "phone":  "637 75 84 41",
+                                             "hours":  "Abierto · Cierre: 18:00"
+                                         },
+                                         {
+                                             "position":  5,
+                                             "rating":  5.0,
+                                             "reviews":  7,
+                                             "reviews_original":  "(7)",
+                                             "links":  {
+                                                           "website":  "http://www.surroca.org/",
+                                                           "directions":  "https://www.google.com/maps/dir//Instal%C2%B7lacions+Surroca,+Carrer+de+Vilarr%C3%BAbias,+14,+08202+Sabadell,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a4951d118fa4a7:0x50fd30f16c5f8307?sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ48ADegQIPxAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "5835874505605481223",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026ludocid=5835874505605481223\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/1q5bkzp2h",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.552529,
+                                                                     "longitude":  2.108209
+                                                                 },
+                                             "title":  "Instal·lacions Surroca",
+                                             "type":  "Contratista de aire acondicionado",
+                                             "years_in_business":  "Más de 10 años en activo",
+                                             "address":  "Sabadell",
+                                             "phone":  "937 23 23 15",
+                                             "hours":  "Abierto · Cierre: 19:00"
+                                         },
+                                         {
+                                             "position":  6,
+                                             "rating":  4.6,
+                                             "reviews":  259,
+                                             "reviews_original":  "(259)",
+                                             "description":  "Servicios en las instalaciones·Estimaciones online",
+                                             "links":  {
+                                                           "website":  "http://www.pujolclima.com/",
+                                                           "directions":  "https://www.google.com/maps/dir//Pujol+Clima,+Carrer+Louis+Braille,+19,+08206+Sabadell,+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a494f357c0d681:0xc2e86fc1270c7148?sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ48ADegQIQBAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "14044598313329389896",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026ludocid=14044598313329389896\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/1pp2x8f0j",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.562095,
+                                                                     "longitude":  2.075066
+                                                                 },
+                                             "title":  "Pujol Clima",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 15 años en activo",
+                                             "address":  "Sabadell",
+                                             "phone":  "937 27 24 28",
+                                             "hours":  "Abierto · Cierre: 17:00"
+                                         }
+                                     ],
+                          "more_locations_link":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026udm=1\u0026lsack=_hULapS1ONui5NoPqsv5iAQ\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQjGp6BAglEAE"
+                      },
+    "related_questions":  [
+                              {
+                                  "question":  "¿Cuánto se cobra por arreglar un aire acondicionado?",
+                                  "type":  "featured_snippet",
+                                  "snippet":  "COSTO DE REPARACIÓN DE UN AIRE ACONDICIONADO",
+                                  "table":  [
+                                                [
+                                                    "Tipo de falla",
+                                                    "Precio"
+                                                ],
+                                                [
+                                                    "Fuga de agua",
+                                                    "$250 MXN - $700 MXN"
+                                                ],
+                                                [
+                                                    "Reparación o reemplazo de compresor",
+                                                    "$1,600 - $5,700 MXN"
+                                                ],
+                                                [
+                                                    "Reemplazo de termostato",
+                                                    "$700 MXN - $1,200 MXN"
+                                                ],
+                                                [
+                                                    "Pequeñas fallas (sensores, fusibles, filtros, etc.)",
+                                                    "$250 MXN - $600 MXN"
+                                                ]
+                                            ],
+                                  "formatted":  [
+                                                    {
+                                                        "tipo_de_falla":  "Fuga de agua",
+                                                        "precio":  "$250 MXN - $700 MXN"
+                                                    },
+                                                    {
+                                                        "tipo_de_falla":  "Reparación o reemplazo de compresor",
+                                                        "precio":  "$1,600 - $5,700 MXN"
+                                                    },
+                                                    {
+                                                        "tipo_de_falla":  "Reemplazo de termostato",
+                                                        "precio":  "$700 MXN - $1,200 MXN"
+                                                    },
+                                                    {
+                                                        "tipo_de_falla":  "Pequeñas fallas (sensores, fusibles, filtros, etc.)",
+                                                        "precio":  "$250 MXN - $600 MXN"
+                                                    }
+                                                ],
+                                  "title":  "¿Cuánto cuesta reparar un aire acondicionado? Precios en 2026",
+                                  "link":  "https://www.cronoshare.com.mx/cuanto-cuesta/reparar-aire-acondicionado",
+                                  "displayed_link":  "https://www.cronoshare.com.mx › cuanto-cuesta › repara...",
+                                  "source_logo":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/yuCA0RIip7UY6SA-_Qlz9xhUG-_XnFPtUE4V2YAM7Fw.png",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVVRsYzVSMFIwVTJWYWMweHhORnBUVlVkNVUyRTJSRVZHTVVJdE5IQjFlRGQ2V0RFd1UzRkZTMVZWWkVSUVRYUXlkVXByUTJGQlFXc3hia3h6ZVd4VVlYZzNWMmxsVlVaQlRIRlVTMnB2UlZobmJ6SnRka1EwUmpWd2R4SVhYMmhWVEdGd1V6RlBUblZwTlU1dlVIRnpkalZwUVZFYUlrRktTMHhHYlV4cGRUQnlkM1ZQZEZJek1uRm1hak5TTkY5UFlrVk9TV05HV2xFIiwiZmN2IjoiMyIsImVpIjoiX2hVTGFwUzFPTnVpNU5vUHFzdjVpQVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuME43UWNfIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gc2UgY29icmEgcG9yIGFycmVnbGFyIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6IkdqTmpkY09oYm5SdklITmxJR052WW5KaElIQnZjaUJoY25KbFoyeGhjaUIxYmlCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4IiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19faFVMYXBTMU9OdWk1Tm9QcXN2NWlBUV8zIn0=",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVVRsYzVSMFIwVTJWYWMweHhORnBUVlVkNVUyRTJSRVZHTVVJdE5IQjFlRGQ2V0RFd1UzRkZTMVZWWkVSUVRYUXlkVXByUTJGQlFXc3hia3h6ZVd4VVlYZzNWMmxsVlVaQlRIRlVTMnB2UlZobmJ6SnRka1EwUmpWd2R4SVhYMmhWVEdGd1V6RlBUblZwTlU1dlVIRnpkalZwUVZFYUlrRktTMHhHYlV4cGRUQnlkM1ZQZEZJek1uRm1hak5TTkY5UFlrVk9TV05HV2xFIiwiZmN2IjoiMyIsImVpIjoiX2hVTGFwUzFPTnVpNU5vUHFzdjVpQVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuME43UWNfIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gc2UgY29icmEgcG9yIGFycmVnbGFyIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6IkdqTmpkY09oYm5SdklITmxJR052WW5KaElIQnZjaUJoY25KbFoyeGhjaUIxYmlCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4IiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19faFVMYXBTMU9OdWk1Tm9QcXN2NWlBUV8zIn0%3D"
+                              },
+                              {
+                                  "question":  "¿Cuáles son las fallas más comunes de un aire acondicionado?",
+                                  "type":  "featured_snippet",
+                                  "snippet":  "Entre las averías más frecuentes del aire acondicionado para casa, se encuentran los problemas de refrigeración, pinchaduras, falta de limpieza y recambio de filtros. Estas son solamente algunas de las fallas comunes del aire acondicionado que puedes aprender a reparar de manera sencilla.",
+                                  "title":  "Fallas más comunes del aire acondicionado - Aprende Institute",
+                                  "link":  "https://aprende.com/blog/oficios/aires-acondicionados/fallas-comunes-aire-acondicionado/#:~:text=Entre%20las%20aver%C3%ADas%20m%C3%A1s%20frecuentes,a%20reparar%20de%20manera%20sencilla.",
+                                  "displayed_link":  "https://aprende.com › blog › oficios › fallas-comunes-air...",
+                                  "source_logo":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/yuCA0RIip7UY6SA-_Qlz98aFQ6vXXyru_r0HQJaDkKs.png",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVVRsYzVSMFIwVTJWYWMweHhORnBUVlVkNVUyRTJSRVZHTVVJdE5IQjFlRGQ2V0RFd1UzRkZTMVZWWkVSUVRYUXlkVXByUTJGQlFXc3hia3h6ZVd4VVlYZzNWMmxsVlVaQlRIRlVTMnB2UlZobmJ6SnRka1EwUmpWd2R4SVhYMmhWVEdGd1V6RlBUblZwTlU1dlVIRnpkalZwUVZFYUlrRktTMHhHYlV4cGRUQnlkM1ZQZEZJek1uRm1hak5TTkY5UFlrVk9TV05HV2xFIiwiZmN2IjoiMyIsImVpIjoiX2hVTGFwUzFPTnVpNU5vUHFzdjVpQVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuME43UWNfIiwicXVlc3Rpb24iOiLCv0N1w6FsZXMgc29uIGxhcyBmYWxsYXMgbcOhcyBjb211bmVzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1T3lTUzQ5dkRBbnRWaWhPRDlQSVNleFdDRXRNUWRFNVI1ZVdLeVFuSjlibWdlVVMwbFZLTTFUU013c1NsVklUTTdQUzhsTXpzelBTMHpKQndBIiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19faFVMYXBTMU9OdWk1Tm9QcXN2NWlBUV8zIn0=",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVVRsYzVSMFIwVTJWYWMweHhORnBUVlVkNVUyRTJSRVZHTVVJdE5IQjFlRGQ2V0RFd1UzRkZTMVZWWkVSUVRYUXlkVXByUTJGQlFXc3hia3h6ZVd4VVlYZzNWMmxsVlVaQlRIRlVTMnB2UlZobmJ6SnRka1EwUmpWd2R4SVhYMmhWVEdGd1V6RlBUblZwTlU1dlVIRnpkalZwUVZFYUlrRktTMHhHYlV4cGRUQnlkM1ZQZEZJek1uRm1hak5TTkY5UFlrVk9TV05HV2xFIiwiZmN2IjoiMyIsImVpIjoiX2hVTGFwUzFPTnVpNU5vUHFzdjVpQVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuME43UWNfIiwicXVlc3Rpb24iOiLCv0N1w6FsZXMgc29uIGxhcyBmYWxsYXMgbcOhcyBjb211bmVzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1T3lTUzQ5dkRBbnRWaWhPRDlQSVNleFdDRXRNUWRFNVI1ZVdLeVFuSjlibWdlVVMwbFZLTTFUU013c1NsVklUTTdQUzhsTXpzelBTMHpKQndBIiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19faFVMYXBTMU9OdWk1Tm9QcXN2NWlBUV8zIn0%3D"
+                              },
+                              {
+                                  "question":  "¿Cuántos años dura el gas de un aire acondicionado?",
+                                  "type":  "ai_overview",
+                                  "page_token":  "ExST8XicHdBZbuIwAABQzWX6WXBamAEJVXIxaTPY1HuSn8okDQY7S8EsyV_v0lPNaWY0N3h6X99-37g_Py42hO40H42u1-v9rm13_uO-aOuROfVNMSqM91tTuPn05xQ8VcUCnV_h8-crpBKccQ8mUobT1oXlRq8uvE6m2Ri0W8HexIEFFuNeCxjrFwXXWk20I3s8sEHy8W0tPRF6xvghAen45nmjbB53vzfxyqRA3ZSAgqDEKm9pkdIJdrliQwaEC28M-VzUiTXL8iU_oCvV_oF6djRLFDCYPWNQ9tvGH7OmO1EOuNLhUTTWFWo3kCERHJFL5inII1Uxl5yLKMQGdBanECJbVmalcJZCgeVsU2oHRD37ZyAR0R5K1u6p7NYC5YHrX5FChJKYEV53n2Vkp7l7DGTc9cYzxPcgl_SuKi6Lh7v_n4v3qg7z7tju_gKYxYOB",
+                                  "serpapi_ai_overview_link":  "https://serpapi.com/search.json?engine=google_ai_overview\u0026page_token=ExST8XicHdBZbuIwAABQzWX6WXBamAEJVXIxaTPY1HuSn8okDQY7S8EsyV_v0lPNaWY0N3h6X99-37g_Py42hO40H42u1-v9rm13_uO-aOuROfVNMSqM91tTuPn05xQ8VcUCnV_h8-crpBKccQ8mUobT1oXlRq8uvE6m2Ri0W8HexIEFFuNeCxjrFwXXWk20I3s8sEHy8W0tPRF6xvghAen45nmjbB53vzfxyqRA3ZSAgqDEKm9pkdIJdrliQwaEC28M-VzUiTXL8iU_oCvV_oF6djRLFDCYPWNQ9tvGH7OmO1EOuNLhUTTWFWo3kCERHJFL5inII1Uxl5yLKMQGdBanECJbVmalcJZCgeVsU2oHRD37ZyAR0R5K1u6p7NYC5YHrX5FChJKYEV53n2Vkp7l7DGTc9cYzxPcgl_SuKi6Lh7v_n4v3qg7z7tju_gKYxYOB",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVVRsYzVSMFIwVTJWYWMweHhORnBUVlVkNVUyRTJSRVZHTVVJdE5IQjFlRGQ2V0RFd1UzRkZTMVZWWkVSUVRYUXlkVXByUTJGQlFXc3hia3h6ZVd4VVlYZzNWMmxsVlVaQlRIRlVTMnB2UlZobmJ6SnRka1EwUmpWd2R4SVhYMmhWVEdGd1V6RlBUblZwTlU1dlVIRnpkalZwUVZFYUlrRktTMHhHYlV4cGRUQnlkM1ZQZEZJek1uRm1hak5TTkY5UFlrVk9TV05HV2xFIiwiZmN2IjoiMyIsImVpIjoiX2hVTGFwUzFPTnVpNU5vUHFzdjVpQVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuME43UWNfIiwicXVlc3Rpb24iOiLCv0N1w6FudG9zIGHDsW9zIGR1cmEgZWwgZ2FzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1TXlTaTVOekN2SkwxWklQTHdSU0thVUZpVXFwT1lvcENjQzJha0twWGtLaVpsRnFRcUp5Zmw1S1puSm1mbDVpU241QUEiLCJicyI6ImM2V1FQUW9DTVJDRnNVMWxLYW5tRFBFUFFkeENTeTh4Sm5GWnlDYVNiRnBGOENKYldsaDRBc0djeGx1WVpSRldYSVhGWnFhWWVkX2pQV0xKNUg1Yi1sRHF3b0NUd00zR0l1eU1CYlJXcGdvdGVBMllXUW5JalJZWno0eEdZWkxCY2NfR2RNaTdTOG1wUjVMYVZFa0h6bWhRNkdDTHFscDVLRjFFNVY3SG01RGYzQjhydHFCel9nZUQ2RVowQnhpdWNRb2ZJMGdGS2Y0d1p5UEt1TWVPTW5KNHBhNzZxc3VLajBVNGM1MXg4MTVjWkxXbHZxelpqRTVyN3daQ3RoQS01ZjNlRXciLCJpZCI6ImZjX19oVUxhcFMxT051aTVOb1Bxc3Y1aUFRXzMifQ==",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVVRsYzVSMFIwVTJWYWMweHhORnBUVlVkNVUyRTJSRVZHTVVJdE5IQjFlRGQ2V0RFd1UzRkZTMVZWWkVSUVRYUXlkVXByUTJGQlFXc3hia3h6ZVd4VVlYZzNWMmxsVlVaQlRIRlVTMnB2UlZobmJ6SnRka1EwUmpWd2R4SVhYMmhWVEdGd1V6RlBUblZwTlU1dlVIRnpkalZwUVZFYUlrRktTMHhHYlV4cGRUQnlkM1ZQZEZJek1uRm1hak5TTkY5UFlrVk9TV05HV2xFIiwiZmN2IjoiMyIsImVpIjoiX2hVTGFwUzFPTnVpNU5vUHFzdjVpQVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuME43UWNfIiwicXVlc3Rpb24iOiLCv0N1w6FudG9zIGHDsW9zIGR1cmEgZWwgZ2FzIGRlIHVuIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImM1TXlTaTVOekN2SkwxWklQTHdSU0thVUZpVXFwT1lvcENjQzJha0twWGtLaVpsRnFRcUp5Zmw1S1puSm1mbDVpU241QUEiLCJicyI6ImM2V1FQUW9DTVJDRnNVMWxLYW5tRFBFUFFkeENTeTh4Sm5GWnlDYVNiRnBGOENKYldsaDRBc0djeGx1WVpSRldYSVhGWnFhWWVkX2pQV0xKNUg1Yi1sRHF3b0NUd00zR0l1eU1CYlJXcGdvdGVBMllXUW5JalJZWno0eEdZWkxCY2NfR2RNaTdTOG1wUjVMYVZFa0h6bWhRNkdDTHFscDVLRjFFNVY3SG01RGYzQjhydHFCel9nZUQ2RVowQnhpdWNRb2ZJMGdGS2Y0d1p5UEt1TWVPTW5KNHBhNzZxc3VLajBVNGM1MXg4MTVjWkxXbHZxelpqRTVyN3daQ3RoQS01ZjNlRXciLCJpZCI6ImZjX19oVUxhcFMxT051aTVOb1Bxc3Y1aUFRXzMifQ%3D%3D"
+                              },
+                              {
+                                  "question":  "¿Cuánto cobra un técnico por arreglar el aire acondicionado?",
+                                  "type":  "featured_snippet",
+                                  "snippet":  "El coste medio de un servicio de reparación de aire acondicionado es de 230 €. Este valor puede oscilar entre los 65 € y los 700 € y, por lo general, se determina por el tipo o modelo de aparato, tiempo de reparación, la disponibilidad de repuestos y la clase de avería, entre otras variables.",
+                                  "title":  "¿Cuánto cuesta un servicio de reparación de aire acondicionado?",
+                                  "link":  "https://www.zaask.es/cuanto-cuesta/reparacion-aire-acondicionado#:~:text=El%20coste%20medio%20de%20un,de%20aver%C3%ADa%2C%20entre%20otras%20variables.",
+                                  "displayed_link":  "https://www.zaask.es › reparacion-aire-acondicionado",
+                                  "source_logo":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/yuCA0RIip7UY6SA-_Qlz9wBLYNSCUdMVmPYaPhbqyTo.png",
+                                  "next_page_token":  "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVVRsYzVSMFIwVTJWYWMweHhORnBUVlVkNVUyRTJSRVZHTVVJdE5IQjFlRGQ2V0RFd1UzRkZTMVZWWkVSUVRYUXlkVXByUTJGQlFXc3hia3h6ZVd4VVlYZzNWMmxsVlVaQlRIRlVTMnB2UlZobmJ6SnRka1EwUmpWd2R4SVhYMmhWVEdGd1V6RlBUblZwTlU1dlVIRnpkalZwUVZFYUlrRktTMHhHYlV4cGRUQnlkM1ZQZEZJek1uRm1hak5TTkY5UFlrVk9TV05HV2xFIiwiZmN2IjoiMyIsImVpIjoiX2hVTGFwUzFPTnVpNU5vUHFzdjVpQVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuME43UWNfIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gY29icmEgdW4gdMOpY25pY28gcG9yIGFycmVnbGFyIGVsIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImN3M0d3UW5BTUF3RHdEMzYwaGFkUjFGTU1RU3JtR1RfOWw1MzNUcXNiY2lqaVZQWW9Vb1pyeHZzam1meFQzYUFjczFVdWpqOUFRIiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19faFVMYXBTMU9OdWk1Tm9QcXN2NWlBUV8zIn0=",
+                                  "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google_related_questions\u0026google_domain=google.com\u0026next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVVRsYzVSMFIwVTJWYWMweHhORnBUVlVkNVUyRTJSRVZHTVVJdE5IQjFlRGQ2V0RFd1UzRkZTMVZWWkVSUVRYUXlkVXByUTJGQlFXc3hia3h6ZVd4VVlYZzNWMmxsVlVaQlRIRlVTMnB2UlZobmJ6SnRka1EwUmpWd2R4SVhYMmhWVEdGd1V6RlBUblZwTlU1dlVIRnpkalZwUVZFYUlrRktTMHhHYlV4cGRUQnlkM1ZQZEZJek1uRm1hak5TTkY5UFlrVk9TV05HV2xFIiwiZmN2IjoiMyIsImVpIjoiX2hVTGFwUzFPTnVpNU5vUHFzdjVpQVEiLCJxYyI6IkNpRnlaWEJoY21GamFjT3piaUJrWlNCaGFYSmxJR0ZqYjI1a2FXTnBiMjVoWkc4UURuME43UWNfIiwicXVlc3Rpb24iOiLCv0N1w6FudG8gY29icmEgdW4gdMOpY25pY28gcG9yIGFycmVnbGFyIGVsIGFpcmUgYWNvbmRpY2lvbmFkbz8iLCJsayI6ImN3M0d3UW5BTUF3RHdEMzYwaGFkUjFGTU1RU3JtR1RfOWw1MzNUcXNiY2lqaVZQWW9Vb1pyeHZzam1meFQzYUFjczFVdWpqOUFRIiwiYnMiOiJjNldRUFFvQ01SQ0ZzVTFsS2FubURQRVBRZHhDU3k4eEpuRlp5Q2FTYkZwRjhDSmJXbGg0QXNHY3hsdVlaUkZXWElYRlpxYVllZF9qUFdMSjVINWItbERxd29DVHdNM0dJdXlNQmJSV3Bnb3RlQTJZV1FuSWpSWVp6NHhHWVpMQmNjX0dkTWk3UzhtcFI1TGFWRWtIem1oUTZHQ0xxbHA1S0YxRTVWN0htNURmM0I4cnRxQnpfZ2VENkVaMEJ4aXVjUW9mSTBnRktmNHdaeVBLdU1lT01uSjRwYTc2cXN1S2owVTRjNTF4ODE1Y1pMV2x2cXpaakU1cjd3WkN0aEEtNWYzZUV3IiwiaWQiOiJmY19faFVMYXBTMU9OdWk1Tm9QcXN2NWlBUV8zIn0%3D"
+                              }
+                          ],
+    "organic_results":  [
+                            {
+                                "position":  1,
+                                "title":  "Reparación de aire acondicionado en Sabadell | A Tu Aire",
+                                "link":  "https://www.atuairesabadell.com/reparacion-aire-acondicionado-sabadell",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.atuairesabadell.com/reparacion-aire-acondicionado-sabadell\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECCgQAQ",
+                                "displayed_link":  "https://www.atuairesabadell.com › reparacion-aire-acondi...",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DDUeQi5bl23qj22MrcGzSgw.png",
+                                "snippet":  "Ofrecemos instalaciones, reparaciones y mantenimiento de sistemas de calefacción, aire acondicionado, agua caliente y frío industrial. Con años de experiencia ...",
+                                "snippet_highlighted_words":  [
+                                                                  "reparaciones",
+                                                                  "aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Ofrecemos instalaciones, reparaciones y mantenimiento de sistemas de calefacción, aire acondicionado, agua caliente y frío industrial. Con años de experiencia ...",
+                                                                         "source_info_link":  "https://www.atuairesabadell.com/reparacion-aire-acondicionado-sabadell",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DCoVG5j28oUE7BzRW92fYZLL666E2GnxNDwaUqM5Dn14.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.atuairesabadell.com/reparacion-aire-acondicionado-sabadell\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.atuairesabadell.com%2Freparacion-aire-acondicionado-sabadell",
+                                "source":  "atuairesabadell.com"
+                            },
+                            {
+                                "position":  2,
+                                "title":  "Instalador de aire acondicionado Sabadell en WALLAPOP",
+                                "link":  "https://es.wallapop.com/servicios/instalador-de-aire-acondicionado/sabadell",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://es.wallapop.com/servicios/instalador-de-aire-acondicionado/sabadell\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECEMQAQ",
+                                "displayed_link":  "https://es.wallapop.com › ... › de aire acondicionado",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DFH9MVcnyl6ZvN-HEODkz3A.png",
+                                "snippet":  "Técnico aire acondicionado y bomba de calor, con más de 30 años de experiencia. Se realizan reparaciones, instalaciones nuevas y cargas de gas. Operamos en ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Técnico aire acondicionado y bomba de calor"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Técnico aire acondicionado y bomba de calor, con más de 30 años de experiencia. Se realizan reparaciones, instalaciones nuevas y cargas de gas. Operamos en ...",
+                                                                         "source_info_link":  "https://es.wallapop.com/servicios/instalador-de-aire-acondicionado/sabadell",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DOo7gs7zgcHGiJj70zrWlFFQvoQ1YzyX4IBY1DE0tDuV.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://es.wallapop.com/servicios/instalador-de-aire-acondicionado/sabadell\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fes.wallapop.com%2Fservicios%2Finstalador-de-aire-acondicionado%2Fsabadell",
+                                "source":  "Wallapop"
+                            },
+                            {
+                                "position":  3,
+                                "title":  "Taller reparación aire acondicionado Sabadell",
+                                "link":  "https://radiadorssoler.com/taller-reparacion-aire-acondicionado-sabadell/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://radiadorssoler.com/taller-reparacion-aire-acondicionado-sabadell/\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECC0QAQ",
+                                "displayed_link":  "https://radiadorssoler.com › taller-reparacion-aire-acondi...",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DF2ymmT_hiGemW0Nq_FSM2Q.png",
+                                "snippet":  "Nuestro taller está equipado con la tecnología más avanzada y nuestras técnicas de reparación están respaldadas por años de experiencia en el campo. Nos ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Nuestro taller está equipado con la tecnología más avanzada"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Nuestro taller está equipado con la tecnología más avanzada y nuestras técnicas de reparación están respaldadas por años de experiencia en el campo. Nos ...",
+                                                                         "source_info_link":  "https://radiadorssoler.com/taller-reparacion-aire-acondicionado-sabadell/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DOEf2fJ7kel37DHSy19x3gvDmCjhrT5VFzyYX8M6qvRz.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://radiadorssoler.com/taller-reparacion-aire-acondicionado-sabadell/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fradiadorssoler.com%2Ftaller-reparacion-aire-acondicionado-sabadell%2F",
+                                "source":  "Radiadores Soler"
+                            },
+                            {
+                                "position":  4,
+                                "title":  "Técnicos de aire acondicionado en Sabadell - HomeServe",
+                                "link":  "https://www.homeserve.es/aire-acondicionado/barcelona/sabadell",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.homeserve.es/aire-acondicionado/barcelona/sabadell\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECCoQAQ",
+                                "displayed_link":  "https://www.homeserve.es › ... › Barcelona",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DMyr8vKt8fN9SeUiJJe_e_Q.png",
+                                "snippet":  "Mantenimiento, reparación e instalación de aire acondicionado en Sabadell con HomeServe. Expertos en climatización con desplazamiento gratuito. ¡Las 24h!",
+                                "snippet_highlighted_words":  [
+                                                                  "Mantenimiento, reparación e instalación de aire acondicionado en Sabadell con HomeServe"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "top":  {
+                                                                 "detected_extensions":  {
+                                                                                             "rating":  4.8,
+                                                                                             "reviews":  2696
+                                                                                         },
+                                                                 "extensions":  [
+                                                                                    "4,8(2.696)",
+                                                                                    "Gratis Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+                                                                                ]
+                                                             }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Mantenimiento, reparación e instalación de aire acondicionado en Sabadell con HomeServe. Expertos en climatización con desplazamiento gratuito. ¡Las 24h!",
+                                                                         "source_info_link":  "https://www.homeserve.es/aire-acondicionado/barcelona/sabadell",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DJxL1B_MOAoqr-tP9RhaX87alkuY5mI_g0oEkrdI5Qb2.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.homeserve.es/aire-acondicionado/barcelona/sabadell\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.homeserve.es%2Faire-acondicionado%2Fbarcelona%2Fsabadell",
+                                "source":  "homeserve.es"
+                            },
+                            {
+                                "position":  5,
+                                "title":  "Reparación Aire Acondicionado Sabadell | 93 14 39 169",
+                                "link":  "https://www.empresaclimatizacion.com/sabadell/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.empresaclimatizacion.com/sabadell/\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECEQQAQ",
+                                "displayed_link":  "https://www.empresaclimatizacion.com › sabadell",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DG7L5pGAcCjwMSoJmG-BNmg.png",
+                                "snippet":  "Servicio de reparación aire acondicionado en Sabadell: ☎️ 6 meses de garantía,✔️ desplazamiento inmediato. Técnicos 100% profesionales.",
+                                "snippet_highlighted_words":  [
+                                                                  "Servicio de reparación aire acondicionado en Sabadell"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Servicio de reparación aire acondicionado en Sabadell: ☎️ 6 meses de garantía,✔️ desplazamiento inmediato. Técnicos 100% profesionales.",
+                                                                         "source_info_link":  "https://www.empresaclimatizacion.com/sabadell/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DHBoNNYq2JIoDNSZKh2rdKKttmHaNnoBcotUvy56a7RK.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.empresaclimatizacion.com/sabadell/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.empresaclimatizacion.com%2Fsabadell%2F",
+                                "source":  "empresaclimatizacion.com"
+                            },
+                            {
+                                "position":  6,
+                                "title":  "Empresas de aire acondicionado en Sabadell",
+                                "link":  "https://www.habitissimo.es/empresas/aire-acondicionado/barcelona/sabadell",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.habitissimo.es/empresas/aire-acondicionado/barcelona/sabadell\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECEkQAQ",
+                                "displayed_link":  "https://www.habitissimo.es › empresas › barcelona › sab...",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DC8Pq0hAGN3qQJ81VL5eO38.png",
+                                "snippet":  "Encuentra empresas de aire acondicionado en Sabadell en nuestro directorio: opiniones, fotos y precio medio de aire acondicionado.",
+                                "snippet_highlighted_words":  [
+                                                                  "Encuentra empresas de aire acondicionado en Sabadell"
+                                                              ],
+                                "rich_snippet":  {
+                                                     "bottom":  {
+                                                                    "detected_extensions":  {
+                                                                                                "price":  702.0,
+                                                                                                "currency":  "€"
+                                                                                            },
+                                                                    "extensions":  [
+                                                                                       "702,00 €"
+                                                                                   ]
+                                                                }
+                                                 },
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Encuentra empresas de aire acondicionado en Sabadell en nuestro directorio: opiniones, fotos y precio medio de aire acondicionado.",
+                                                                         "source_info_link":  "https://www.habitissimo.es/empresas/aire-acondicionado/barcelona/sabadell",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DCcMMHGEpI6ukbfN2Dk8QrX3FlhA9pDYoxJcwJ4CZ7Nb.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.habitissimo.es/empresas/aire-acondicionado/barcelona/sabadell\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.habitissimo.es%2Fempresas%2Faire-acondicionado%2Fbarcelona%2Fsabadell",
+                                "source":  "habitissimo"
+                            },
+                            {
+                                "position":  7,
+                                "title":  "Reparación de Aire Acondicionado en Sabadell",
+                                "link":  "https://aireacondicionadogisbert.com/aire-acondicionado/reparacion-aire-acondicionado-en-sabadell/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://aireacondicionadogisbert.com/aire-acondicionado/reparacion-aire-acondicionado-en-sabadell/\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECCkQAQ",
+                                "displayed_link":  "https://aireacondicionadogisbert.com › aire-acondicionado",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DHxH0UIBzo70rgKk6ngOxXU.png",
+                                "snippet":  "Reparamos todo tipo de averías: equipos que no enfrían, fugas de refrigerante, ruidos, goteos y fallos en el encendido. Servicio rápido con diagnóstico el mismo ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparamos todo tipo de averías"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Reparamos todo tipo de averías: equipos que no enfrían, fugas de refrigerante, ruidos, goteos y fallos en el encendido. Servicio rápido con diagnóstico el mismo ...",
+                                                                         "source_info_link":  "https://aireacondicionadogisbert.com/aire-acondicionado/reparacion-aire-acondicionado-en-sabadell/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DFz2Zb4OSG5JWGIfGbYLs6xrFGwuVVmNLdalyV1apwAP.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://aireacondicionadogisbert.com/aire-acondicionado/reparacion-aire-acondicionado-en-sabadell/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Faireacondicionadogisbert.com%2Faire-acondicionado%2Freparacion-aire-acondicionado-en-sabadell%2F",
+                                "source":  "Aire Acondicionado Gisbert"
+                            },
+                            {
+                                "position":  8,
+                                "title":  "Servicio Técnico de Aire Acondicionado en Barcelona",
+                                "link":  "https://www.airmant.com/articulos/servicio-tecnico-aire-acondicionado-barcelona/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.airmant.com/articulos/servicio-tecnico-aire-acondicionado-barcelona/\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECC8QAQ",
+                                "displayed_link":  "https://www.airmant.com › articulos › servicio-tecnico-...",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DP791FetHckAd_Ew5KU68Yo.png",
+                                "snippet":  "Prestamos servicio de reparación e instalación de aire acondicionado a toda Barcelona. Con más de 30 años de experiencia y dedicación, Air-Mant, es ya todo un ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Prestamos servicio de reparación e instalación de aire acondicionado a toda Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Prestamos servicio de reparación e instalación de aire acondicionado a toda Barcelona. Con más de 30 años de experiencia y dedicación, Air-Mant, es ya todo un ...",
+                                                                         "source_info_link":  "https://www.airmant.com/articulos/servicio-tecnico-aire-acondicionado-barcelona/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DNVz2HUCYJPOsJGNAGLCkXDWPKzAmde_-7t5qb7TrvLD.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.airmant.com/articulos/servicio-tecnico-aire-acondicionado-barcelona/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.airmant.com%2Farticulos%2Fservicio-tecnico-aire-acondicionado-barcelona%2F",
+                                "source":  "Air-mant"
+                            },
+                            {
+                                "position":  9,
+                                "title":  "Aire acondicionado en Sabadell | A Tu Aire",
+                                "link":  "https://www.atuairesabadell.com/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.atuairesabadell.com/\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECCwQAQ",
+                                "displayed_link":  "https://www.atuairesabadell.com",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DEH7kYscbfkNTw6loristTI.png",
+                                "snippet":  "Instalación de sistemas de aire acondicionado y calefacción. · Reparación y mantenimiento de equipos de climatización, tanto para el hogar como para empresas.",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparación y mantenimiento de equipos de climatización"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Instalación de sistemas de aire acondicionado y calefacción. · Reparación y mantenimiento de equipos de climatización, tanto para el hogar como para empresas.",
+                                                                         "source_info_link":  "https://www.atuairesabadell.com/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DE58lQNMHH_61Oq5SSBZbBWbaRFMUgoN1u330WhZRhgN.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.atuairesabadell.com/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.atuairesabadell.com%2F",
+                                "source":  "atuairesabadell.com"
+                            },
+                            {
+                                "position":  10,
+                                "title":  "Técnico Aire Acondicionado Barcelona Urgente 3H",
+                                "link":  "https://aire-acondicionado.barcelona/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://aire-acondicionado.barcelona/\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQFnoECCsQAQ",
+                                "displayed_link":  "https://aire-acondicionado.barcelona",
+                                "favicon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DHLlpXlcadtFpqYAcydKHVw.png",
+                                "snippet":  "Servicio técnico aire acondicionado Barcelona al mejor precio. ✓ Mantenimientos. ⏰Urgente 3H. Desplazamiento gratis. ☎️ 93 181 94 81.",
+                                "snippet_highlighted_words":  [
+                                                                  "Servicio técnico aire acondicionado Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Servicio técnico aire acondicionado Barcelona al mejor precio. ✓ Mantenimientos. ⏰Urgente 3H. Desplazamiento gratis. ☎️ 93 181 94 81.",
+                                                                         "source_info_link":  "https://aire-acondicionado.barcelona/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/CsqEo0VD2TX222zpn217DAD5omkjF7ZX108fsHMrV9pVBcmcA5NS7iaq_MjM-Khr.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://aire-acondicionado.barcelona/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Faire-acondicionado.barcelona%2F",
+                                "source":  "aire-acondicionado.barcelona"
+                            }
+                        ],
+    "places_sites":  [
+                         {
+                             "position":  1,
+                             "title":  "Instalador de aire acondicionado Sabadell",
+                             "link":  "https://es.wallapop.com/servicios/instalador-de-aire-acondicionado/sabadell",
+                             "image":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/C7U2Ob266_tA9MknvnR_vWOaDB5ayEAWZintCp2lkZU.jpeg",
+                             "source":  "Wallapop",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/NiC2CFSY9gFpfWf8fDycLdc4fpN5dFuyO36WVmWWTpA.png"
+                         },
+                         {
+                             "position":  2,
+                             "title":  "Las 10 mejores empresas de aire acondicionado en Sabadell",
+                             "link":  "https://www.habitissimo.es/empresas/aire-acondicionado/barcelona/sabadell",
+                             "image":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/b_KVU87QVCqDgBOo_940E4RL6ZRP1kOh8vx3n6Fumuc.jpeg",
+                             "source":  "habitissimo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/PJeizFEDiP9Y_NbVO7juwN4jwBtZeRg3O-kNAwsWLjk.png"
+                         },
+                         {
+                             "position":  3,
+                             "title":  "Reparacion aire acondicionado Instalación de aire acondicionado y calefacción barato en Barcelona Provincia",
+                             "link":  "https://www.milanuncios.com/climatizacion-en-barcelona/reparacion-aire-acondicionado.htm",
+                             "source":  "Milanuncios",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/DMwEUs3MU-MMNsXNEAUm2yGL-Dn-SaCL1HZTnSlY6z4.png"
+                         },
+                         {
+                             "position":  4,
+                             "title":  "Reparación de aire acondicionado en Sabadell (Barcelona)",
+                             "link":  "https://www.paginasamarillas.es/a/reparacion-de-aire-acondicionado/barcelona/sabadell/",
+                             "source":  "Páginas Amarillas",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/0WVi9qlXnGrcTwRh6XT3X0A9FLib1QUcfpdMlmF7UGY.png"
+                         },
+                         {
+                             "position":  5,
+                             "title":  "Encuentra Reparadores Aire Acondicionado en Sabadell",
+                             "link":  "https://prontopro.es/sabadell-reparacion-aire-acondicionado",
+                             "source":  "ProntoPro",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/kvwb8eICdG3vhHORK9LzN8hlP9BG1BKoPdbrU8kVM0c.png"
+                         },
+                         {
+                             "position":  6,
+                             "title":  "Las 10 mejores Empresas de Reparación de Aire Acondicionado en Valencia Provincia",
+                             "link":  "https://valencia-provincia.infoisinfo.es/busqueda/reparacion_de_aire_acondicionado",
+                             "source":  "Infoisinfo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b15faf6d5ee1883d34312/images/OU6nwFGHm60SNPxjVxQtL8wetRvR2TBrvIqxTL9a6PM.png"
+                         }
+                     ],
+    "filters":  [
+                    {
+                        "name":  "Abierto ahora",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro",
+                                           "q":  "reparación de aire acondicionado abierto ahora"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQxKsJKAB6BAgXEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro"
+                    },
+                    {
+                        "name":  "Mejor valorados",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU",
+                                           "q":  "reparación de aire acondicionado mejor valorados"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQxKsJKAF6BAgcEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU"
+                    },
+                    {
+                        "name":  "Estimaciones online",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc",
+                                           "q":  "reparación de aire acondicionado estimaciones online"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQxKsJKAJ6BAgZEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc"
+                    },
+                    {
+                        "name":  "Auto",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE",
+                                           "q":  "reparación de aire acondicionado de auto"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQxKsJKAN6BAgaEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE"
+                    },
+                    {
+                        "name":  "Barcelona",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv",
+                                           "q":  "Reparación aire acondicionado Barcelona"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQxKsJKAR6BAgYEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-d1Bjw_KTBCtqlya5oDraoPSiiTKpJivkuQDK0eRBraM3727xw4zXnrzmO0GHN4fCqmKuSH0BR7D3vWCIPwhL1RgK_1Bpf_DW2hn0EwLzltRXZ8iwPKvpJFNRiZwQCl4YHflJpapjI2wOHzFziGSBfTwEr8uinuru7WOBdZEEhGIvKWCQj9ZArpzRiZFJpzn_XVN19xUVp-AyVoKa0H9iVdzPE14gL5dLdtYgIMN9TG55O5yv"
+                    },
+                    {
+                        "name":  "Compresores",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg",
+                                           "q":  "Reparación de compresores de AIRE acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQxKsJKAV6BAh_EAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg"
+                    },
+                    {
+                        "name":  "Curso",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk",
+                                           "q":  "Curso de reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQxKsJKAZ6BQiBARAB\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk"
+                    },
+                    {
+                        "name":  "Instalación",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w",
+                                           "q":  "Instalación y reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Instalaci%C3%B3n+y+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQxKsJKAd6BQiAARAB\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Instalaci%C3%B3n+y+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w"
+                    }
+                ],
+    "related_searches":  [
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación aire acondicionado Sabadell",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+Sabadell\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ1QJ6BAhIEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+Sabadell"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Instalador aire acondicionado Sabadell",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Instalador+aire+acondicionado+Sabadell\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ1QJ6BAhgEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Instalador+aire+acondicionado+Sabadell"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Reparación aire acondicionado coche",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+aire+acondicionado+coche\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ1QJ6BAhdEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Reparaci%C3%B3n+aire+acondicionado+coche"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Aires acondicionados en sabadell",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Aires+acondicionados+en+sabadell\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ1QJ6BAhaEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Aires+acondicionados+en+sabadell"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "A tu aire Sabadell",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=A+tu+aire+Sabadell\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ1QJ6BAhWEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=A+tu+aire+Sabadell"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Radiadores Soler Sabadell",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Radiadores+Soler+Sabadell\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ1QJ6BAhUEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Radiadores+Soler+Sabadell"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "ATuAire aire acondicionado",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=ATuAire+aire+acondicionado\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ1QJ6BAhQEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=ATuAire+aire+acondicionado"
+                             },
+                             {
+                                 "block_position":  1,
+                                 "query":  "Instalación aire acondicionado",
+                                 "link":  "https://www.google.com/search?sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026q=Instalaci%C3%B3n+aire+acondicionado\u0026sa=X\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ1QJ6BAhNEAE",
+                                 "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=Instalaci%C3%B3n+aire+acondicionado"
+                             }
+                         ],
+    "dmca_messages":  {
+                          "title":  "Avisos sobre resultados filtrados",
+                          "messages":  [
+                                           {
+                                               "content":  "En respuesta a una reclamación que hemos recibido en relación con la ley estadounidense de protección de los derechos de autor (DMCA), hemos retirado 1 resultados de esta página. Si quieres, puedes leer la reclamación de la DMCA que ha originado la retirada de estas páginas en LumenDatabase.org.",
+                                               "highlighted_words":  [
+                                                                         {
+                                                                             "link":  "https://lumendatabase.org/notices/56948877",
+                                                                             "text":  "leer la reclamación de la DMCA"
+                                                                         }
+                                                                     ]
+                                           }
+                                       ]
+                      },
+    "pagination":  {
+                       "current":  1,
+                       "next":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=10\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8NMDegQIWRAY",
+                       "other_pages":  {
+                                           "2":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=10\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAG",
+                                           "3":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=20\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAI",
+                                           "4":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=30\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAK",
+                                           "5":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=40\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAM",
+                                           "6":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=50\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAO",
+                                           "7":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=60\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAQ",
+                                           "8":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=70\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAS",
+                                           "9":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=80\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAU",
+                                           "10":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=e2c09a0892320c96\u0026gl=es\u0026hl=es\u0026ei=_hULapS1ONui5NoPqsv5iAQ\u0026start=90\u0026sa=N\u0026sstk=AU9db-DBUhgtWMxvsuvKdY82yyD2jSO_yhG6D9AUqYZQHpLewXxh9IRlKTlVjo28sngCHXq8Y2jXpOUwTlat3_70vFbnMnpm8Paffg\u0026ved=2ahUKEwiUrITD-sKUAxVbEVkFHaplHkEQ8tMDegQIWRAW"
+                                       }
+                   },
+    "serpapi_pagination":  {
+                               "current":  1,
+                               "next_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "next":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "other_pages":  {
+                                                   "2":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                                                   "3":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=20",
+                                                   "4":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=30",
+                                                   "5":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=40",
+                                                   "6":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=50",
+                                                   "7":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=60",
+                                                   "8":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=70",
+                                                   "9":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=80",
+                                                   "10":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Sabadell%2C+Catalonia%2C+Spain\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=90"
+                                               }
+                           }
+}

@@ -1,0 +1,1992 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b1d6eb24c5dad82f8f338",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/k6LYO5X5ukGmqsTAOf_AUA/6a0b1d6eb24c5dad82f8f338.json",
+                            "created_at":  "2026-05-18 14:08:46 UTC",
+                            "processed_at":  "2026-05-18 14:08:46 UTC",
+                            "google_maps_url":  "https://www.google.com/maps/search/Clic+Reparaci%C3%B3n/@41.5433,2.1093,14z/?hl=es\u0026gl=es",
+                            "raw_html_file":  "https://serpapi.com/searches/k6LYO5X5ukGmqsTAOf_AUA/6a0b1d6eb24c5dad82f8f338.html",
+                            "prettify_html_file":  "https://serpapi.com/searches/k6LYO5X5ukGmqsTAOf_AUA/6a0b1d6eb24c5dad82f8f338.prettify",
+                            "total_time_taken":  1.16
+                        },
+    "search_parameters":  {
+                              "engine":  "google_maps",
+                              "type":  "search",
+                              "q":  "Clic Reparación",
+                              "ll":  "@41.5433,2.1093,14z",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es"
+                          },
+    "search_information":  {
+                               "local_results_state":  "Results for exact spelling",
+                               "query_displayed":  "Clic Reparación"
+                           },
+    "local_results":  [
+                          {
+                              "position":  1,
+                              "title":  "Clic Reparación",
+                              "place_id":  "ChIJ8-KGD0aVpBIRgXlYW1KMOCA",
+                              "data_id":  "0x12a495460f86e2f3:0x20388c525b587981",
+                              "data_cid":  "2321759893257222529",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a495460f86e2f3%3A0x20388c525b587981\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a495460f86e2f3%3A0x20388c525b587981\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.5521257,
+                                                      "longitude":  2.0986257999999998
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJ8-KGD0aVpBIRgXlYW1KMOCA",
+                              "provider_id":  "/g/11mz5hn5vp",
+                              "rating":  5,
+                              "reviews":  11,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Av. de Francesc Macià, 30, 08208 Sabadell, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "936 94 06 82",
+                              "website":  "https://clicreparacion.com/sabadell/",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"Detectó la fuga y realizó la reparacion lavadora en la misma visita.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGPXV32yYpnsJxAJslkPOzDVzGnv6OWFawvYf5bhcXP18UB-zoVAC0XvZyKb50lO3_Rv1C5qMSM3i8eggHP_NIeBALcNrCxaVI9ACCtLENdXH9RIkTHrJBF_fVcRXbi2BC-cyZ0P94T-OQn=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/0FCPeHicHcTBboIwAADQL6oUkUVMPJRuCkyhMu2qFyJdLQbWIq0o_OTO-5sle4f3-1NZ25qF4zSVN5Fay0bcjei4VlYoO-H625GtAdwA4yCS7mq0Jox60-HYKpM8UWKammTjKx3Xqn_JPlfnR3-8-GXFGXHnhxCMmiIMWX8a3ksfNplX5L2L_dv2Y-td50LKiBRpLEK04WmHn2caBwhju3lLv1gU5HG9j7okXBUXynNWXqchBnw4QRLM9iDbqeXDhRCC6n8O1B95JEX0"
+                          },
+                          {
+                              "position":  2,
+                              "title":  "Clic Reparación Rubí",
+                              "place_id":  "ChIJD0veCOSXpBIRKOv_LBx664k",
+                              "data_id":  "0x12a497e408de4b0f:0x89eb7a1c2cffeb28",
+                              "data_cid":  "9938171264155773736",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a497e408de4b0f%3A0x89eb7a1c2cffeb28\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a497e408de4b0f%3A0x89eb7a1c2cffeb28\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.4952166,
+                                                      "longitude":  2.038631
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJD0veCOSXpBIRKOv_LBx664k",
+                              "provider_id":  "/g/11mlc3hsp6",
+                              "rating":  4.8,
+                              "reviews":  30,
+                              "type":  "Servicio de reparación de lavadoras y secadoras",
+                              "types":  [
+                                            "Servicio de reparación de lavadoras y secadoras",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de neveras"
+                                        ],
+                              "type_id":  "washer_and_dryer_repair_service",
+                              "type_ids":  [
+                                               "washer_and_dryer_repair_service",
+                                               "air_conditioning_repair_service",
+                                               "hvac_contractor",
+                                               "refrigerator_repair_service"
+                                           ],
+                              "address":  "Av. de l\u0027Estatut, 130, 08191 Rubí, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "936 94 07 84",
+                              "website":  "https://clicreparacion.com/rubi",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "planning":  [
+                                                                      "Se necesita cita"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "payments":  [
+                                                                      "Pagos con móvil vía NFC",
+                                                                      "Tarjetas de crédito"
+                                                                  ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true,
+                                                      "estimaciones_online":  false
+                                                  },
+                              "user_review":  "\"Contacté con Clic Reparación y vino Gabi como tecnico de lavadoras.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGx_YvwiNNPY1UPkfXmlg7cvCgwSM1Iz5MqBXbF5V_xM4zCRi84rTBLKxdUiIbGaXXK81lruzhLWNN7xgIHSMQMgArCuh44glXdu9LV0u5R_5SLIxkxtNCc_tcJWw6pFoFVyh3twN5DemM=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/7CxGC3icHcRLjoIwAADQEyEQqb_EBTLBQWmDMmJdEa1MSygUaWsrh3TvbSaZt3ifN1OqlyvX5Ww6oUJQXmlZDUR0qurUhIjWpb10iHSkG2bo0IRbW16epkYou_inrPnFLadz8oyoyaGfjAA-NvgWg6K0MBijY70Ihp9Nurf3U53ctleM9wufD3pk6RmhuaXJdw4PkIZDpFkQUI7vepkWngbHEuRpYhurUERKRXZnM-tjERcvNlUGga-qhWvje57nsP-J0_0Bo8BH2g"
+                          },
+                          {
+                              "position":  3,
+                              "title":  "Clic Reparación Terrassa",
+                              "place_id":  "ChIJMwunkbiTpBIRrmQnWTeE-6I",
+                              "data_id":  "0x12a493b891a70b33:0xa2fb8437592764ae",
+                              "data_cid":  "11744125826552521902",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a493b891a70b33%3A0xa2fb8437592764ae\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a493b891a70b33%3A0xa2fb8437592764ae\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.5580225,
+                                                      "longitude":  2.0055281
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJMwunkbiTpBIRrmQnWTeE-6I",
+                              "provider_id":  "/g/11mdv0z5pc",
+                              "rating":  4.8,
+                              "reviews":  45,
+                              "type":  "Servicio de reparación de electrodomésticos",
+                              "types":  [
+                                            "Servicio de reparación de electrodomésticos",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "appliance_repair_service",
+                              "type_ids":  [
+                                               "appliance_repair_service",
+                                               "air_conditioning_repair_service",
+                                               "hvac_contractor",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Carrer de Galileu, 58, 08224 Terrassa, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "Cerrado"
+                                                  },
+                              "phone":  "936 94 03 96",
+                              "website":  "https://clicreparacion.com/terrassa/",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "accessibility":  [
+                                                                           "Aseo adaptado para sillas de ruedas"
+                                                                       ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "planning":  [
+                                                                      "Se necesita cita"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "payments":  [
+                                                                      "Pagos con móvil vía NFC",
+                                                                      "Tarjetas de crédito"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "parking":  [
+                                                                     "Aparcamiento en la calle de pago"
+                                                                 ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"Para aires acondicionados reparaciones, muy recomendables.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEhVRpJ5ssqE3vq2k9Vnj5JEgSllhL5P7qcJjEkaiB0lE80OPr6z6asS8wEJVYQDjZGr-10XgsD1tiBf1JJJU6rvjntj2U0KxvtFayb1qj1EbFBGZMWJzB5HdPhg4NvKK-89VORO7jW_bU5=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/6dTJU3icHcTbboIwGADgJ6q0ahGXeCGxupRNUAMebgx0rLV05fB3eHjJXe9tTPwuvv8_5VwDb55n1Ggg61qa8hfKTtTWldYNRP3jyQaQAATePFlvqjlT2bbhFKBlo74dVtPMasqZ3BmjPmgyaQXXrMovITYswHHS-Q8_h11wZTw7bhb6tOoQwQcJC-Iu4TfhnKd-12vr9DDF0a13y_xekFYTVizD1elzzx8hff9KlByv-yhCwTSLt_FE789FSmdXgjFG6rVA9glfNUYc"
+                          },
+                          {
+                              "position":  4,
+                              "title":  "Clic Reparación Sant Cugat",
+                              "place_id":  "ChIJD7sSs8KXpBIRTuY605mTixk",
+                              "data_id":  "0x12a497c2b312bb0f:0x198b9399d33ae64e",
+                              "data_cid":  "1840727161594111566",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a497c2b312bb0f%3A0x198b9399d33ae64e\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a497c2b312bb0f%3A0x198b9399d33ae64e\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.468930199999996,
+                                                      "longitude":  2.0810665
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJD7sSs8KXpBIRTuY605mTixk",
+                              "provider_id":  "/g/11ym04pqnv",
+                              "rating":  4.9,
+                              "reviews":  34,
+                              "type":  "Servicio de reparación de lavadoras y secadoras",
+                              "types":  [
+                                            "Servicio de reparación de lavadoras y secadoras",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de neveras"
+                                        ],
+                              "type_id":  "washer_and_dryer_repair_service",
+                              "type_ids":  [
+                                               "washer_and_dryer_repair_service",
+                                               "air_conditioning_repair_service",
+                                               "hvac_contractor",
+                                               "refrigerator_repair_service"
+                                           ],
+                              "address":  "Carrer de Sant Jordi, 12, 08172 Sant Cugat del Vallès, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–18:30",
+                                                      "domingo":  "9:00–18:30"
+                                                  },
+                              "phone":  "936 94 03 97",
+                              "website":  "https://clicreparacion.com/sant-cugat",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "planning":  [
+                                                                      "Se necesita cita"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "payments":  [
+                                                                      "Pagos con móvil vía NFC",
+                                                                      "Tarjetas de crédito"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "parking":  [
+                                                                     "Aparcamiento en la calle de pago",
+                                                                     "Parking de pago"
+                                                                 ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"Estupendo profesionales de reparacion de calderas.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFzdmcTP36U4FPSgnupQMnuwJl9aVnzmNJm0BOVuiWDFLQpqaIkXvib-7MtNUxmHpwvGiFybztxVZxKMJuUOm_RxYhGQ9x6gNWR-qIM61yjSEwmAZqMWKHJiJ8MjNB5-r1pvmEfFuXZ3qLG=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/gv4V2nicHcTBboIwAADQL6pA2Jia7ICZRautoAMcl0U7LCgtxbZQ-cmd_Zsle4f3_K20lmruOE3lT1jbsqY0qrzTVuhS6AltucOkAlQB5YQxSW4hHH84_Yz9IH2B8YEJIxMszICa2SkTIyeIu4tdZur8A24T2Z3Wt2Nfn8Eb1iS1fCWHPqrh4zxqmxV2g5FJd_x7b7-qKJnZgJF8D7o1DrzH9bAceFh0ON-sUI2m-EoWr-DuyZ4vL9AcC7_bRu-D57ouqP6nQPwBVtxI0Q"
+                          },
+                          {
+                              "position":  5,
+                              "title":  "Clic Reparación",
+                              "place_id":  "ChIJf0mBirOZpBIRJaAyyxweDog",
+                              "data_id":  "0x12a499b38a81497f:0x880e1e1ccb32a025",
+                              "data_cid":  "9803806547849158693",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a499b38a81497f%3A0x880e1e1ccb32a025\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a499b38a81497f%3A0x880e1e1ccb32a025\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.3626176,
+                                                      "longitude":  2.1275369
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJf0mBirOZpBIRJaAyyxweDog",
+                              "provider_id":  "/g/11yqw6y4n5",
+                              "rating":  4.8,
+                              "reviews":  22,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Carrer d\u0027Enric Morera, 5, 08902 L\u0027Hospitalet de Llobregat, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "936 94 16 25",
+                              "website":  "https://clicreparacion.com/hospitalet/",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true,
+                                                      "estimaciones_online":  false
+                                                  },
+                              "user_review":  "\"Busqué tecnico de neveras cerca de mi y llamé a Clic Reparación.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFgo8ydq0hVtyu6yJlECHy7U9JFbdjvneIkDOCGIvkaiOGTrCdmtj2DxXLcHEAarU2UUEe_GrIPfOw7IFz6irW2Q6MWfHe6qU6LF29tOOqd4E0k7KhVnpTy1fPbwr0qGJsaC_JWki_BFAac=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/NXGAOXicHcTNboMgAADgJ7JSt-C6ZAdnxZ-2wyal7mYsolgsKNA69pI7722W7Dt8vz_c2sm8-v7In1a9Uv3I7oZpqqRl0q6ouvn9ZDxqPONH5cdRRKhXL66dAT9bd4euGJM4cyHZFOjSXh-S5WKL4zR_iGbA6UnH7c1eg-3X555mSdRoEhCSsDrVednhJczRNxx0FRzhoeoyBmcC9yjYWIzn9jkBItzxs5xObt2Vl0WDOS1ME9dFJYb6HUUNfVvWAACP_089-QfiJkeh"
+                          },
+                          {
+                              "position":  6,
+                              "title":  "Clic Reparación Electrodomésticos Calderas Aire Acondicionado Secadora Nevera Lavadora Lavavajillas",
+                              "place_id":  "ChIJ08A2EV6jpBIRYss0R-IiVAM",
+                              "data_id":  "0x12a4a35e1136c0d3:0x35422e24734cb62",
+                              "data_cid":  "239855035410074466",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a4a35e1136c0d3%3A0x35422e24734cb62\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a4a35e1136c0d3%3A0x35422e24734cb62\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.386116699999995,
+                                                      "longitude":  2.1520411999999998
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJ08A2EV6jpBIRYss0R-IiVAM",
+                              "provider_id":  "/g/11w8j2_snt",
+                              "rating":  4.7,
+                              "reviews":  147,
+                              "type":  "Servicio de reparación de electrodomésticos",
+                              "types":  [
+                                            "Servicio de reparación de electrodomésticos",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Empresa de calefacción",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "appliance_repair_service",
+                              "type_ids":  [
+                                               "appliance_repair_service",
+                                               "air_conditioning_repair_service",
+                                               "heating_contractor",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Carrer de Mallorca, 103, Eixample, 08029 Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "936 94 12 84",
+                              "website":  "https://clicreparacion.com/barcelona",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "planning":  [
+                                                                      "Se necesita cita"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "payments":  [
+                                                                      "Tarjetas de crédito"
+                                                                  ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true,
+                                                      "estimaciones_online":  false
+                                                  },
+                              "user_review":  "\"Totalmente recomendable esta empresa de reparacion calderas de gas.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGakdbp89m4mpyppk08xDP_9rtYNTDZklGAC6KDKQh8c6RfiWpIwAL_eH7QGzlQxDq2soWcsvHBh9Xo8uHUYdk7llpkEesbCW-R3-sz8Cegaf_bXla6FIXBKzqELagsLDKPYEwUNa_uKvv=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/fFjX6XicHcTBboMgAADQL6K6dbG4ZAcrVhuM0WaNuotBSqEBhRbUzp_ceX-zZO_wfn-Ec8a-e54S2w3Xmis2WfagenRsdBuqB48bC6gF1ovKopJRkhJ56Q0Mh7fBfBsjffhEZRc-XFt8oi-p0igOMMKVgDQ4XW-1OS5R3rFsV6Wrqp7o_mp1Te2c7UXYaDhl5_Yid0oZmTDbxzU4bYFdYcw4uXZ9o0hwODZ7vN6TnHCbI1y2yXIuSDfhef5YXnzfB-J_CsY_7G1IdA"
+                          },
+                          {
+                              "position":  7,
+                              "title":  "Clic Reparación",
+                              "place_id":  "ChIJL7dx07SbpBIRP7ganah0Cz8",
+                              "data_id":  "0x12a49bb4d371b72f:0x3f0b74a89d1ab83f",
+                              "data_cid":  "4542852916672378943",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a49bb4d371b72f%3A0x3f0b74a89d1ab83f\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a49bb4d371b72f%3A0x3f0b74a89d1ab83f\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.3481358,
+                                                      "longitude":  2.0409836
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJL7dx07SbpBIRP7ganah0Cz8",
+                              "provider_id":  "/g/11m_97lt95",
+                              "rating":  5,
+                              "reviews":  13,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Rambla Rafael Casanova, 50, 08830 Sant Boi de Llobregat, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "936 94 13 71",
+                              "website":  "https://clicreparacion.com/viladecans/",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"... tecnico de neveras cerca de mi y encontré a Clic Reparación.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFx-gn9k_QkSpICYYmhKW_Yb6r9P7QNil_zeNW8WVIp-XLQvgOCuWZ6a2333qQcURHNMwVjw14gYqkoOKKMFJFX36Tw9P7rMF2UfBylUSLzkvWVN3ENJcZqUwet9z0AMGv_OHfzSx0LLxa8=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/gaiYEHicHczBboIwAADQL6pUu6As2YGZMRUodgwqXohranFFCrRSxk_u7N-47PKO7_5bGdPqZ8epKzQTSoma3zTvmWoMb8yMqasjWg2YBtrx95hIPxiBaDxZEpm223VRXKuQlsWX23v7JcGXupw4piuab1twiMggkvWNHt3TAiHUEZZ9bHBs8287fxJFJ1UShnGwCw7I_bR_QR8Hi-z8-lNnaTTJgeYYveEdO3aZ5caboB-_D2WyOU_pCKNoPK1e7BxCCKp_GWgegRxHAA"
+                          },
+                          {
+                              "position":  8,
+                              "title":  "Clic Reparación Mataró",
+                              "place_id":  "ChIJjSxFzHa1pBIR5y_ZTNVhNrc",
+                              "data_id":  "0x12a4b576cc452c8d:0xb73661d54cd92fe7",
+                              "data_cid":  "13201846926428418023",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a4b576cc452c8d%3A0xb73661d54cd92fe7\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a4b576cc452c8d%3A0xb73661d54cd92fe7\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.544084,
+                                                      "longitude":  2.4504664
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJjSxFzHa1pBIR5y_ZTNVhNrc",
+                              "provider_id":  "/g/11xfg85rp8",
+                              "rating":  4.7,
+                              "reviews":  74,
+                              "type":  "Servicio de reparación de electrodomésticos",
+                              "types":  [
+                                            "Servicio de reparación de electrodomésticos",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Empresa de calefacción",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "appliance_repair_service",
+                              "type_ids":  [
+                                               "appliance_repair_service",
+                                               "air_conditioning_repair_service",
+                                               "heating_contractor",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Carrer d\u0027Enric Prat de la Riba, 71, 08301 Mataró, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–18:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "937 37 21 96",
+                              "website":  "https://clicreparacion.com/mataro/",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "accessibility":  [
+                                                                           "Aseo adaptado para sillas de ruedas",
+                                                                           "Asientos adaptados sillas de ruedas"
+                                                                       ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "planning":  [
+                                                                      "Se necesita cita"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "payments":  [
+                                                                      "Pagos con móvil vía NFC",
+                                                                      "Tarjetas de crédito"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "parking":  [
+                                                                     "Aparcamiento de pago",
+                                                                     "Aparcamiento en la calle de pago",
+                                                                     "Aparcamiento en la calle gratuito",
+                                                                     "Parking de pago"
+                                                                 ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"Son unos auténticos profesionales en la reparacion de lavadoras.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHdb285quI4_PvMQQlX8-8ZkaqlYaRIpPf0XrVkk8QGgoXPq0pgbDp3C-uQ2v2ov3lIv4wVZLfIfQvo3BY3XWwy0Hr2zkltwj7bBHrh-IZWoz_p9tnFhG1CHxbEGXgLlb9TCyWtl5qTaXHY=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/rcEWwHicHcTBboIwAADQL6pUqhku2UFxo03cQhcjhYuhDNrYSgstZfqTO-9vTHyH9_8nvbfuNYq0RAthjNDt5NqxMb1ve79ozDUS1oHGARdt8y-qtviHx8l6mMjqnIdPSjVLQFKpetBl_U1s3kE2npRKaCYMywdoBd9blIKJxiE2AWkSVvOpOnSko8GgXYlYMd8gHuO70n6-vPAdHiUgVWHuZ7vx_YfMlin-5e8ZEwfNN8f0Vni9Ho41w-XbvIQQAvm8Af0Dt_dIBA"
+                          },
+                          {
+                              "position":  9,
+                              "title":  "Eco Clic Hardware \u0026 Printing Solutions - Agente Digitalizar del Kit Digital de red.es",
+                              "place_id":  "ChIJC49xPsKVpBIRlzDKiZXKYM4",
+                              "data_id":  "0x12a495c23e718f0b:0xce60ca9589ca3097",
+                              "data_cid":  "14871108713188044951",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a495c23e718f0b%3A0xce60ca9589ca3097\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a495c23e718f0b%3A0xce60ca9589ca3097\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.5157313,
+                                                      "longitude":  2.1240291
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJC49xPsKVpBIRlzDKiZXKYM4",
+                              "provider_id":  "/g/11bzynjw_j",
+                              "rating":  4.3,
+                              "reviews":  62,
+                              "type":  "Soporte y servicios informáticos",
+                              "types":  [
+                                            "Soporte y servicios informáticos",
+                                            "Consultora informática",
+                                            "Servicio de reparación de ordenadores",
+                                            "Impresora digital",
+                                            "Servicio de reparación de impresoras",
+                                            "Compañía telefónica",
+                                            "Tienda de ordenadores de segunda mano"
+                                        ],
+                              "type_id":  "computer_support_and_services",
+                              "type_ids":  [
+                                               "computer_support_and_services",
+                                               "computer_consultant",
+                                               "computer_repair_service",
+                                               "digital_printer",
+                                               "printer_repair_service",
+                                               "telephone_company",
+                                               "used_computer_store"
+                                           ],
+                              "address":  "Passeig del Dr. Moragas, 187, 08210 Barberà del Vallès, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "9:30–13:30, 16:00–20:00",
+                                                      "martes":  "9:30–13:30, 16:00–20:00",
+                                                      "miércoles":  "9:30–13:30, 16:00–20:00",
+                                                      "jueves":  "9:30–13:30, 16:00–20:00",
+                                                      "viernes":  "9:30–13:30, 16:00–20:00",
+                                                      "sábado":  "Cerrado",
+                                                      "domingo":  "Cerrado"
+                                                  },
+                              "phone":  "937 29 30 39",
+                              "website":  "https://odoo.eco-clic.net/",
+                              "extensions":  [
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "accessibility":  [
+                                                                           "Acceso para sillas de ruedas"
+                                                                       ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 }
+                                             ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true
+                                                  },
+                              "user_review":  "\"Son muy profesionales a precio razonable\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpb31Nzgin3CQMxaSZgDlDUoZFkKn-Gez8u6iI2c-IZx8SKeApHLR2SVsdIhWXFCCl5ARox2kVYJUn38QFyHEz2TugzW5b6oxnoWlLtKznvR_Vw30p5PmmFuLX38wlfOZ2Yh1Kew=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/uVnvonicHcRRboIwAADQE1WgDYYs2QdBEQZzAgrKj9HatYbSNrYI9oYewduY-D7e68mMUfrLcThDMyol5WTQ5IalMESYGZa9Q5UGWAPthJt10YWJOiNvbelVoKj4nU5VSxd8sZNt3GUCrIgNhvk1hRik7RRUGQlVkpewqvUlZc0-jiLuh6WcYFcffnYCBUX8SJYWbgdqG_88l5OQDc9NZsW9PNYjcpW_6ft4yPcoGPn_XwsPzMvI-D16rusC9hkD8QbdFEV3"
+                          },
+                          {
+                              "position":  10,
+                              "title":  "Clic Reparación Bilbao",
+                              "place_id":  "ChIJkaqGTAlPTg0RWPxqmEu9tlQ",
+                              "data_id":  "0xd4e4f094c86aa91:0x54b6bd4b986afc58",
+                              "data_cid":  "6104274477324631128",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0xd4e4f094c86aa91%3A0x54b6bd4b986afc58\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0xd4e4f094c86aa91%3A0x54b6bd4b986afc58\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  43.269449699999996,
+                                                      "longitude":  -2.9281044
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJkaqGTAlPTg0RWPxqmEu9tlQ",
+                              "provider_id":  "/g/11mlbvqxcd",
+                              "rating":  4.7,
+                              "reviews":  26,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Empresa de calefacción",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "heating_contractor",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Tristán de Leguizamón Kalea, 34, 48007 Bilbao, Biscay",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "946 98 34 20",
+                              "website":  "https://clicreparacion.com/bilbao",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "parking":  [
+                                                                     "Aparcamiento de pago",
+                                                                     "Parking de pago"
+                                                                 ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true,
+                                                      "estimaciones_online":  false
+                                                  },
+                              "user_review":  "\"Muy buena reparación de lavadoras cerca de mi, ahora ni un ruido.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGAhFno6Fru5qaEBr0VU2urTcmyEAnSYc4wA3Gy2idfs5ALQ3YE0Wdamg2QfmGNDAVhNe9-64xlxGyk1kYGy7GNfzNOpEG5Gj7GGNcw_KtcXsXVoUV_W56JJ-_im9cve2XX-kzlw_oWfYPx=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/SH7XKHicHcTdboIwGADQJ6pUEIwmu-gy_BI1nUTl54qYz0IdtGW0CPiSu97bLNm5OL8_0rnObj2vlcGiNqZuxWBFj0Y7od0CjfLqzhK0xHrsxJOGAZM7baJdP4Tft_i9p-nVH_oLqjlm-lzgamQBzP7jXtmQHZOgiGl2v6naTyoF_IOlkosNiVZTO8HcLJsC5jXw6sU_uxhC-FoDcBzLg8Pc5qm5pmUWRvs9KR9qg0_h5zlpXu1YmqwqTtPbuKSUEvk_Ev0HeuxHWQ"
+                          },
+                          {
+                              "position":  11,
+                              "title":  "Clic Reparación Badalona",
+                              "place_id":  "ChIJ1SIosSS7pBIRZvFTW6C1J1I",
+                              "data_id":  "0x12a4bb24b12822d5:0x5227b5a05b53f166",
+                              "data_cid":  "5919899935533429094",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a4bb24b12822d5%3A0x5227b5a05b53f166\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a4bb24b12822d5%3A0x5227b5a05b53f166\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.4511196,
+                                                      "longitude":  2.2490851
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJ1SIosSS7pBIRZvFTW6C1J1I",
+                              "provider_id":  "/g/11mrqzchn7",
+                              "rating":  5,
+                              "reviews":  26,
+                              "type":  "Servicio de reparación de aire acondicionado",
+                              "types":  [
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de electrodomésticos",
+                                            "Subministrament de calderes",
+                                            "Empresa de calefacción",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "air_conditioning_repair_service",
+                              "type_ids":  [
+                                               "air_conditioning_repair_service",
+                                               "appliance_repair_service",
+                                               "boiler_supplier",
+                                               "heating_contractor",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Carrer del Carme, 2, 08911 Badalona, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "936 94 16 93",
+                              "website":  "https://clicreparacion.com/badalona",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "accessibility":  [
+                                                                           "Aseo adaptado para sillas de ruedas"
+                                                                       ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "planning":  [
+                                                                      "Se necesita cita"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "payments":  [
+                                                                      "Pagos con móvil vía NFC",
+                                                                      "Tarjetas de crédito"
+                                                                  ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true,
+                                                      "estimaciones_online":  false
+                                                  },
+                              "user_review":  "\"Excelente servicio técnico de reparacion de lavadora en Badalona.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE4nhCpAEjNaZlPuY_LsYZsLrGTj7B676xZmvWtmO1rsDojDFhwbXd9tToeWm997QC-EUKTsSpKmaFC9xdsfkKAKvpeZYpTOaeSyW7xiUu_3tbllRNKt6_B79aJX6Drn9nWBxTmGKpgbvTy=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/fomAi3icHcTLjoIwFADQL6pgnNB0klnw0mRq8FWDsCGAlQ72FW5B_ErX_o3JnMV5v4RzFr49T4rVojOmk3wEPrRGO67dojXK6yygFhB44T473MP0S4vYhmmf1aXcj0W1haKE7bBhPY4CHMylmnKndssBEtMna_FoLlfimOG5IgQfYpSeKYOTpapex2S-wu1OQzpZXhaW7Wp-euZ4_juP1co1Uh4z6oIqwqT-vQTJoInOo5mpDbVdM7Hnz2Pp-z4S_7dIfwAZ2Ujy"
+                          },
+                          {
+                              "position":  12,
+                              "title":  "Clic Reparación Carabanchel",
+                              "place_id":  "ChIJ2WG0dNAnQg0Rk495yd0Srd8",
+                              "data_id":  "0xd4227d074b461d9:0xdfad12ddc9798f93",
+                              "data_cid":  "16117559385206132627",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0xd4227d074b461d9%3A0xdfad12ddc9798f93\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0xd4227d074b461d9%3A0xdfad12ddc9798f93\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  40.3868894,
+                                                      "longitude":  -3.7237565999999998
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJ2WG0dNAnQg0Rk495yd0Srd8",
+                              "provider_id":  "/g/11ymlybxff",
+                              "rating":  4.8,
+                              "reviews":  24,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "C. de Valle de Oro, 50, Carabanchel, 28019 Madrid",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–18:00",
+                                                      "domingo":  "9:00–18:00"
+                                                  },
+                              "phone":  "919 93 31 64",
+                              "website":  "https://clicreparacion.com/carabanchel",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "parking":  [
+                                                                     "Parking de pago"
+                                                                 ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"Me repararon mi termo eléctrico, averiado, de forma rápida y económica.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFeHg1SPiqjaKyGiGHVGT7LA2jbuDttfoAog4KBtn3_JqtVD1mB7JO_QS4bwBnEHPnlvkLD_sIdCqB5-ZguSIyGJQJXw5QgkgtrjplvhB4foZOHCV-nwyhNqZIQmXgX3jZDPH01wn0sqUk=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/vghNoHicHcTdboIwGADQJ6qUgTFZsgsqjoJGadgI4YZMhl_lp6X2w4aX3P3eZsnOxfn9kYizffW8UQYb0BrGbrHdo9UKO4WbVk8ezJa0llgvys9iiN47Dn6R303_dVyTe8LL5GN3il766xIj3nSkITwyVEGTGSxjf2K77NKIIrw6pg48V-NzOMWNTb_3hm1JDUuRrkkmssptBQyAj34en5KFN11f-L4kyq3ybOpUTBVUQV_HOae-U9Saz-HN-ZRSIv9vifoDif5H5w"
+                          },
+                          {
+                              "position":  13,
+                              "title":  "Clic Reparación Granollers | Reparación Caldera | Reparación Aire Acondicionado | Reparación Lavadora",
+                              "place_id":  "ChIJ18IJhEnHpBIRKL1mcW9wZy4",
+                              "data_id":  "0x12a4c7498409c2d7:0x2e67706f7166bd28",
+                              "data_cid":  "3343764872292121896",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12a4c7498409c2d7%3A0x2e67706f7166bd28\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12a4c7498409c2d7%3A0x2e67706f7166bd28\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.604430799999996,
+                                                      "longitude":  2.29109
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJ18IJhEnHpBIRKL1mcW9wZy4",
+                              "provider_id":  "/g/11xzqjvfqx",
+                              "rating":  4.9,
+                              "reviews":  35,
+                              "type":  "Servicio de reparación de electrodomésticos",
+                              "types":  [
+                                            "Servicio de reparación de electrodomésticos",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "appliance_repair_service",
+                              "type_ids":  [
+                                               "appliance_repair_service",
+                                               "air_conditioning_repair_service",
+                                               "hvac_contractor",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Plaça Onze de Setembre, 13, 08402 Granollers, Barcelona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–18:00",
+                                                      "domingo":  "9:00–18:00"
+                                                  },
+                              "phone":  "936 94 14 75",
+                              "website":  "https://clicreparacion.com/granollers",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Estimaciones online",
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "planning":  [
+                                                                      "Se necesita cita"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "payments":  [
+                                                                      "Pagos con móvil vía NFC",
+                                                                      "Tarjetas de crédito"
+                                                                  ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  true,
+                                                      "servicios_en_las_instalaciones":  true
+                                                  },
+                              "user_review":  "\"Muy buen trabajo a muy buen precio si necesitas tecnicos en lavadoras.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEvUQ22ZswuduwJEIeKZfmQxsL13I0hav-hyVGsl0VLFYQe-JBdb07pm9CaKTptwLhJNgbhHuAn3LSqt8F5t1OaJeXK74NZBmSslWBkkDg5JMztHy3FUGTWtjHZdDzPtll7QThkGz9hWFSo=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/b947MHicHcRBcoIwFADQE0WC1KF2pguoAgaKZkBp2SGkyUgg6P9I5ZJd9zad6Vu83x-FOMCLZWnlLKQxUosRxK02PYoeF7XpLDkAqYGA5R1S3nrb-5EvlyVMYzNObLsTcfnV8W9IbGdHVXUn6nEKQdNTEnxyQZjfnKk7dOu3Ks4HnBLFUnlW0ej1TpJd8TlYob2vmPiI3ae09LsMdOG37Uau2PuM0cMJjmFe4CUqm818QK1dnqs2nNeqCDLzOtmUUqL-r0n_B75rR80"
+                          },
+                          {
+                              "position":  14,
+                              "title":  "Clic Reparación Girona",
+                              "place_id":  "ChIJ2yOalM7nuhIRvo0LOUdSJnk",
+                              "data_id":  "0x12bae7ce949a23db:0x79265247390b8dbe",
+                              "data_cid":  "8729755393557499326",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0x12bae7ce949a23db%3A0x79265247390b8dbe\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0x12bae7ce949a23db%3A0x79265247390b8dbe\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.9827228,
+                                                      "longitude":  2.8216139
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJ2yOalM7nuhIRvo0LOUdSJnk",
+                              "provider_id":  "/g/11ymr08cmm",
+                              "rating":  4.6,
+                              "reviews":  16,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Subministrament de calderes",
+                                            "Fontanero",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "boiler_supplier",
+                                               "plumber",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Carrer Nou, 12, 17001 Girona",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "872 45 41 75",
+                              "website":  "https://clicreparacion.com/",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"Reparación limpia y sin complicaciones.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHESbB1igII5D5l8qci1sjKfIKiXGmOtwVyKTjiogc3XY2O5xY2ms97-QokRudsZVjVkzpEWGcrQQ8tOQKboiFjBarmLbUgp4ms2WV-8uDsSo4s4wxXCrG82K83LQqY29DrFqHfRz9vt4Bn=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/u3h0P3icHcRNcoIwGADQE0UgwDR0pgspikyc0qhFcCcphr8QyBeK9ZJd9zad6Vu835_amBGeLauv3ZVQSvTVDJXmajDVYFZcSUuMgDggsNbvb6xb7zbHMnQakSR-5Pdk4o0DLb0ltMljmZol-6antlGCu3mBU_9eYAnBE2KqO8yfcMnarHuMm3PMNWPEpIyWqtm24VXLffkhRk8CPmeIzBEclQfecs9fdUwwJe6eTQUOIr2ddrfDI_gyXji8LI5t26j-n6PhD8YHR68"
+                          },
+                          {
+                              "position":  15,
+                              "title":  "Clic Reparación",
+                              "place_id":  "ChIJPfyfs7QnQg0Rhycd46ZbwqI",
+                              "data_id":  "0xd4227b4b39ffc3d:0xa2c25ba6e31d2787",
+                              "data_cid":  "11728037151959230343",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0xd4227b4b39ffc3d%3A0xa2c25ba6e31d2787\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0xd4227b4b39ffc3d%3A0xa2c25ba6e31d2787\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  40.4079994,
+                                                      "longitude":  -3.7146155
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJPfyfs7QnQg0Rhycd46ZbwqI",
+                              "provider_id":  "/g/11yr5syd6g",
+                              "rating":  5,
+                              "reviews":  12,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor"
+                                           ],
+                              "address":  "Ronda de Segovia, 69, Centro, 28005 Madrid",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "919 93 17 03",
+                              "website":  "https://clicreparacion.com/madrid/",
+                              "user_review":  "\"Busqué una reparación de lavadoras cerca de mi y vinieron rápido.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHHrihlqNbVKAbMQfG53kpbi6W4YsTRktByoWCIJlKrzu2ttPOqYzlUn2RgW1-HPt-cjG2dTaz0c09mjDUZphiA3Os9u8Wqq2J37r2D0S0ak6ArqJZXByqo7EQB8FmdomYE7DVNapJIHS6F=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/kICC5nicHcRLcoIwAADQE0VisKCd6SIIijhF8Iewg0gJEsiX6cglXfc2nfEt3t-LGiP0p2Uxas8azhtWj7pWhA-mHsyM8N5qhAZEA23hJE47HIaqpUzG1XWPq-_0Z_thd6JqnWyR6_OxM96TZ-tdxPZqGpExyUHmE7sM6NhkcxAmBpDHFt3P5QQJXPUP_1II2mL7oFfjMpMSRbarkA9PsOwcrGRU3Lyn5G6QestNf-d9Hrj-NS5FtAtPzubrdw4hBPQ9AcM_vxRG0g"
+                          },
+                          {
+                              "position":  16,
+                              "title":  "Clic Reparación Fuenlabrada",
+                              "place_id":  "ChIJl3gsSJmLQQ0RUw9-UPB6Bzg",
+                              "data_id":  "0xd418b99482c7897:0x38077af0507e0f53",
+                              "data_cid":  "4037330763522117459",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0xd418b99482c7897%3A0x38077af0507e0f53\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0xd418b99482c7897%3A0x38077af0507e0f53\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  40.2822118,
+                                                      "longitude":  -3.7901781999999997
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJl3gsSJmLQQ0RUw9-UPB6Bzg",
+                              "provider_id":  "/g/11ynqkt3vm",
+                              "rating":  5,
+                              "reviews":  10,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "C/ de la Constitución, 2, 28944 Fuenlabrada, Madrid",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:30",
+                                                      "domingo":  "9:00–17:30"
+                                                  },
+                              "phone":  "919 93 34 83",
+                              "website":  "https://clicreparacion.com/Fuenlabrada",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "accessibility":  [
+                                                                           "Acceso para sillas de ruedas"
+                                                                       ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "parking":  [
+                                                                     "Aparcamiento en la calle de pago",
+                                                                     "Parking de pago"
+                                                                 ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"Después de la reparación llamaron para confirmar que todo estaba correcto.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAES3MeZ39oGLSiPQ19ua4hTz7dLNOVPOUvjQdCOTIazuXy5MXwXuhhDvQG3T8YKaN9C1oIsgauPpst-7VpA9ZQyAaz1yTjCow6LH7rv-90qzHS_Gq_MszQTcua2-CUpHhlZ75LdGa7Uv3Kt=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/LTlz2nicHcTNboMgAADgJ6LqWEtZsoNxjTb1j4iN89IQNLLOCi2gkZfsuW-zZN_hez2FMUp_eN4o4GaQchh7q_sHl5PpJ7Ph8uYNSgOugfbCMie_4aGCWd9CLOO0-ilJgC17F9ShLs2Lc1nU85V0UUGPzNlm3WbN0lghvmYSQ7r_PrEcR4E86oHZUmkD0FmFuCVryFyw0mskl12aoMcMsH93SXWJ75dMO0K5ZW8gqlUixhZt0y5mqJ7hyXwuge_7QPzPwfQHeCBHFA"
+                          },
+                          {
+                              "position":  17,
+                              "title":  "Clic Reparación Fuencarral-El Pardo |",
+                              "place_id":  "ChIJ-7mZjsEpQg0R98nHsVWW9DU",
+                              "data_id":  "0xd4229c18e99b9fb:0x35f49655b1c7c9f7",
+                              "data_cid":  "3887897673126627831",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0xd4229c18e99b9fb%3A0x35f49655b1c7c9f7\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0xd4229c18e99b9fb%3A0x35f49655b1c7c9f7\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  40.4882494,
+                                                      "longitude":  -3.6896617999999997
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJ-7mZjsEpQg0R98nHsVWW9DU",
+                              "provider_id":  "/g/11ym_js2y0",
+                              "rating":  5,
+                              "reviews":  6,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Empresa de calefacción",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "heating_contractor",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "C. de Labastida, 2, Fuencarral-El Pardo, 28034 Madrid",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–18:00",
+                                                      "domingo":  "9:00–18:00"
+                                                  },
+                              "phone":  "919 93 18 06",
+                              "website":  "https://clicreparacion.com/fuencarral-el-pardo",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true,
+                                                      "estimaciones_online":  false
+                                                  },
+                              "user_review":  "\"Muy profesionales, gran empresa de reparacion caldera.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfV290oqBvizTOxT4IifXjYtwbnxdHoG2nxP9rL0CBwsgddiOod2od0R7-iIE4ME-g-BYAKs9AAjaM6iLRv0JXUR8M9RD489fWaXGhdbQnK3y2UtRDYv4WSE8j3ReYl0AOQ6utbUzPnfZh=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/vyZ4qHicHcRLcoIwAADQE0VSYJR0xkVQBn8IRKngTggkoZioiYBesuvepjN9i_f7w4256U_L6rgzYUqxrn7q-lEpaWppJpW6WuymQaWBtnCyT79x2HzZCKq734v3MR6P7lo0eVuYoZQjXanQlmOCHju48AfNKBWxoraikMyAWAduFAAG_AJvNcK4vURTsSM93OQZ8SJElq6HmtMlDzktU7l1XnZmyLLo3dMh8FqH1EUHcZxOn6bM3olsznw-fEAIAf-_AvIPbAtGXQ"
+                          },
+                          {
+                              "position":  18,
+                              "title":  "Clic Reparación",
+                              "place_id":  "ChIJL5aMDFWTUA0RABKcvjMfx90",
+                              "data_id":  "0xd5093550c8c962f:0xddc71f33be9c1200",
+                              "data_cid":  "15980776109849186816",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0xd5093550c8c962f%3A0xddc71f33be9c1200\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0xd5093550c8c962f%3A0xddc71f33be9c1200\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  42.8145451,
+                                                      "longitude":  -1.6561287
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJL5aMDFWTUA0RABKcvjMfx90",
+                              "provider_id":  "/g/11yvpxq4_4",
+                              "rating":  5,
+                              "reviews":  12,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "C. del Monasterio de Tulebras, 2, 31011 Pamplona, Navarra",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:30–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "848 86 45 59",
+                              "website":  "https://clicreparacion.com/pamplona/",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true,
+                                                      "estimaciones_online":  false
+                                                  },
+                              "user_review":  "\"Pedí reparación de lavadoras a domicilio y lo solucionaron en una visita.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJy_UH0cFvwLqU_GoQ5UXSEAFJXEPrLf0yikXdG5e3wbfr9cFdL6DsyNVxSoZyxHE1cBJVCwG36y7n_0ZHnRCA6bIKNC-Q6Ed6Nmp-P7T3Iy4c6frtXtWG2IhK6SDE082LzjVaB0KvKouQ=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/2JlKtXicHchJDoIwAADAF1UqaF0SD4hlEUJABIkXomVza5EWsX7Ss7_ReJnDfN61EA2fK8q11gYVY9W16HjREkZFQcWAsJtSNRwQDriiB3540c21zGIbEvPRe_c4s1g4jtMI_z7FQeuVUJ4uaW6NC60_lu2MmLmHVlz6yTNie_m08ZAs14nRWxqSE5rBvU03ho6OjusbIEQ4R_6tAcFkqzlyRFDZilTsLNWpXRStMJyq3uucHJbQfbisCxf9EEII6r8E0C887kWX"
+                          },
+                          {
+                              "position":  19,
+                              "title":  "Clic Reparación Guadalajara",
+                              "place_id":  "ChIJT7wPEcOrQw0RYYtcDQDTC8w",
+                              "data_id":  "0xd43abc3110fbc4f:0xcc0bd3000d5c8b61",
+                              "data_cid":  "14703077405658745697",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0xd43abc3110fbc4f%3A0xcc0bd3000d5c8b61\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0xd43abc3110fbc4f%3A0xcc0bd3000d5c8b61\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  40.6369391,
+                                                      "longitude":  -3.1684525999999997
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJT7wPEcOrQw0RYYtcDQDTC8w",
+                              "provider_id":  "/g/11ynk6bwdb",
+                              "rating":  4.8,
+                              "reviews":  18,
+                              "type":  "Empresa de climatización",
+                              "types":  [
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "hvac_contractor",
+                              "type_ids":  [
+                                               "hvac_contractor",
+                                               "air_conditioning_repair_service",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "Pl. de España, 8, 19001 Guadalajara",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:00",
+                                                      "domingo":  "9:00–17:00"
+                                                  },
+                              "phone":  "949 14 34 26",
+                              "website":  "https://clicreparacion.com/guadalajara",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "service_options":  [
+                                                                             "Servicios en las instalaciones"
+                                                                         ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicio de instalación",
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "amenities":  [
+                                                                       "Aseos unisex"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "servicios_en_las_instalaciones":  true,
+                                                      "estimaciones_online":  false
+                                                  },
+                              "user_review":  "\"Para aires acondicionados reparaciones en Madrid, muy recomendables.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHioRV8S_KQ8TWk3n0-AZP2D9jxQiRKM3hYTWQOEiMH_3lWzMydZLQbXVlgf7cBXWHemxkPGEURokQ1WhlGjZFqiJyUWTPIo-fn7XIfnTzlVLEcoeefmPGZzZ7omx5zqhsskI2m0ITCc3sa=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/7LporXicHcTNToMwAADgJ-ro1hi2JR5QEdjGbFlHsZdFa6Gsf5vFyHhJz76Nid_h-_1Rw3AJ6ygyCs067zsjv4L8FN4N0g0z4W3UXQIQAYQowXuik7z3Vb08nLZkSZlGDoKE48XT6jySvtqWSL1SRl7SvsxPyLCpvH3wHXlvatO1sXhoWC7tqHGWHiuvyZwpk53587Xf3I6M4sKD1sVN0To6mXqXCi9la3HGJx57O95NVxWCLhYWFvRRoPB2_z2HEAL1vwDuD5aaSC8"
+                          },
+                          {
+                              "position":  20,
+                              "title":  "Clic Reparación Zaragoza",
+                              "place_id":  "ChIJx71Qb84VWQ0RzG-GYvntR6A",
+                              "data_id":  "0xd5915ce6f50bdc7:0xa047edf962866fcc",
+                              "data_cid":  "11549461424770543564",
+                              "reviews_link":  "https://serpapi.com/search.json?data_id=0xd5915ce6f50bdc7%3A0xa047edf962866fcc\u0026engine=google_maps_reviews\u0026hl=es",
+                              "photos_link":  "https://serpapi.com/search.json?data_id=0xd5915ce6f50bdc7%3A0xa047edf962866fcc\u0026engine=google_maps_photos\u0026hl=es",
+                              "gps_coordinates":  {
+                                                      "latitude":  41.6688123,
+                                                      "longitude":  -0.8890395
+                                                  },
+                              "place_id_search":  "https://serpapi.com/search.json?engine=google_maps\u0026google_domain=google.com\u0026hl=es\u0026place_id=ChIJx71Qb84VWQ0RzG-GYvntR6A",
+                              "provider_id":  "/g/11z2g0yzqb",
+                              "rating":  5,
+                              "reviews":  3,
+                              "type":  "Servicio de reparación de aire acondicionado",
+                              "types":  [
+                                            "Servicio de reparación de aire acondicionado",
+                                            "Servicio de reparación de electrodomésticos",
+                                            "Empresa de climatización",
+                                            "Servicio de reparación de neveras",
+                                            "Servicio de reparación de lavadoras y secadoras"
+                                        ],
+                              "type_id":  "air_conditioning_repair_service",
+                              "type_ids":  [
+                                               "air_conditioning_repair_service",
+                                               "appliance_repair_service",
+                                               "hvac_contractor",
+                                               "refrigerator_repair_service",
+                                               "washer_and_dryer_repair_service"
+                                           ],
+                              "address":  "C. de María Zambrano, 31, 50018 Zaragoza",
+                              "open_state":  "Abierto · Cierre: 20:00",
+                              "hours":  "Abierto · Cierre: 20:00",
+                              "operating_hours":  {
+                                                      "lunes":  "8:00–20:00",
+                                                      "martes":  "8:00–20:00",
+                                                      "miércoles":  "8:00–20:00",
+                                                      "jueves":  "8:00–20:00",
+                                                      "viernes":  "8:00–20:00",
+                                                      "sábado":  "9:00–17:30",
+                                                      "domingo":  "9:00–17:30"
+                                                  },
+                              "phone":  "876 21 22 69",
+                              "website":  "https://clicreparacion.com/zaragoza/",
+                              "extensions":  [
+                                                 {
+                                                     "from_the_business":  [
+                                                                               "Se identifica como de propietarias mujeres"
+                                                                           ]
+                                                 },
+                                                 {
+                                                     "offerings":  [
+                                                                       "Servicios de reparación"
+                                                                   ]
+                                                 },
+                                                 {
+                                                     "crowd":  [
+                                                                   "Amigable con la comunidad LGBTQ+",
+                                                                   "Espacio seguro para personas transgénero"
+                                                               ]
+                                                 },
+                                                 {
+                                                     "planning":  [
+                                                                      "Se necesita cita"
+                                                                  ]
+                                                 },
+                                                 {
+                                                     "payments":  [
+                                                                      "Pagos con móvil vía NFC",
+                                                                      "Tarjetas de crédito"
+                                                                  ]
+                                                 }
+                                             ],
+                              "unsupported_extensions":  [
+                                                             {
+                                                                 "service_options":  [
+                                                                                         "Estimaciones online",
+                                                                                         "Servicios en las instalaciones"
+                                                                                     ]
+                                                             },
+                                                             {
+                                                                 "accessibility":  [
+                                                                                       "Acceso para sillas de ruedas",
+                                                                                       "Aparcamiento adaptado para sillas de ruedas",
+                                                                                       "Aseo adaptado para sillas de ruedas",
+                                                                                       "Asientos adaptados sillas de ruedas",
+                                                                                       "Bucle magnético asistencial"
+                                                                                   ]
+                                                             }
+                                                         ],
+                              "service_options":  {
+                                                      "estimaciones_online":  false,
+                                                      "servicios_en_las_instalaciones":  false
+                                                  },
+                              "user_review":  "\"Busqué una reparación de lavadoras cerca de mi y vinieron rápido.\"",
+                              "thumbnail":  "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHfBKoMwmPbXG4OR-3GE8ZWkvJC2rZcOaD0wyZAXaC4okJz9HcS6Facp83c4H6KPz8aW6XjYYoGrZbVrcJ9H7A2T3p_HbcIB_l_2N5SOrKJ24BVrMHKox9nWiM_JydKz7jPtI9i2Q1-7Mw=w1000-h1000-c-n",
+                              "serpapi_thumbnail":  "https://serpapi.com/images/url/3px7hnicHcTbboIwGADgJ6pgQQ5LvAB11DYIHiLIDYF_DBSkpK2iPOTu9zZL9l18vz-NUoP80LSuMWY153VXPWQlgPeq6tUM-F2rB4lAIql58W7feuTbZzwc73GZBmZ0QEawcbKkfdIVFhlExVof35mXFiuTt3RyCRytzwIGxwCTWCyenCKx0tvlwgORlWcB1CW2h0_GkJMStn7e5Xi3OEaCUWz6ZxESxl9un1zDnL6_2GTfYrV1r3g_R3Y4Lse5ruuo-R9Q_wespUT9"
+                          }
+                      ],
+    "serpapi_pagination":  {
+                               "next":  "https://serpapi.com/search.json?engine=google_maps\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026ll=%4041.5433%2C2.1093%2C14z\u0026q=Clic+Reparaci%C3%B3n\u0026start=20\u0026type=search"
+                           }
+}

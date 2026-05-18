@@ -1,0 +1,114 @@
+# URL Map · ClimaTech Vallès
+# Generado por: web-blueprint-generator
+# Fecha: 2026-05-18
+# Hipótesis aplicadas: H1, H4, H5, H7, H8, H9
+
+negocio:
+  nombre: ClimaTech Vallès
+  telefono: 936-XX-XX-XX  # un número por ciudad — ver H7
+  ciudad_principal: Sabadell
+  provincia: Barcelona
+
+# ─────────────────────────────────────────────
+# NIVEL 0 · Páginas globales
+# ─────────────────────────────────────────────
+global:
+  home: /
+  sobre-nosotros: /sobre-nosotros/
+  contacto: /contacto/
+  blog: /blog/
+  aviso-legal: /aviso-legal/
+  politica-privacidad: /politica-privacidad/
+  cookies: /cookies/
+
+# ─────────────────────────────────────────────
+# NIVEL 1 · Servicios pillar (páginas madre)
+# ─────────────────────────────────────────────
+servicios:
+  - slug: reparacion-aire-acondicionado
+    titulo: Reparación de Aire Acondicionado
+    url: /reparacion-aire-acondicionado/
+    prioridad: 1  # keyword principal del análisis
+
+  - slug: instalacion-aire-acondicionado
+    titulo: Instalación de Aire Acondicionado
+    url: /instalacion-aire-acondicionado/
+    prioridad: 2
+
+  - slug: mantenimiento-aire-acondicionado
+    titulo: Mantenimiento de Aire Acondicionado
+    url: /mantenimiento-aire-acondicionado/
+    prioridad: 3
+
+  - slug: reparacion-caldera
+    titulo: Reparación de Calderas
+    url: /reparacion-caldera/
+    prioridad: 4
+
+# ─────────────────────────────────────────────
+# NIVEL 2 · Servicio × Ciudad (H8 — el corazón del SEO local)
+# Total: 4 servicios × 5 ciudades = 20 páginas
+# ─────────────────────────────────────────────
+ciudades:
+  - slug: sabadell
+    nombre: Sabadell
+    telefono: 936-XX-XX-01   # H7: teléfono local por ciudad
+    cp: "08200"
+    lat: 41.5432
+    lng: 2.1093
+
+  - slug: terrassa
+    nombre: Terrassa
+    telefono: 936-XX-XX-02
+    cp: "08221"
+    lat: 41.5635
+    lng: 2.0089
+
+  - slug: rubi
+    nombre: Rubí
+    telefono: 936-XX-XX-03
+    cp: "08191"
+    lat: 41.4933
+    lng: 2.0337
+
+  - slug: cerdanyola-del-valles
+    nombre: Cerdanyola del Vallès
+    telefono: 936-XX-XX-04
+    cp: "08290"
+    lat: 41.4912
+    lng: 2.1406
+
+  - slug: sant-cugat-del-valles
+    nombre: Sant Cugat del Vallès
+    telefono: 936-XX-XX-05
+    cp: "08172"
+    lat: 41.4728
+    lng: 2.0845
+
+# URLs generadas automáticamente: /{servicio}/{ciudad}/
+# Ejemplo:
+#   /reparacion-aire-acondicionado/sabadell/
+#   /reparacion-aire-acondicionado/terrassa/
+#   /instalacion-aire-acondicionado/sabadell/
+#   ... (20 páginas total)
+
+# ─────────────────────────────────────────────
+# NIVEL 3 · Blog (H3 — blog activo correlaciona con multi-ciudad)
+# ─────────────────────────────────────────────
+blog_categorias:
+  - slug: averias-comunes
+    descripcion: Guías de diagnóstico para el usuario
+  - slug: mantenimiento-preventivo
+    descripcion: Consejos estacionales (pre-verano, pre-invierno)
+  - slug: precios-y-presupuestos
+    descripcion: Transparencia de precios — captura long-tail
+
+# ─────────────────────────────────────────────
+# RESUMEN
+# ─────────────────────────────────────────────
+resumen:
+  paginas_globales: 7
+  servicios_pillar: 4
+  paginas_servicio_ciudad: 20
+  total_paginas_indexables: 31
+  blog: ilimitado (crecer orgánicamente)

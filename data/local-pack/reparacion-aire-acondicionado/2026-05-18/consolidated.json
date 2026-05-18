@@ -1,0 +1,595 @@
+﻿{
+    "keyword":  "reparacion de aire acondicionado",
+    "date":  "2026-05-18",
+    "cities":  [
+                   "sabadell",
+                   "terrassa",
+                   "barcelona",
+                   "madrid-centro",
+                   "valencia"
+               ],
+    "local_pack":  [
+                       {
+                           "name":  "Clima BCN",
+                           "place_id":  "9211604632322470202",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "653 40 34 26",
+                           "rating":  5.0,
+                           "reviews":  8,
+                           "website":  "https://www.clima-bcn.com/",
+                           "cities_seen":  [
+                                               "sabadell"
+                                           ],
+                           "pack_positions":  {
+                                                  "sabadell":  2
+                                              }
+                       },
+                       {
+                           "name":  "Climagisa",
+                           "place_id":  "9102841070733923168",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "633 77 78 21",
+                           "rating":  4.9,
+                           "reviews":  35,
+                           "website":  "http://www.climagisa.com/",
+                           "cities_seen":  [
+                                               "barcelona"
+                                           ],
+                           "pack_positions":  {
+                                                  "barcelona":  1
+                                              }
+                       },
+                       {
+                           "name":  "RM CLIMATIZACIÓN AEROTERMIA Y REFRIGERACIÓN",
+                           "place_id":  "5883393374671258138",
+                           "type":  "Empresa de climatización",
+                           "phone":  "630 24 89 41",
+                           "rating":  4.9,
+                           "reviews":  268,
+                           "website":  null,
+                           "cities_seen":  [
+                                               "barcelona"
+                                           ],
+                           "pack_positions":  {
+                                                  "barcelona":  2
+                                              }
+                       },
+                       {
+                           "name":  "Aire Acondicionado Proman",
+                           "place_id":  "4292729949196307132",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "960 66 43 10",
+                           "rating":  5.0,
+                           "reviews":  6,
+                           "website":  "https://tecnicoaireacondicionadovalencia.es/",
+                           "cities_seen":  [
+                                               "valencia"
+                                           ],
+                           "pack_positions":  {
+                                                  "valencia":  2
+                                              }
+                       },
+                       {
+                           "name":  "Clic Reparación",
+                           "place_id":  "2321759893257222529",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "936 94 06 82",
+                           "rating":  5.0,
+                           "reviews":  11,
+                           "website":  "https://clicreparacion.com/sabadell/",
+                           "cities_seen":  [
+                                               "sabadell"
+                                           ],
+                           "pack_positions":  {
+                                                  "sabadell":  1
+                                              }
+                       },
+                       {
+                           "name":  "REPARACIÓN E INSTALACIÓN DE AIRES ACONDICIONADOS",
+                           "place_id":  "2044474941507162460",
+                           "type":  "Tienda aire acondicionado",
+                           "phone":  "643 54 93 01",
+                           "rating":  4.8,
+                           "reviews":  20,
+                           "website":  null,
+                           "cities_seen":  [
+                                               "madrid centro"
+                                           ],
+                           "pack_positions":  {
+                                                  "madrid centro":  2
+                                              }
+                       },
+                       {
+                           "name":  "Clima Solution",
+                           "place_id":  "10559026353930838",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "603 31 20 60",
+                           "rating":  4.8,
+                           "reviews":  137,
+                           "website":  "https://climasolution.es/",
+                           "cities_seen":  [
+                                               "valencia"
+                                           ],
+                           "pack_positions":  {
+                                                  "valencia":  1
+                                              }
+                       },
+                       {
+                           "name":  "SAT IberiaClima Reparacion de Aire Acondicionado",
+                           "place_id":  "6230068309358382820",
+                           "type":  "Empresa de climatización",
+                           "phone":  "917 37 10 88",
+                           "rating":  5.0,
+                           "reviews":  3,
+                           "website":  null,
+                           "cities_seen":  [
+                                               "madrid centro"
+                                           ],
+                           "pack_positions":  {
+                                                  "madrid centro":  3
+                                              }
+                       },
+                       {
+                           "name":  "NOVAMYR Instalación Aire Acondicionado Reparación y mantenimiento",
+                           "place_id":  "9897003322426497271",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "617 14 43 01",
+                           "rating":  5.0,
+                           "reviews":  28,
+                           "website":  null,
+                           "cities_seen":  [
+                                               "madrid centro"
+                                           ],
+                           "pack_positions":  {
+                                                  "madrid centro":  1
+                                              }
+                       },
+                       {
+                           "name":  "Aire Clim",
+                           "place_id":  "14963950273173889559",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "691 25 75 47",
+                           "rating":  4.8,
+                           "reviews":  172,
+                           "website":  "https://aireclim.com/",
+                           "cities_seen":  [
+                                               "valencia"
+                                           ],
+                           "pack_positions":  {
+                                                  "valencia":  3
+                                              }
+                       },
+                       {
+                           "name":  "Tecno clima",
+                           "place_id":  "10050797502662777956",
+                           "type":  "Empresa de climatización",
+                           "phone":  "611 71 23 12",
+                           "rating":  4.8,
+                           "reviews":  26,
+                           "website":  "http://www.tecnoclima.com.es/",
+                           "cities_seen":  [
+                                               "terrassa"
+                                           ],
+                           "pack_positions":  {
+                                                  "terrassa":  3
+                                              }
+                       },
+                       {
+                           "name":  "Reparacion Aire Acondicionado | Reparacion Caldera | Nevera | Electrodomesticos",
+                           "place_id":  "4276857783599134980",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "937 37 21 39",
+                           "rating":  4.8,
+                           "reviews":  45,
+                           "website":  "https://reparaciondeaireacondicionado.net/",
+                           "cities_seen":  [
+                                               "barcelona"
+                                           ],
+                           "pack_positions":  {
+                                                  "barcelona":  3
+                                              }
+                       },
+                       {
+                           "name":  "APFCLIMA",
+                           "place_id":  "13654358845115004068",
+                           "type":  "Empresa de climatización",
+                           "phone":  "688 40 17 69",
+                           "rating":  5.0,
+                           "reviews":  65,
+                           "website":  "http://apfclima.es/",
+                           "cities_seen":  [
+                                               "terrassa"
+                                           ],
+                           "pack_positions":  {
+                                                  "terrassa":  2
+                                              }
+                       },
+                       {
+                           "name":  "AIR-CONFORT VALLÈS, SL",
+                           "place_id":  "3974052503315282149",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "937 27 42 43",
+                           "rating":  4.5,
+                           "reviews":  32,
+                           "website":  "https://airconfortvalles.com/es/",
+                           "cities_seen":  [
+                                               "sabadell"
+                                           ],
+                           "pack_positions":  {
+                                                  "sabadell":  3
+                                              }
+                       },
+                       {
+                           "name":  "Clic Reparación Terrassa",
+                           "place_id":  "11744125826552521902",
+                           "type":  "Servicio de reparación de aire acondicionado",
+                           "phone":  "936 94 03 96",
+                           "rating":  4.8,
+                           "reviews":  45,
+                           "website":  "https://clicreparacion.com/terrassa/",
+                           "cities_seen":  [
+                                               "terrassa"
+                                           ],
+                           "pack_positions":  {
+                                                  "terrassa":  1
+                                              }
+                       }
+                   ],
+    "organic":  [
+                    {
+                        "domain":  "es.wallapop.com",
+                        "title":  "Instalador de aire acondicionado Sabadell en WALLAPOP",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "terrassa",
+                                            "barcelona",
+                                            "madrid centro",
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  3,
+                                          "barcelona":  5,
+                                          "sabadell":  2,
+                                          "madrid centro":  9,
+                                          "terrassa":  1
+                                      }
+                    },
+                    {
+                        "domain":  "homeserve.es",
+                        "title":  "Técnicos de aire acondicionado en Sabadell - HomeServe",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "terrassa",
+                                            "madrid centro",
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  10,
+                                          "sabadell":  4,
+                                          "madrid centro":  2,
+                                          "terrassa":  4
+                                      }
+                    },
+                    {
+                        "domain":  "habitissimo.es",
+                        "title":  "Empresas de aire acondicionado en Sabadell",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "terrassa",
+                                            "barcelona",
+                                            "madrid centro"
+                                        ],
+                        "positions":  {
+                                          "barcelona":  2,
+                                          "sabadell":  6,
+                                          "madrid centro":  1,
+                                          "terrassa":  10
+                                      }
+                    },
+                    {
+                        "domain":  "atuairesabadell.com",
+                        "title":  "Reparación de aire acondicionado en Sabadell | A Tu Aire",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "sabadell",
+                                            "terrassa"
+                                        ],
+                        "positions":  {
+                                          "sabadell":  9,
+                                          "terrassa":  9
+                                      }
+                    },
+                    {
+                        "domain":  "airmant.com",
+                        "title":  "Servicio Técnico de Aire Acondicionado en Barcelona",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "barcelona"
+                                        ],
+                        "positions":  {
+                                          "sabadell":  8,
+                                          "barcelona":  3
+                                      }
+                    },
+                    {
+                        "domain":  "aireacondicionadogisbert.com",
+                        "title":  "Reparación de Aire Acondicionado en Sabadell",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "terrassa"
+                                        ],
+                        "positions":  {
+                                          "sabadell":  7,
+                                          "terrassa":  5
+                                      }
+                    },
+                    {
+                        "domain":  "milanuncios.com",
+                        "title":  "Servicios tecnico aire acondicionado en Madrid",
+                        "cities_seen":  [
+                                            "madrid centro",
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  4,
+                                          "madrid centro":  5
+                                      }
+                    },
+                    {
+                        "domain":  "radiadorssoler.com",
+                        "title":  "Taller reparación aire acondicionado Sabadell",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "barcelona"
+                                        ],
+                        "positions":  {
+                                          "sabadell":  3,
+                                          "barcelona":  7
+                                      }
+                    },
+                    {
+                        "domain":  "aire-acondicionado.barcelona",
+                        "title":  "Técnico Aire Acondicionado Barcelona Urgente 3H",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "barcelona"
+                                        ],
+                        "positions":  {
+                                          "sabadell":  10,
+                                          "barcelona":  1
+                                      }
+                    },
+                    {
+                        "domain":  "empresaclimatizacion.com",
+                        "title":  "Reparación Aire Acondicionado Sabadell | 93 14 39 169",
+                        "cities_seen":  [
+                                            "sabadell",
+                                            "terrassa"
+                                        ],
+                        "positions":  {
+                                          "sabadell":  5,
+                                          "terrassa":  2
+                                      }
+                    },
+                    {
+                        "domain":  "donclima.com",
+                        "title":  "Reparación de aire acondicionado en Madrid - Don Clima",
+                        "cities_seen":  [
+                                            "madrid centro"
+                                        ],
+                        "positions":  {
+                                          "madrid centro":  3
+                                      }
+                    },
+                    {
+                        "domain":  "tureparacionelectrodomesticosmadrid.com",
+                        "title":  "Reparación Aire Acondicionado Madrid | 912 277 ...",
+                        "cities_seen":  [
+                                            "madrid centro"
+                                        ],
+                        "positions":  {
+                                          "madrid centro":  8
+                                      }
+                    },
+                    {
+                        "domain":  "climelectric.com",
+                        "title":  "CLIMELECTRIC: Aire acondicionado Valencia ...",
+                        "cities_seen":  [
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  6
+                                      }
+                    },
+                    {
+                        "domain":  "serviciotecnicosvalencia.com",
+                        "title":  "Reparacion Aire Acondicionado Valencia",
+                        "cities_seen":  [
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  1
+                                      }
+                    },
+                    {
+                        "domain":  "domustec.net",
+                        "title":  "Reparación de Aire Acondicionado en Barcelona",
+                        "cities_seen":  [
+                                            "barcelona"
+                                        ],
+                        "positions":  {
+                                          "barcelona":  9
+                                      }
+                    },
+                    {
+                        "domain":  "piscilimp.es",
+                        "title":  "Reparaciones aire acondicionado en Valencia",
+                        "cities_seen":  [
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  5
+                                      }
+                    },
+                    {
+                        "domain":  "climaribas.es",
+                        "title":  "Aire Acondicionado Terrassa - Clima Ribas",
+                        "cities_seen":  [
+                                            "terrassa"
+                                        ],
+                        "positions":  {
+                                          "terrassa":  7
+                                      }
+                    },
+                    {
+                        "domain":  "serviciotecnicoficialvalencia.com",
+                        "title":  "Reparacion Aire Acondicionado Valencia 963 236 937",
+                        "cities_seen":  [
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  2
+                                      }
+                    },
+                    {
+                        "domain":  "tcastillo.es",
+                        "title":  "Sistemas de climatización y aire acondicionado",
+                        "cities_seen":  [
+                                            "madrid centro"
+                                        ],
+                        "positions":  {
+                                          "madrid centro":  6
+                                      }
+                    },
+                    {
+                        "domain":  "satgama.com",
+                        "title":  "Reparar Aire Acondicionado Barcelona - Gama Servicio Técnico",
+                        "cities_seen":  [
+                                            "barcelona"
+                                        ],
+                        "positions":  {
+                                          "barcelona":  10
+                                      }
+                    },
+                    {
+                        "domain":  "climaconfortair.es",
+                        "title":  "Reparación de aire acondicionado Barcelona | Climaconfortair",
+                        "cities_seen":  [
+                                            "barcelona"
+                                        ],
+                        "positions":  {
+                                          "barcelona":  6
+                                      }
+                    },
+                    {
+                        "domain":  "arteyclima.es",
+                        "title":  "Reparación de aire acondicionado en Madrid al mejor precio",
+                        "cities_seen":  [
+                                            "madrid centro"
+                                        ],
+                        "positions":  {
+                                          "madrid centro":  4
+                                      }
+                    },
+                    {
+                        "domain":  "grupolasser.com",
+                        "title":  "Reparación de aire acondicionado en Madrid y SAT ...",
+                        "cities_seen":  [
+                                            "madrid centro"
+                                        ],
+                        "positions":  {
+                                          "madrid centro":  10
+                                      }
+                    },
+                    {
+                        "domain":  "manosalva.es",
+                        "title":  "Instalación aire acondicionado Valencia capital y provincia ...",
+                        "cities_seen":  [
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  7
+                                      }
+                    },
+                    {
+                        "domain":  "prontopro.es",
+                        "title":  "Los mejores 40 Reparadores Aire Acondicionado en Valencia",
+                        "cities_seen":  [
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  9
+                                      }
+                    },
+                    {
+                        "domain":  "vallesclima.com",
+                        "title":  "Mantenimiento aires acondicionados Terrassa - Valles Clima",
+                        "cities_seen":  [
+                                            "terrassa"
+                                        ],
+                        "positions":  {
+                                          "terrassa":  8
+                                      }
+                    },
+                    {
+                        "domain":  "dualclima.net",
+                        "title":  "DualClima: Reparación de Aires acondicionados en ...",
+                        "cities_seen":  [
+                                            "barcelona"
+                                        ],
+                        "positions":  {
+                                          "barcelona":  4
+                                      }
+                    },
+                    {
+                        "domain":  "hercam.es",
+                        "title":  "Reparar aire acondicionado Valencia",
+                        "cities_seen":  [
+                                            "valencia"
+                                        ],
+                        "positions":  {
+                                          "valencia":  8
+                                      }
+                    },
+                    {
+                        "domain":  "quimservice.com",
+                        "title":  "Instaladores de aire acondicionado en Terrassa y Sabadell",
+                        "cities_seen":  [
+                                            "terrassa"
+                                        ],
+                        "positions":  {
+                                          "terrassa":  3
+                                      }
+                    },
+                    {
+                        "domain":  "tallerstopgoterrassa.com",
+                        "title":  "Reparación aire acondicionado – TallerStopGoTerrasa",
+                        "cities_seen":  [
+                                            "terrassa"
+                                        ],
+                        "positions":  {
+                                          "terrassa":  6
+                                      }
+                    },
+                    {
+                        "domain":  "asmclimatizacion.es",
+                        "title":  "▷ Reparación Aire Acondicionado Madrid 🛠️【605 344 ...",
+                        "cities_seen":  [
+                                            "madrid centro"
+                                        ],
+                        "positions":  {
+                                          "madrid centro":  7
+                                      }
+                    },
+                    {
+                        "domain":  "barnatecnic.com",
+                        "title":  "Reparación de Aire acondicionado en Barcelona",
+                        "cities_seen":  [
+                                            "barcelona"
+                                        ],
+                        "positions":  {
+                                          "barcelona":  8
+                                      }
+                    }
+                ]
+}

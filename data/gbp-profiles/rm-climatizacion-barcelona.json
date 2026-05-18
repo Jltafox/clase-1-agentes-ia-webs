@@ -1,0 +1,626 @@
+﻿{
+    "search_metadata":  {
+                            "id":  "6a0b1d493047f3747107c1c7",
+                            "status":  "Success",
+                            "json_endpoint":  "https://serpapi.com/searches/YmTfVMhdS53Rbo5J-d98ZQ/6a0b1d493047f3747107c1c7.json",
+                            "pixel_position_endpoint":  "https://serpapi.com/searches/YmTfVMhdS53Rbo5J-d98ZQ/6a0b1d493047f3747107c1c7.json_with_pixel_position",
+                            "created_at":  "2026-05-18 14:08:09 UTC",
+                            "processed_at":  "2026-05-18 14:08:09 UTC",
+                            "google_url":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026oq=reparaci%C3%B3n+de+aire+acondicionado\u0026uule=w+CAIQICIZQmFyY2Vsb25hLENhdGFsb25pYSxTcGFpbg\u0026hl=es\u0026gl=es\u0026ludocid=5883393374671258138\u0026sourceid=chrome\u0026ie=UTF-8",
+                            "raw_html_file":  "https://serpapi.com/searches/YmTfVMhdS53Rbo5J-d98ZQ/6a0b1d493047f3747107c1c7.html",
+                            "total_time_taken":  1.28
+                        },
+    "search_parameters":  {
+                              "engine":  "google",
+                              "q":  "reparación de aire acondicionado",
+                              "location_requested":  "Barcelona, Catalonia, Spain",
+                              "location_used":  "Barcelona,Catalonia,Spain",
+                              "google_domain":  "google.com",
+                              "hl":  "es",
+                              "gl":  "es",
+                              "ludocid":  "5883393374671258138",
+                              "device":  "desktop"
+                          },
+    "search_information":  {
+                               "query_displayed":  "reparación de aire acondicionado",
+                               "total_results":  180,
+                               "time_taken_displayed":  0.26,
+                               "organic_results_state":  "Results for exact spelling",
+                               "results_for":  "Barcelona"
+                           },
+    "local_map":  {
+                      "image":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/xmOodtb6r7G61RSLOxOmsg.png",
+                      "gps_coordinates":  {
+                                              "latitude":  41.40102053263129,
+                                              "longitude":  2.1581268310546875
+                                          }
+                  },
+    "local_results":  {
+                          "places":  [
+                                         {
+                                             "position":  1,
+                                             "rating":  4.9,
+                                             "reviews":  35,
+                                             "reviews_original":  "(35)",
+                                             "links":  {
+                                                           "website":  "http://www.climagisa.com/"
+                                                       },
+                                             "place_id":  "9102841070733923168",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=9102841070733923168\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.327284,
+                                                                     "longitude":  1.892847
+                                                                 },
+                                             "title":  "Climagisa",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 10 años en activo",
+                                             "phone":  "633 77 78 21",
+                                             "hours":  "Abierto · Cierre: 19:00"
+                                         },
+                                         {
+                                             "position":  2,
+                                             "rating":  4.9,
+                                             "reviews":  268,
+                                             "reviews_original":  "(268)",
+                                             "links":  {
+                                                           "directions":  "https://www.google.com/maps/dir//RM+CLIMATIZACI%C3%93N+AEROTERMIA+Y+REFRIGERACI%C3%93N,+Carrer+de+Floridablanca,+101,+08015+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a4a35d818686d1:0x51a6031a4b2ac21a?sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q48ADegQIHRAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "5883393374671258138",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11tnmftx71",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.380122,
+                                                                     "longitude":  2.160502
+                                                                 },
+                                             "title":  "RM CLIMATIZACIÓN AEROTERMIA Y REFRIGERACIÓN",
+                                             "type":  "Empresa de climatización",
+                                             "years_in_business":  "Más de 3 años en activo",
+                                             "address":  "Barcelona",
+                                             "phone":  "630 24 89 41",
+                                             "hours":  "Abierto 24 horas"
+                                         },
+                                         {
+                                             "position":  3,
+                                             "rating":  4.8,
+                                             "reviews":  45,
+                                             "reviews_original":  "(45)",
+                                             "description":  "Servicios en las instalaciones no disponibles",
+                                             "links":  {
+                                                           "website":  "https://reparaciondeaireacondicionado.net/",
+                                                           "directions":  "https://www.google.com/maps/dir//Reparacion+Aire+Acondicionado+%7C+Reparacion+Caldera+%7C+Nevera+%7C+Electrodomesticos,+Carrer+de+Buenos+Aires,+44,+08036+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a4a357446d68f1:0x3b5a737e924a7904?sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q48ADegQIHhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "4276857783599134980",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=4276857783599134980\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11y7byz_3w",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.392575,
+                                                                     "longitude":  2.147464
+                                                                 },
+                                             "title":  "Reparacion Aire Acondicionado | Reparacion Caldera | Nevera | Electrodomesticos",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "address":  "Barcelona",
+                                             "phone":  "937 37 21 39",
+                                             "hours":  "Abierto · Cierre: 20:00"
+                                         },
+                                         {
+                                             "position":  4,
+                                             "rating":  4.8,
+                                             "reviews":  68,
+                                             "reviews_original":  "(68)",
+                                             "description":  "Estimaciones online",
+                                             "links":  {
+                                                           "website":  "https://zuriaclimatizacion.es/",
+                                                           "directions":  "https://www.google.com/maps/dir//Zuria+Aire+Acondicionado+Barcelona,+Carrer+d\u0027Arag%C3%B3,+33,+08015+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a4a3f593aa7177:0x262c182ae571bc6d?sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q48ADegQILhAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "2750600044933659757",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=2750600044933659757\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/11sh230yq8",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.379444,
+                                                                     "longitude":  2.147738
+                                                                 },
+                                             "title":  "Zuria Aire Acondicionado Barcelona",
+                                             "type":  "Empresa de climatización",
+                                             "years_in_business":  "Más de 7 años en activo",
+                                             "address":  "Barcelona",
+                                             "phone":  "936 94 04 93",
+                                             "hours":  "Abierto · Cierre: 20:00"
+                                         },
+                                         {
+                                             "position":  5,
+                                             "rating":  4.8,
+                                             "reviews":  182,
+                                             "reviews_original":  "(182)",
+                                             "description":  "Servicios en las instalaciones·Estimaciones online",
+                                             "links":  {
+                                                           "website":  "http://www.domuserveis.com/",
+                                                           "directions":  "https://www.google.com/maps/dir//DOMUS+serveis,+Av.+Diagonal,+382,+08037+Barcelona/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x12a49c764208b071:0x19b1b485ebc6bff5?sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q48ADegQIQRAA\u0026hl=es\u0026gl=es"
+                                                       },
+                                             "place_id":  "1851459409105305589",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=1851459409105305589\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "provider_id":  "/g/1tgldgw9",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.399072,
+                                                                     "longitude":  2.16873
+                                                                 },
+                                             "title":  "DOMUS serveis",
+                                             "type":  "Contratista de aire acondicionado",
+                                             "years_in_business":  "Más de 20 años en activo",
+                                             "address":  "Barcelona",
+                                             "phone":  "649 58 25 15",
+                                             "hours":  "Abierto 24 horas"
+                                         },
+                                         {
+                                             "position":  6,
+                                             "rating":  4.8,
+                                             "reviews":  13,
+                                             "reviews_original":  "(13)",
+                                             "links":  {
+                                                           "website":  "https://reparacion-barcelona.es/"
+                                                       },
+                                             "place_id":  "8486201008562178947",
+                                             "place_id_search":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=8486201008562178947\u0026q=reparaci%C3%B3n+de+aire+acondicionado",
+                                             "gps_coordinates":  {
+                                                                     "latitude":  41.392668,
+                                                                     "longitude":  2.140189
+                                                                 },
+                                             "title":  "Reparaciones Barcelona",
+                                             "type":  "Servicio de reparación de aire acondicionado",
+                                             "years_in_business":  "Más de 15 años en activo",
+                                             "phone":  "691 80 99 60",
+                                             "hours":  "Abierto · Cierre: 18:00"
+                                         }
+                                     ],
+                          "more_locations_link":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026udm=1\u0026lsack=Sh0LasvgCYCjptQP6qzi-Q8\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QjGp6BAgjEAE"
+                      },
+    "organic_results":  [
+                            {
+                                "position":  1,
+                                "title":  "Técnico Aire Acondicionado Barcelona Urgente 3H",
+                                "link":  "https://aire-acondicionado.barcelona/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://aire-acondicionado.barcelona/\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECCoQAQ",
+                                "displayed_link":  "https://aire-acondicionado.barcelona",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI8V7ABkF95bapMl-4ClnSC0.png",
+                                "snippet":  "Servicio técnico aire acondicionado Barcelona al mejor precio. ✓ Mantenimientos. ⏰Urgente 3H. Desplazamiento gratis. ☎️ 93 181 94 81.",
+                                "snippet_highlighted_words":  [
+                                                                  "Servicio técnico aire acondicionado Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Servicio técnico aire acondicionado Barcelona al mejor precio. ✓ Mantenimientos. ⏰Urgente 3H. Desplazamiento gratis. ☎️ 93 181 94 81.",
+                                                                         "source_info_link":  "https://aire-acondicionado.barcelona/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI15S_-Zdn56IgtKEGxvZ338_-IAizsOpdb-Lq0BReFtO.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://aire-acondicionado.barcelona/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Faire-acondicionado.barcelona%2F",
+                                "source":  "aire-acondicionado.barcelona"
+                            },
+                            {
+                                "position":  2,
+                                "title":  "Empresas de Reparar aire acondicionado en Barcelona ...",
+                                "link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECCwQAQ",
+                                "displayed_link":  "https://www.habitissimo.es › empresas › barcelona",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI1XY0D9y7EAYcWgecJYGd08.png",
+                                "snippet":  "Encuentra empresas de reparar aire acondicionado en Barcelona en nuestro directorio: opiniones, fotos y precio medio de reparar aire acondicionado.",
+                                "snippet_highlighted_words":  [
+                                                                  "empresas de reparar aire acondicionado en Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Encuentra empresas de reparar aire acondicionado en Barcelona en nuestro directorio: opiniones, fotos y precio medio de reparar aire acondicionado.",
+                                                                         "source_info_link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI2zV_09QfV9wup6fstq1eTTw6MxEiGLzL8s4oBCcj3kt.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.habitissimo.es%2Fempresas%2Freparar-aire-acondicionado%2Fbarcelona",
+                                "source":  "habitissimo"
+                            },
+                            {
+                                "position":  3,
+                                "title":  "Servicio Técnico de Aire Acondicionado en Barcelona",
+                                "link":  "https://www.airmant.com/articulos/servicio-tecnico-aire-acondicionado-barcelona/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.airmant.com/articulos/servicio-tecnico-aire-acondicionado-barcelona/\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECEIQAQ",
+                                "displayed_link":  "https://www.airmant.com › articulos › servicio-tecnico-...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPIy1mCWCqOkOX3qMjjV7i-UU.png",
+                                "snippet":  "Prestamos servicio de reparación e instalación de aire acondicionado a toda Barcelona. Con más de 30 años de experiencia y dedicación, Air-Mant, es ya todo un ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Prestamos servicio de reparación e instalación de aire acondicionado a toda Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Prestamos servicio de reparación e instalación de aire acondicionado a toda Barcelona. Con más de 30 años de experiencia y dedicación, Air-Mant, es ya todo un ...",
+                                                                         "source_info_link":  "https://www.airmant.com/articulos/servicio-tecnico-aire-acondicionado-barcelona/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI2dnSZDlvmVM9I0gy0Xo5Noq-lmv1_FRAVvbU-75icI1.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.airmant.com/articulos/servicio-tecnico-aire-acondicionado-barcelona/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.airmant.com%2Farticulos%2Fservicio-tecnico-aire-acondicionado-barcelona%2F",
+                                "source":  "Air-mant"
+                            },
+                            {
+                                "position":  4,
+                                "title":  "DualClima: Reparación de Aires acondicionados en ...",
+                                "link":  "https://dualclima.net/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://dualclima.net/\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECC0QAQ",
+                                "displayed_link":  "https://dualclima.net",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPIzFH348G2da6GB1ieveThcs.png",
+                                "snippet":  "Más de 20 años de experiencia en el sector nos avalan · Reparación de aires acondicionados residenciales y comerciales. · Mantenimiento preventivo de sistemas ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparación de aires acondicionados residenciales y comerciales"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Más de 20 años de experiencia en el sector nos avalan · Reparación de aires acondicionados residenciales y comerciales. · Mantenimiento preventivo de sistemas ...",
+                                                                         "source_info_link":  "https://dualclima.net/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI2e-koEzXgkZm6EgQprJ5gCAWkNonkayQwEixs6Kechp.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://dualclima.net/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fdualclima.net%2F",
+                                "source":  "DualClima"
+                            },
+                            {
+                                "position":  5,
+                                "title":  "Reparación de Aire Acondicionado Barcelona en WALLAPOP",
+                                "link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/barcelona",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/barcelona\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECCcQAQ",
+                                "displayed_link":  "https://es.wallapop.com › ... › de Aire Acondicionado",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI-qq2R-scKMoNnBvyuLQixs.png",
+                                "snippet":  "Reparacion de aireacondicionado desplazamiento,35€. Aire acondicionado listo hoy ❄️ Limpieza + recarga de gas. Barcelona ciudad. Garantía de 15 días.",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparacion de aireacondicionado desplazamiento,35€"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Reparacion de aireacondicionado desplazamiento,35€. Aire acondicionado listo hoy ❄️ Limpieza + recarga de gas. Barcelona ciudad. Garantía de 15 días.",
+                                                                         "source_info_link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/barcelona",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI1M6BBpP_o-ty3RRK_qLOmZpqAW3MqpmyyrBIcPuEIzr.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/barcelona\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fes.wallapop.com%2Fservicios%2Freparacion-de-aire-acondicionado%2Fbarcelona",
+                                "source":  "Wallapop"
+                            },
+                            {
+                                "position":  6,
+                                "title":  "Reparación de aire acondicionado Barcelona | Climaconfortair",
+                                "link":  "https://climaconfortair.es/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://climaconfortair.es/\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECEMQAQ",
+                                "displayed_link":  "https://climaconfortair.es",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI5wKNttFo7nCTvc-Z9B4phQ.png",
+                                "snippet":  "Reparación de aire acondicionado Barcelona e instalación de todas las primeras marcas y blancas. Somos expertos en reparar aires.",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparación de aire acondicionado Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Reparación de aire acondicionado Barcelona e instalación de todas las primeras marcas y blancas. Somos expertos en reparar aires.",
+                                                                         "source_info_link":  "https://climaconfortair.es/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI6jlaPweTn9gEiduMtX_6kt5eSu8tulMGCXZxD2MA69z.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://climaconfortair.es/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fclimaconfortair.es%2F",
+                                "source":  "climaconfortair.es"
+                            },
+                            {
+                                "position":  7,
+                                "title":  "Taller reparación aire acondicionado Barcelona",
+                                "link":  "https://radiadorssoler.com/taller-reparacion-aire-acondicionado-barcelona/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://radiadorssoler.com/taller-reparacion-aire-acondicionado-barcelona/\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECCgQAQ",
+                                "displayed_link":  "https://radiadorssoler.com › taller-reparacion-aire-acondi...",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI8uvN92PhN_I6l5L1D6y-gs.png",
+                                "snippet":  "Llevamos a cabo una evaluación exhaustiva de tu sistema de aire acondicionado y te proporcionamos recomendaciones claras y transparentes. Tu satisfacción y ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Llevamos a cabo una evaluación exhaustiva de tu sistema de aire acondicionado"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Llevamos a cabo una evaluación exhaustiva de tu sistema de aire acondicionado y te proporcionamos recomendaciones claras y transparentes. Tu satisfacción y ...",
+                                                                         "source_info_link":  "https://radiadorssoler.com/taller-reparacion-aire-acondicionado-barcelona/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPIyKzGYAC8MmlNtmkPhYBBc7TmgVrq73-Z7vwPkvgvams.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://radiadorssoler.com/taller-reparacion-aire-acondicionado-barcelona/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fradiadorssoler.com%2Ftaller-reparacion-aire-acondicionado-barcelona%2F",
+                                "source":  "Radiadores Soler"
+                            },
+                            {
+                                "position":  8,
+                                "title":  "Reparación de Aire acondicionado en Barcelona",
+                                "link":  "https://barnatecnic.com/reparacion-aire-acondicionado/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://barnatecnic.com/reparacion-aire-acondicionado/\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECC8QAQ",
+                                "displayed_link":  "https://barnatecnic.com › reparacion-aire-acondicionado",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI8PW4LYPWONZ6n2-H_-rPmM.png",
+                                "snippet":  "Servicio de reparación de aires acondicionados en Barcelona ✓ Servicio 24 H ✔️ +15 años \u0026 PRECIOS AJUSTADOS ☎ 93 737 62 93 ¡Llámanos ahora!",
+                                "snippet_highlighted_words":  [
+                                                                  "Servicio de reparación de aires acondicionados en Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Servicio de reparación de aires acondicionados en Barcelona ✓ Servicio 24 H ✔️ +15 años \u0026 PRECIOS AJUSTADOS ☎ 93 737 62 93 ¡Llámanos ahora!",
+                                                                         "source_info_link":  "https://barnatecnic.com/reparacion-aire-acondicionado/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI4Kdwb1cl5VGgTrw9PvmFCXakvU1UIH0hmOSjVOV2Rb3.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://barnatecnic.com/reparacion-aire-acondicionado/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fbarnatecnic.com%2Freparacion-aire-acondicionado%2F",
+                                "source":  "Barnatecnic"
+                            },
+                            {
+                                "position":  9,
+                                "title":  "Reparación de Aire Acondicionado en Barcelona",
+                                "link":  "https://www.domustec.net/reparacion-aires/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://www.domustec.net/reparacion-aires/\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECCsQAQ",
+                                "displayed_link":  "https://www.domustec.net › reparacion-aires",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI_nwvEYWZ5aiqAmbsMjAyDs.png",
+                                "snippet":  "Reparamos tu aire acondicionado de forma rápida y profesional, sin cambiar piezas innecesarias ni aplicar “parches”. Técnicos propios en Barcelona. SOLICITAR ...",
+                                "snippet_highlighted_words":  [
+                                                                  "Reparamos tu aire acondicionado de forma rápida y profesional"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Reparamos tu aire acondicionado de forma rápida y profesional, sin cambiar piezas innecesarias ni aplicar “parches”. Técnicos propios en Barcelona. SOLICITAR ...",
+                                                                         "source_info_link":  "https://www.domustec.net/reparacion-aires/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPIyLLuDQViclRWAKiFTjtnNFs7U3Wq3fNV_t7f0qiTy1l.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://www.domustec.net/reparacion-aires/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fwww.domustec.net%2Freparacion-aires%2F",
+                                "source":  "Domustec Climatización"
+                            },
+                            {
+                                "position":  10,
+                                "title":  "Reparar Aire Acondicionado Barcelona - Gama Servicio Técnico",
+                                "link":  "https://satgama.com/reparacion/",
+                                "redirect_link":  "https://www.google.com/url?sa=t\u0026source=web\u0026rct=j\u0026opi=89978449\u0026url=https://satgama.com/reparacion/\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QFnoECCkQAQ",
+                                "displayed_link":  "https://satgama.com › reparacion",
+                                "favicon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPI_yi4DAJUUKsbF70ayFCwv8.png",
+                                "snippet":  "Expertos en Reparar Aire Acondicionado Barcelona. Técnicos cualificados, presupuesto transparente y atención en toda el área metropolitana.",
+                                "snippet_highlighted_words":  [
+                                                                  "Expertos en Reparar Aire Acondicionado Barcelona"
+                                                              ],
+                                "about_this_result":  {
+                                                          "source":  {
+                                                                         "description":  "Expertos en Reparar Aire Acondicionado Barcelona. Técnicos cualificados, presupuesto transparente y atención en toda el área metropolitana.",
+                                                                         "source_info_link":  "https://satgama.com/reparacion/",
+                                                                         "icon":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/cM_P_g878WbCGGJgTVDPIwq7QotHATyIpIVDKt4v2cd09a_BePez99zD0nMgB5L3.png"
+                                                                     },
+                                                          "languages":  [
+                                                                            "es"
+                                                                        ],
+                                                          "regions":  [
+                                                                          "ES"
+                                                                      ]
+                                                      },
+                                "about_page_link":  "https://www.google.com/search?q=About+https://satgama.com/reparacion/\u0026tbm=ilp",
+                                "about_page_serpapi_link":  "https://serpapi.com/search.json?engine=google_about_this_result\u0026google_domain=google.com\u0026q=About+https%3A%2F%2Fsatgama.com%2Freparacion%2F",
+                                "source":  "satgama.com"
+                            }
+                        ],
+    "places_sites":  [
+                         {
+                             "position":  1,
+                             "title":  "Las 10 mejores empresas de reparar aire acondicionado en Barcelona",
+                             "link":  "https://www.habitissimo.es/empresas/reparar-aire-acondicionado/barcelona",
+                             "image":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/HvegshQxcQOlGoF6FQLlE5nwq0MaLGov-Z-nuYdrW7c.jpeg",
+                             "source":  "habitissimo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/iOWQXaElf7LT1hmyJeLm7O7Dngf014kALYlgWHHK_c8.png"
+                         },
+                         {
+                             "position":  2,
+                             "title":  "Reparación de Aire Acondicionado Barcelona",
+                             "link":  "https://es.wallapop.com/servicios/reparacion-de-aire-acondicionado/barcelona",
+                             "image":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/SIl5wN_9HpjYHwMSn561EXsUx_zvokGhDyRfi2t8bos.jpeg",
+                             "source":  "Wallapop",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/LXjKPq6ib9tIiNdLvYsLeVvRn6vXAXxnFDoecKDiEUo.png"
+                         },
+                         {
+                             "position":  3,
+                             "title":  "Tecnico aire acondicionado Anuncios de servicios con ofertas y baratos en Barcelona Provincia",
+                             "link":  "https://www.milanuncios.com/servicios-en-barcelona/tecnico-aire-acondicionado.htm",
+                             "image":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/3x2Pkw6qVpDvWt8FTRXz1gjg7R34HWPKw3t7h9U-MNw.jpeg",
+                             "source":  "Milanuncios",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/32OFM8UNz4Gtjr9ndy7BHkJZpgdk_lf--aD7_OIL81k.png"
+                         },
+                         {
+                             "position":  4,
+                             "title":  "Servicio técnico aire acondicionado en Barcelona capital",
+                             "link":  "https://www.paginasamarillas.es/a/servicio-tecnico-aire-acondicionado/barcelona/barcelona/",
+                             "image":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/r2lXmRtXwoB6vaZ0eV-B4sMdrBfZWTovMCZcAYKSy5o.png",
+                             "source":  "Páginas Amarillas",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/VwDGtmDxAAzX36Myf65zQjER7Yk2TTuivw9Cy0FxLXc.png"
+                         },
+                         {
+                             "position":  5,
+                             "title":  "Los mejores 40 Reparadores Aire Acondicionado en Barcelona",
+                             "link":  "https://prontopro.es/barcelona-reparacion-aire-acondicionado",
+                             "source":  "ProntoPro",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/WHw12eFBzrwLOs7E4m_RDOhSOwOQvH7mSpda3erXI6E.png"
+                         },
+                         {
+                             "position":  6,
+                             "title":  "Reparar aire acondicionado Barcelona",
+                             "link":  "https://www.facebook.com/100069757815339/?locale=tl_PH",
+                             "source":  "Facebook",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/VBF3FZXROlAyKrkFzoUC69fxEpz1ZpyUwkdr9Y1beUY.png"
+                         },
+                         {
+                             "position":  7,
+                             "title":  "Servicio técnico aire acondicionado Las Palmas de Gran Canaria, Reparación Instalación",
+                             "link":  "https://peninsula.canarias.uno/servicio-tecnico-aire-acondicionado-las-palmas-de-gran-canaria/",
+                             "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZNNoiXnWhIemKjTa7ZDvXuy9U0tZVqA\u0026s=0",
+                             "source":  "Aire acondicionado",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/8uEEjW3N6AEjU3qt4zo5y7OvxwwEPLzFhZ9leS57vUk.png"
+                         },
+                         {
+                             "position":  8,
+                             "title":  "Las 10 mejores Empresas de Reparación de Aire Acondicionado en Valencia Provincia",
+                             "link":  "https://valencia-provincia.infoisinfo.es/busqueda/reparacion_de_aire_acondicionado",
+                             "source":  "Infoisinfo",
+                             "source_thumbnail":  "https://serpapi.com/searches/6a0b1d493047f3747107c1c7/images/UndviHNRUvPEZycDRQ0fpz9RbshNc9tRw3MJ5Qxs7Yc.png"
+                         }
+                     ],
+    "filters":  [
+                    {
+                        "name":  "Abierto ahora",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro",
+                                           "q":  "reparación de aire acondicionado abierto ahora"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QxKsJKAB6BAgXEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado+abierto+ahora\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FxGX_h13JKBCeunnz-8_c5AU8kOn5j36-EgEg6aX_SrAKzR2UUpNqsi7IvHXcuZ5MfoHe1tk1qcnmc5Jz7JszU4cP_sy4y57NqNdSCtB5RIzA_VCTt3tD62XZEjCATGQuhoVDYFGksP-JseygJMTgD9ZbWJFQfVSFhnUCiVGhInuHpxVX2jt0dYkMSD-qr_60RbbqvBkbNyiGDmxFDp8GvFvIro"
+                    },
+                    {
+                        "name":  "Barcelona",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-wtnP9KNrZwkpJrg7zPaYLQwlrNKpns766qaBK98vizrUptCwAg0NZ6z1zs4mhsrqZ3lZRu27yZ6j8h2U6OkQD99-AO5brgfDaTFHkCztuzefCmkb1WbxEaH4kMFjO9SPHqunopMjvI4E0XUPUQoJTHnA1cnvs5FnFK8K8WaNDgGhvUMglWi2IbIA8sf2rl46wvj5weBS6R9joe2otAz9dTx5-OXGTkvsHGiP15Zn8pCcmlcx",
+                                           "q":  "Reparación de aire acondicionado Barcelona"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+de+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-wtnP9KNrZwkpJrg7zPaYLQwlrNKpns766qaBK98vizrUptCwAg0NZ6z1zs4mhsrqZ3lZRu27yZ6j8h2U6OkQD99-AO5brgfDaTFHkCztuzefCmkb1WbxEaH4kMFjO9SPHqunopMjvI4E0XUPUQoJTHnA1cnvs5FnFK8K8WaNDgGhvUMglWi2IbIA8sf2rl46wvj5weBS6R9joe2otAz9dTx5-OXGTkvsHGiP15Zn8pCcmlcx\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QxKsJKAF6BAgbEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=Reparaci%C3%B3n+de+aire+acondicionado+Barcelona\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-wtnP9KNrZwkpJrg7zPaYLQwlrNKpns766qaBK98vizrUptCwAg0NZ6z1zs4mhsrqZ3lZRu27yZ6j8h2U6OkQD99-AO5brgfDaTFHkCztuzefCmkb1WbxEaH4kMFjO9SPHqunopMjvI4E0XUPUQoJTHnA1cnvs5FnFK8K8WaNDgGhvUMglWi2IbIA8sf2rl46wvj5weBS6R9joe2otAz9dTx5-OXGTkvsHGiP15Zn8pCcmlcx"
+                    },
+                    {
+                        "name":  "Mejor valorados",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU",
+                                           "q":  "reparación de aire acondicionado mejor valorados"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QxKsJKAJ6BAgaEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado+mejor+valorados\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-i30ktpb-ek_lujuWbFW3XTsM-Uh3uXx9N825wJuZtypM2iki_mhh9m-H7utNXW95tBiBhFG7x_CoNcB2fzeZF3CiFwhTold8b_L1oS1khghuCUGmH1Q_NJFD9yfqf3l9LzBoJvmubq0XZLaKupgZ_maw984r0WWtWzgBHFEFQx_ZgvOeSF5oU7p-EA0ujpbGkbO_LixeMyOBl4vatqqAz7H3YYU"
+                    },
+                    {
+                        "name":  "Estimaciones online",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc",
+                                           "q":  "reparación de aire acondicionado estimaciones online"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QxKsJKAN6BAgZEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado+estimaciones+online\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vy2n97vFhJ-_IkjMrHbUWZLwJKpcLAarFJFha32-ziwf-a1jxdMp0-mnFXL3PNilq4hWMSNfMJ8zjptJmUwf10u3zro-RcprHSdqH4u4Pzsd2llnaAqMLW65PcgR8C9Dh0Uadbvj5xgx4ZxlVZci_OdL5fzdhyy8G-lR-36Gh96EbHbVMdKKlMmlqVevOEcK2ZNCfoEjtxygk2fDpafd_-gYlFI6Kmwxkz7s1_GX7AMMNVPHFAJI_-0va_UFZ-0iOkpaV8Xv7T7wdo0fuLihOvS0Dwc"
+                    },
+                    {
+                        "name":  "Auto",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE",
+                                           "q":  "reparación de aire acondicionado de auto"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QxKsJKAR6BAgYEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado+de+auto\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-5h4c-LJJbleaRn8yQ0c3Df5JmI3gjflrXfEvHGHHL_L92VuVew-k1qG0SrXqbntwltGo-BEvXpY1_iF9n2wjYwsNX-rd4UTDlqUWF7QH-QYXoS7mIBYfrRloG9sClzsXKvajeC2J23zaKF7XnLKUilUpjYH0fUY720Qt-gmEB7uPSyaRaMx56EP1MYYATocRdUJZeDQlHK31lZy9aXBmhck1lPE"
+                    },
+                    {
+                        "name":  "Compresores",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg",
+                                           "q":  "Reparación de compresores de AIRE acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QxKsJKAV6BAhpEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=Reparaci%C3%B3n+de+compresores+de+AIRE+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-289WQeQU7NQW8rMei76JvHCuO0dIO2eFRDR4jh4d24ZQiQTS0PyZZSyPEW_fVoDLi3wusVpCIXqPc7zKGaiGbR2aqYshUPRpF3yKnMBxgZOljnFSAOcqY4ykzMTAg9HL6bFm_SaJK3fIzvkEkxICDLnPQlhGhVk4BAKmyXgIcvw6e5_2sSq6HpKdsJteWbOchPMTErF3iX52ctPiXIP03KXo_GFwJ21NcRgJm_CzG6RD7O1dkYouN6gexXbkQzLSbjetNg"
+                    },
+                    {
+                        "name":  "Curso",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk",
+                                           "q":  "Curso de reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QxKsJKAZ6BAhoEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=Curso+de+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-MgYQH70H7HweQN6ga6cpZMvp__4fusqv8mrDsAtYZvo6C6-9inaSndpMuIoI6iM9NWiRmtYk_ID-YKeUhEjxcxbh8nwOaKbBwQRF_aMAB9DdG6_dxHDFxbMAQ2zwCA8eCzRDGLGmJT1NlL_0vgTD5JLrD-MChF9nZroVVVpCYneSqRkbra4YKOcoIB1ftd2FAwpE1QLZwaxPcxfRLq1ashM0Lv1VQ8O313aMnCEvI3f6ULgk"
+                    },
+                    {
+                        "name":  "Instalación",
+                        "parameters":  {
+                                           "uds":  "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w",
+                                           "q":  "Instalación y reparación de aire acondicionado"
+                                       },
+                        "link":  "https://www.google.com/search?sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026q=Instalaci%C3%B3n+y+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w\u0026sa=X\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8QxKsJKAd6BAhnEAE\u0026ictx=0",
+                        "serpapi_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=Instalaci%C3%B3n+y+reparaci%C3%B3n+de+aire+acondicionado\u0026uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p0XbCkeq71ZAsrGSWhDpjvEwQIkSMplWm362zPerWlRUpQ8GuERUtML2vmafx4aR1jvqBeC_1GU6bT0T7FbS12XfZBS5dGI-kLFCam2AK2MoF3xlSMfVS45xEHjyn0XY60JvmpLD5fVqo7GhE-an9QHg7PVJnzkI2IhqatXQP--f_l1ReLfd60hYxYtQjTzQEXP8z6XiNoTq7hW215_uz1NZLF-XcW-II7HGRn9RlPPXFf5w"
+                    }
+                ],
+    "pagination":  {
+                       "current":  1,
+                       "next":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=10\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8NMDegQIQBAW",
+                       "other_pages":  {
+                                           "2":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=10\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAE",
+                                           "3":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=20\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAG",
+                                           "4":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=30\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAI",
+                                           "5":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=40\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAK",
+                                           "6":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=50\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAM",
+                                           "7":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=60\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAO",
+                                           "8":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=70\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAQ",
+                                           "9":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=80\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAS",
+                                           "10":  "https://www.google.com/search?q=reparaci%C3%B3n+de+aire+acondicionado\u0026sca_esv=9458235e149faec9\u0026gl=es\u0026hl=es\u0026ei=Sh0LasvgCYCjptQP6qzi-Q8\u0026start=90\u0026sa=N\u0026sstk=AU9db-D001u6ypn7kygnVcUM6Jpfe9p-VISkA7FEF17QqJiJ5vVmF7vj0NmvgWrS-MbK9oB7Cg25FjoJy1ITm0HUqoPaq3n-mzWyuA\u0026ved=2ahUKEwjLrbO9gcOUAxWAkYkEHWqWOP8Q8tMDegQIQBAU"
+                                       }
+                   },
+    "serpapi_pagination":  {
+                               "current":  1,
+                               "next_link":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "next":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                               "other_pages":  {
+                                                   "2":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=10",
+                                                   "3":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=20",
+                                                   "4":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=30",
+                                                   "5":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=40",
+                                                   "6":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=50",
+                                                   "7":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=60",
+                                                   "8":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=70",
+                                                   "9":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=80",
+                                                   "10":  "https://serpapi.com/search.json?device=desktop\u0026engine=google\u0026gl=es\u0026google_domain=google.com\u0026hl=es\u0026location=Barcelona%2C+Catalonia%2C+Spain\u0026ludocid=5883393374671258138\u0026q=reparaci%C3%B3n+de+aire+acondicionado\u0026start=90"
+                                               }
+                           }
+}
