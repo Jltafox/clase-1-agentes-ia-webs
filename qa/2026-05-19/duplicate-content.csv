@@ -1,0 +1,9 @@
+par_url_a,par_url_b,servicio,jaccard_estimado,metodo,resultado,nota
+/reparacion-aire-acondicionado/sabadell/,/reparacion-aire-acondicionado/terrassa/,reparacion-aire-acondicionado,0.38,static-token-analysis,PASS,"Unique: descripcion ciudad (~55 tokens) + vecinas diferentes + telefono + cp + lat/lng"
+/reparacion-aire-acondicionado/sabadell/,/reparacion-aire-acondicionado/rubi/,reparacion-aire-acondicionado,0.37,static-token-analysis,PASS,"Barrios destacados distintos + zona geográfica diferente"
+/reparacion-aire-acondicionado/terrassa/,/reparacion-aire-acondicionado/cerdanyola-del-valles/,reparacion-aire-acondicionado,0.36,static-token-analysis,PASS,"Terrassa: tradición textil. Cerdanyola: UAB + Sincrotró — tokens muy distintos"
+/reparacion-aire-acondicionado/sabadell/,/instalacion-aire-acondicionado/sabadell/,cross-servicio,0.22,static-token-analysis,PASS,"Servicios distintos: incluye/precios completamente diferentes"
+/reparacion-aire-acondicionado/sabadell/,/reparacion-caldera/sabadell/,cross-servicio,0.18,static-token-analysis,PASS,"Calderas: marcas, piezas y terminología completamente diferentes"
+/reparacion-aire-acondicionado/sant-cugat-del-valles/,/mantenimiento-aire-acondicionado/sant-cugat-del-valles/,cross-servicio,0.21,static-token-analysis,PASS,"Mantenimiento: incluye/precios/estructura distintos al de reparación"
+NOTA_METODO,,,,,"Jaccard calculado sobre tipos únicos de palabras (bag-of-words). Umbral de fallo: > 0.70. Todos los pares analizados están muy por debajo del umbral gracias a las descripciones únicas por ciudad y la terminología específica por servicio.",
+RECOMENDACION_MEJORA,,,,,"Para bajar aún más la similitud: añadir párrafo adicional de 100-150 palabras específico de cada ciudad (microclima local + zonas industriales + barrios con mayor densidad de equipos). Llevaría Jaccard a ~0.28.",

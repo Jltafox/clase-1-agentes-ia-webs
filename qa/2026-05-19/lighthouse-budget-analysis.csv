@@ -1,0 +1,11 @@
+metrica,budget_max,budget_target,estimacion_estatica,resultado,razonamiento
+LCP_ms,2500,1800,~900-1200,PASS_ESTIMADO,"HTML puro SSG + sin imagen hero pesada (solo texto + gradiente CSS). Sin render-blocking tras fix de Google Fonts."
+CLS,0.10,0.05,~0.00-0.02,PASS_ESTIMADO,"Sin imágenes lazy-loaded sin dimensiones explícitas. Sin iframes. Sin anuncios. Layout estable."
+TBT_ms,200,100,~0,PASS_ESTIMADO,"Astro SSG genera 0 JS por defecto. No hay hydration. FAQ con <details> nativo (sin JS)."
+FCP_ms,1800,1200,~600-900,PASS_ESTIMADO,"Tras fix Google Fonts preload. HTML inline de Tailwind purgeado. Sin CSS externo bloqueante."
+INP_ms,200,100,~50,PASS_ESTIMADO,"Interacciones mínimas: <details> nativo, tel: links, form nativo. Sin React/Vue/Svelte."
+Performance,80,90,90-95,PASS_ESTIMADO,"Stack Astro SSG → equivalente a archivo HTML + CSS. Mejora típica de 20-30pts vs WordPress."
+SEO,95,100,98-100,PASS_ESTIMADO,"title + description + canonical + h1 + schema + hreflang + robots allow. Faltan og:image."
+Accessibility,90,95,88-92,WARN_ESTIMADO,"Falta aria-label en botones de teléfono. Falta lang en HTML (solo tiene lang=es). Íconos SVG sin aria-hidden en algunos casos."
+Best_Practices,90,95,90-95,PASS_ESTIMADO,"HTTPS assumed. Sin librerías con CVEs conocidas. Sin console.log en producción."
+NOTA_LIMITACION,,,,,,"Esta estimación es ESTÁTICA (sin servidor). Para Lighthouse real: cd web/climatech-valles && npm install && npm run build && npm run preview → lhci autorun. Requiere Node.js en PATH."

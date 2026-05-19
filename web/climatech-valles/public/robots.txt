@@ -1,9 +1,9 @@
 User-agent: *
 Allow: /
 
-# Bloquear páginas de utilidad sin valor SEO
+# Bloquear endpoints sin valor SEO
 Disallow: /api/
-Disallow: /_astro/
+# NOTA: /_astro/ contiene CSS/JS de Astro — NO bloquear, Googlebot los necesita
 
 # Sitemap
 Sitemap: https://climatechvalles.com/sitemap-index.xml
