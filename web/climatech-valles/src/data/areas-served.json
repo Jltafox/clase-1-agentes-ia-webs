@@ -1,0 +1,162 @@
+{
+  "negocio": {
+    "nombre": "ClimaTech Vallès",
+    "url": "https://climatechvalles.com",
+    "logo": "https://climatechvalles.com/logo.png",
+    "direccion": "Carrer de la Indústria, 42",
+    "ciudad_principal": "Sabadell",
+    "provincia": "Barcelona",
+    "telefono_general": "936 XX XX XX"
+  },
+  "servicios": [
+    {
+      "slug": "reparacion-aire-acondicionado",
+      "titulo": "Reparación de Aire Acondicionado",
+      "titulo_lower": "reparación de aire acondicionado",
+      "descripcion_corta": "Reparación profesional de aire acondicionado en el Vallès. Técnicos certificados, diagnóstico gratuito y garantía en todas las reparaciones.",
+      "incluye": [
+        "Diagnóstico gratuito (incluido en el precio de reparación)",
+        "Carga y recuperación de gas refrigerante (R32, R410A)",
+        "Reparación de placa electrónica (PCB)",
+        "Sustitución de sensor de temperatura y humedad",
+        "Reparación o sustitución de compresor",
+        "Limpieza en profundidad de unidad interior y exterior",
+        "Reparación de fugas de refrigerante",
+        "Revisión completa del sistema y puesta a punto"
+      ],
+      "marcas": ["Daikin", "Mitsubishi", "Samsung", "LG", "Fujitsu", "Panasonic", "Carrier", "Hitachi", "Toshiba", "Bosch"],
+      "precios": [
+        { "servicio": "Diagnóstico", "min": "Gratis", "max": "con reparación", "nota": "Sin reparación: 50 €" },
+        { "servicio": "Carga de gas", "min": "80 €", "max": "150 €", "nota": "Según cantidad" },
+        { "servicio": "Limpieza completa", "min": "60 €", "max": "100 €", "nota": "Split 1×1" },
+        { "servicio": "Sensor / PCB", "min": "70 €", "max": "200 €", "nota": "Según pieza" },
+        { "servicio": "Compresor", "min": "250 €", "max": "600 €", "nota": "Según modelo" }
+      ]
+    },
+    {
+      "slug": "instalacion-aire-acondicionado",
+      "titulo": "Instalación de Aire Acondicionado",
+      "titulo_lower": "instalación de aire acondicionado",
+      "descripcion_corta": "Instalación de aire acondicionado en el Vallès. Equipos de todas las marcas, instalación el mismo día y garantía de instalación incluida.",
+      "incluye": [
+        "Asesoramiento gratuito sobre el equipo más adecuado para tu espacio",
+        "Instalación de split 1×1, 1×2 y 1×3",
+        "Instalación de sistemas multi-split",
+        "Instalación de equipos de conductos",
+        "Canalización eléctrica y frigorífica",
+        "Carga inicial de gas refrigerante certificada",
+        "Puesta en marcha, pruebas y formación de uso",
+        "Gestión de ayudas y subvenciones disponibles"
+      ],
+      "marcas": ["Daikin", "Mitsubishi", "Samsung", "LG", "Fujitsu", "Panasonic", "Carrier", "Hitachi", "Toshiba", "Bosch"],
+      "precios": [
+        { "servicio": "Instalación split 1×1", "min": "150 €", "max": "300 €", "nota": "Sin equipo" },
+        { "servicio": "Instalación split 1×2", "min": "250 €", "max": "450 €", "nota": "Sin equipo" },
+        { "servicio": "Instalación multi-split", "min": "400 €", "max": "800 €", "nota": "Según unidades" },
+        { "servicio": "Equipo + instalación", "min": "600 €", "max": "1.800 €", "nota": "Según potencia" }
+      ]
+    },
+    {
+      "slug": "mantenimiento-aire-acondicionado",
+      "titulo": "Mantenimiento de Aire Acondicionado",
+      "titulo_lower": "mantenimiento de aire acondicionado",
+      "descripcion_corta": "Mantenimiento preventivo de aire acondicionado en el Vallès. Evita averías costosas y prolonga la vida útil de tu equipo con una revisión anual.",
+      "incluye": [
+        "Limpieza profunda de filtros y bandeja de condensados",
+        "Comprobación del nivel de gas refrigerante",
+        "Revisión del compresor y ventiladores",
+        "Limpieza de unidad exterior",
+        "Revisión de conexiones eléctricas y bornes",
+        "Comprobación de temperaturas y presiones de trabajo",
+        "Informe técnico detallado del estado del equipo",
+        "Recomendaciones de uso y consejos de ahorro energético"
+      ],
+      "marcas": ["Daikin", "Mitsubishi", "Samsung", "LG", "Fujitsu", "Panasonic", "Carrier", "Hitachi", "Toshiba", "Bosch"],
+      "precios": [
+        { "servicio": "Mantenimiento anual split", "min": "60 €", "max": "90 €", "nota": "Por unidad" },
+        { "servicio": "Mantenimiento multi-split", "min": "90 €", "max": "180 €", "nota": "2-3 unidades" },
+        { "servicio": "Contrato anual (2 revisiones)", "min": "100 €", "max": "160 €", "nota": "Split 1×1" }
+      ]
+    },
+    {
+      "slug": "reparacion-caldera",
+      "titulo": "Reparación de Calderas",
+      "titulo_lower": "reparación de calderas",
+      "descripcion_corta": "Reparación de calderas de gas en el Vallès. Técnicos certificados para todas las marcas. Urgencias atendidas el mismo día.",
+      "incluye": [
+        "Diagnóstico de averías de caldera (gratuito con reparación)",
+        "Reparación de quemador y cámara de combustión",
+        "Sustitución de sonda NTC y termostato",
+        "Reparación de bomba de circulación",
+        "Reparación de válvula de 3 vías y desviadora",
+        "Reparación de placa electrónica de control",
+        "Revisión de seguridad y purgado del circuito",
+        "Reparación de calderas de condensación"
+      ],
+      "marcas": ["Junkers", "Baxi", "Vaillant", "Ferroli", "Roca", "Ariston", "Saunier Duval", "Beretta", "Viessmann", "Buderus"],
+      "precios": [
+        { "servicio": "Diagnóstico", "min": "Gratis", "max": "con reparación", "nota": "Sin reparación: 50 €" },
+        { "servicio": "Reparación básica", "min": "80 €", "max": "200 €", "nota": "Sensor, purgado" },
+        { "servicio": "Reparación media", "min": "150 €", "max": "350 €", "nota": "Bomba, válvula" },
+        { "servicio": "Reparación compleja", "min": "300 €", "max": "600 €", "nota": "Placa, quemador" }
+      ]
+    }
+  ],
+  "ciudades": [
+    {
+      "slug": "sabadell",
+      "nombre": "Sabadell",
+      "telefono": "936 XX XX 01",
+      "cp": "08200",
+      "lat": 41.5432,
+      "lng": 2.1093,
+      "descripcion": "Sabadell, capital del Vallès Occidental, es la segunda ciudad más grande de la provincia de Barcelona con más de 210.000 habitantes. Es el núcleo industrial y comercial de la comarca. Nuestros técnicos conocen bien todos sus barrios: Can Rull, Gràcia, Centre, Nova Creu Alta, Les Termes, Eixample, Can Roqueta y Can Puiggener.",
+      "vecinas": ["terrassa", "rubi", "cerdanyola-del-valles", "sant-cugat-del-valles"],
+      "barrios_destacados": ["Can Rull", "Gràcia", "Centre", "Nova Creu Alta", "Les Termes"]
+    },
+    {
+      "slug": "terrassa",
+      "nombre": "Terrassa",
+      "telefono": "936 XX XX 02",
+      "cp": "08221",
+      "lat": 41.5635,
+      "lng": 2.0089,
+      "descripcion": "Terrassa es la tercera ciudad más poblada de Cataluña con más de 220.000 habitantes y una gran tradición industrial textil. Nuestros técnicos cubren todos sus barrios: Can Boada, Ègara, Sant Llorenç, Montserrat, Les Fonts, Vallparadís, Ca n'Anglada y el Districte 6.",
+      "vecinas": ["sabadell", "rubi", "sant-cugat-del-valles", "cerdanyola-del-valles"],
+      "barrios_destacados": ["Can Boada", "Ègara", "Sant Llorenç", "Montserrat", "Les Fonts"]
+    },
+    {
+      "slug": "rubi",
+      "nombre": "Rubí",
+      "telefono": "936 XX XX 03",
+      "cp": "08191",
+      "lat": 41.4933,
+      "lng": 2.0337,
+      "descripcion": "Rubí, al sur del Vallès Occidental, es un municipio de unos 75.000 habitantes con una destacada actividad industrial y logística. Nuestros técnicos cubren todo el término municipal: Centre, Can Oriol, Can Fatjó, El Pla, Castellnou, Can Jardí y Can Alzamora.",
+      "vecinas": ["sabadell", "terrassa", "sant-cugat-del-valles", "cerdanyola-del-valles"],
+      "barrios_destacados": ["Centre", "Can Oriol", "Can Fatjó", "El Pla", "Castellnou"]
+    },
+    {
+      "slug": "cerdanyola-del-valles",
+      "nombre": "Cerdanyola del Vallès",
+      "telefono": "936 XX XX 04",
+      "cp": "08290",
+      "lat": 41.4912,
+      "lng": 2.1406,
+      "descripcion": "Cerdanyola del Vallès, con más de 58.000 habitantes, es conocida por albergar la Universitat Autònoma de Barcelona y el Sincrotró ALBA. Un municipio residencial con un importante tejido universitario e industrial. Cubrimos todos sus barrios: Cordelles, Montflorit, La Serra, Can Coll y el campus de la UAB.",
+      "vecinas": ["sabadell", "sant-cugat-del-valles", "rubi", "terrassa"],
+      "barrios_destacados": ["Cordelles", "Montflorit", "La Serra", "Can Coll", "UAB"]
+    },
+    {
+      "slug": "sant-cugat-del-valles",
+      "nombre": "Sant Cugat del Vallès",
+      "telefono": "936 XX XX 05",
+      "cp": "08172",
+      "lat": 41.4728,
+      "lng": 2.0845,
+      "descripcion": "Sant Cugat del Vallès es una de las ciudades con mayor renta per cápita de Cataluña, con más de 95.000 habitantes. Conocida por su monasterio benedictino y sus zonas residenciales de alta calidad. Cubrimos toda su extensión: Centre Històric, Mira-sol, Les Planes, Valldoreix, La Floresta, Can Barata y Volpelleres.",
+      "vecinas": ["cerdanyola-del-valles", "rubi", "sabadell", "terrassa"],
+      "barrios_destacados": ["Centre Històric", "Mira-sol", "Les Planes", "Valldoreix", "La Floresta"]
+    }
+  ]
+}

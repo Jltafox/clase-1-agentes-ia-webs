@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Bloquear páginas de utilidad sin valor SEO
+Disallow: /api/
+Disallow: /_astro/
+
+# Sitemap
+Sitemap: https://climatechvalles.com/sitemap-index.xml

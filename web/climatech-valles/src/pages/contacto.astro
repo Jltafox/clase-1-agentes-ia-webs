@@ -1,0 +1,117 @@
+---
+import Layout from '../layouts/Layout.astro';
+import data from '../data/areas-served.json';
+
+const { negocio, ciudades } = data;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'ContactPage',
+  name: 'Contacto · ClimaTech Vallès',
+  url: 'https://climatechvalles.com/contacto/',
+  mainEntity: {
+    '@type': 'HVACBusiness',
+    '@id': 'https://climatechvalles.com/#negocio',
+    name: negocio.nombre,
+    telephone: negocio.telefono_general,
+    url: negocio.url,
+  },
+};
+---
+
+<Layout
+  title="Contacto | ClimaTech Vallès"
+  description="Contacta con ClimaTech Vallès. Presupuesto de reparación de aire acondicionado sin compromiso. Teléfono, formulario y ciudades cubiertas."
+  canonical="https://climatechvalles.com/contacto/"
+  schema={schema}
+  telefono={negocio.telefono_general}
+>
+  <section style="background: linear-gradient(135deg, #0066CC 0%, #004A99 100%); color:white;" class="py-14">
+    <div class="max-w-4xl mx-auto px-4">
+      <h1 class="text-3xl md:text-4xl font-bold mb-3">Contacto</h1>
+      <p class="text-lg" style="color:#BFDBFE;">Pide presupuesto o llama directamente al número de tu ciudad</p>
+    </div>
+  </section>
+
+  <section class="py-14 bg-white">
+    <div class="max-w-4xl mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-12">
+
+      <!-- Formulario -->
+      <div>
+        <h2 class="text-xl font-bold mb-6">Formulario de contacto</h2>
+        <form class="space-y-4" method="POST" action="/api/contacto">
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-1" for="nombre">Nombre</label>
+            <input
+              type="text" id="nombre" name="nombre" required
+              class="w-full border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:border-blue-500"
+              placeholder="Tu nombre"
+            />
+          </div>
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-1" for="telefono">Teléfono</label>
+            <input
+              type="tel" id="telefono" name="telefono" required
+              class="w-full border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:border-blue-500"
+              placeholder="6XX XXX XXX"
+            />
+          </div>
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-1" for="ciudad">Ciudad</label>
+            <select id="ciudad" name="ciudad" class="w-full border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:border-blue-500">
+              {ciudades.map((c) => <option value={c.slug}>{c.nombre}</option>)}
+            </select>
+          </div>
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-1" for="mensaje">Descripción de la avería</label>
+            <textarea
+              id="mensaje" name="mensaje" rows={4}
+              class="w-full border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:border-blue-500"
+              placeholder="Describe el problema de tu equipo..."
+            ></textarea>
+          </div>
+          <button
+            type="submit"
+            class="w-full text-white font-bold py-3 rounded-xl transition-colors"
+            style="background-color:#0066CC;"
+          >
+            Solicitar presupuesto
+          </button>
+          <p class="text-xs text-gray-400 text-center">
+            Te contactamos en menos de 1 hora en horario de servicio.
+          </p>
+        </form>
+      </div>
+
+      <!-- Datos de contacto por ciudad -->
+      <div>
+        <h2 class="text-xl font-bold mb-6">Teléfonos por ciudad</h2>
+        <div class="space-y-4">
+          {ciudades.map((c) => (
+            <div class="flex items-center justify-between p-4 rounded-xl border border-gray-100 bg-gray-50">
+              <div>
+                <p class="font-semibold text-sm">{c.nombre}</p>
+                <p class="text-xs text-gray-500">{c.cp}</p>
+              </div>
+              <a
+                href={`tel:${c.telefono.replace(/\s/g, '')}`}
+                class="font-bold text-sm"
+                style="color:#0066CC;"
+              >
+                {c.telefono}
+              </a>
+            </div>
+          ))}
+        </div>
+
+        <div class="mt-8 p-5 rounded-xl" style="background-color:#E8F2FF;">
+          <h3 class="font-bold mb-2">Horario de atención</h3>
+          <p class="text-sm text-gray-600">Lunes – Viernes: 8:00 – 20:00</p>
+          <p class="text-sm text-gray-600">Sábados: 9:00 – 17:00</p>
+          <p class="text-sm text-gray-600 mt-2">Domingos y festivos: cerrado</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</Layout>

@@ -1,0 +1,209 @@
+---
+import Layout from '../layouts/Layout.astro';
+import data from '../data/areas-served.json';
+
+const { negocio, servicios, ciudades } = data;
+const telefono = negocio.telefono_general;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'HVACBusiness',
+  '@id': 'https://climatechvalles.com/#negocio',
+  name: negocio.nombre,
+  url: negocio.url,
+  logo: negocio.logo,
+  telephone: telefono,
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: negocio.direccion,
+    addressLocality: negocio.ciudad_principal,
+    addressRegion: 'Cataluña',
+    postalCode: '08200',
+    addressCountry: 'ES',
+  },
+  areaServed: ciudades.map((c) => ({ '@type': 'City', name: c.nombre })),
+  openingHoursSpecification: [
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+      opens: '08:00',
+      closes: '20:00',
+    },
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Saturday'],
+      opens: '09:00',
+      closes: '17:00',
+    },
+  ],
+  priceRange: '€€',
+  currenciesAccepted: 'EUR',
+};
+
+const faq = [
+  {
+    q: '¿En qué ciudades del Vallès trabajáis?',
+    a: 'Cubrimos Sabadell, Terrassa, Rubí, Cerdanyola del Vallès y Sant Cugat del Vallès. Cada ciudad tiene su propio número de contacto y técnicos asignados para llegar más rápido.',
+  },
+  {
+    q: '¿Hacéis presupuesto sin compromiso?',
+    a: 'Sí. El diagnóstico es gratuito si finalmente realizamos la reparación. Si decides no repararla, cobramos únicamente 50 € de visita. Nunca sorpresas.',
+  },
+  {
+    q: '¿Cuánto tarda en llegar el técnico?',
+    a: 'Normalmente menos de 2 horas desde que llamas. En temporada alta puede ser hasta 4 horas, pero siempre confirmamos la hora estimada antes de la visita.',
+  },
+  {
+    q: '¿Qué marcas reparáis?',
+    a: 'Todas las marcas del mercado: Daikin, Mitsubishi, Samsung, LG, Fujitsu, Panasonic, Carrier, Hitachi, Toshiba y muchas más. Si tiene placa electrónica, la reparamos.',
+  },
+  {
+    q: '¿Trabajáis en fines de semana?',
+    a: 'Sí, de lunes a sábado. Los sábados de 9:00 a 17:00. Llama al número local de tu ciudad para gestionar la visita con el equipo de zona.',
+  },
+];
+
+const serviceIcons: Record<string, string> = {
+  'reparacion-aire-acondicionado': '🔧',
+  'instalacion-aire-acondicionado': '❄️',
+  'mantenimiento-aire-acondicionado': '🛠️',
+  'reparacion-caldera': '🔥',
+};
+---
+
+<Layout
+  title="Reparación e Instalación de Aire Acondicionado en el Vallès | ClimaTech"
+  description="Servicio técnico de aire acondicionado y calderas en Sabadell, Terrassa, Rubí y alrededores. Técnico disponible hoy. Diagnóstico gratuito. Llama ahora."
+  canonical="https://climatechvalles.com/"
+  schema={schema}
+  telefono={telefono}
+>
+
+  <!-- ═══ HERO ═══ -->
+  <section style="background: linear-gradient(135deg, #0066CC 0%, #004A99 100%); color: white;" class="py-16 md:py-24">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+      <h1 class="text-3xl md:text-5xl font-bold leading-tight mb-4">
+        Técnico de Aire Acondicionado en el Vallès
+      </h1>
+      <p class="text-xl md:text-2xl mb-8" style="color: #BFDBFE;">
+        Reparación, instalación y mantenimiento en Sabadell, Terrassa, Rubí y más
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a
+          href={`tel:${telefono.replace(/\s/g, '')}`}
+          class="font-bold px-8 py-4 rounded-xl text-lg transition-colors inline-flex items-center justify-center gap-2 text-white"
+          style="background-color:#FF6B00"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 7V5z" />
+          </svg>
+          Llamar ahora · {telefono}
+        </a>
+        <a href="/contacto/" class="font-semibold px-8 py-4 rounded-xl text-lg transition-colors text-white text-center border"
+           style="background-color: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.3);">
+          Pedir presupuesto
+        </a>
+      </div>
+      <p class="mt-5 text-sm" style="color:#93C5FD;">
+        Diagnóstico gratuito · Garantía en todas las reparaciones · Lun–Sáb
+      </p>
+    </div>
+  </section>
+
+  <!-- ═══ SERVICIOS ═══ -->
+  <section class="py-16" style="background-color:#F9FAFB;">
+    <div class="max-w-6xl mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-bold text-center mb-12">Nuestros servicios</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        {servicios.map((s) => (
+          <a
+            href={`/${s.slug}/`}
+            class="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow border border-gray-100"
+          >
+            <div class="text-4xl mb-4">{serviceIcons[s.slug] ?? '⚙️'}</div>
+            <h3 class="font-bold text-lg mb-2" style="color:#111827;">{s.titulo}</h3>
+            <p class="text-gray-500 text-sm leading-relaxed">{s.descripcion_corta}</p>
+            <span class="mt-4 inline-block font-semibold text-sm" style="color:#0066CC;">Ver más →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ CIUDADES ═══ -->
+  <section class="py-16 bg-white">
+    <div class="max-w-6xl mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-bold text-center mb-3">Ciudades que cubrimos</h2>
+      <p class="text-gray-500 text-center mb-10">Técnicos disponibles en todo el Vallès Occidental · Número local por ciudad</p>
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
+        {ciudades.map((c) => (
+          <a
+            href={`/reparacion-aire-acondicionado/${c.slug}/`}
+            class="rounded-xl p-4 text-center transition-colors"
+            style="background-color:#E8F2FF;"
+          >
+            <div class="text-3xl mb-2">📍</div>
+            <p class="font-semibold text-sm" style="color:#0066CC;">{c.nombre}</p>
+            <p class="text-xs text-gray-500 mt-1">{c.telefono}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ TRUST SIGNALS ═══ -->
+  <section class="py-12" style="background-color:#0066CC; color:white;">
+    <div class="max-w-5xl mx-auto px-4">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+        <div>
+          <p class="text-4xl font-bold">+15</p>
+          <p class="mt-1 text-sm" style="color:#BFDBFE;">Años de experiencia</p>
+        </div>
+        <div>
+          <p class="text-4xl font-bold">+2.800</p>
+          <p class="mt-1 text-sm" style="color:#BFDBFE;">Reparaciones realizadas</p>
+        </div>
+        <div>
+          <p class="text-4xl font-bold">3 meses</p>
+          <p class="mt-1 text-sm" style="color:#BFDBFE;">Garantía mano de obra</p>
+        </div>
+        <div>
+          <p class="text-4xl font-bold">5</p>
+          <p class="mt-1 text-sm" style="color:#BFDBFE;">Ciudades cubiertas</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ FAQ ═══ -->
+  <section class="py-16" style="background-color:#F9FAFB;">
+    <div class="max-w-3xl mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-bold text-center mb-10">Preguntas frecuentes</h2>
+      <div class="space-y-3">
+        {faq.map((item) => (
+          <details class="bg-white rounded-xl shadow-sm border border-gray-100">
+            <summary class="p-5 font-semibold cursor-pointer flex items-center justify-between"
+                     style="list-style:none; -webkit-appearance:none;">
+              <span>{item.q}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400 flex-shrink-0 ml-2" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+              </svg>
+            </summary>
+            <p class="px-5 pb-5 text-gray-600 leading-relaxed">{item.a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ NAP ═══ -->
+  <section class="py-8 bg-white border-t border-gray-200">
+    <div class="max-w-md mx-auto px-4 text-center text-sm text-gray-500">
+      <p class="font-semibold text-gray-800 text-base">ClimaTech Vallès</p>
+      <p>{negocio.direccion} · {negocio.ciudad_principal}, Barcelona</p>
+      <p>Teléfono: <a href={`tel:${telefono.replace(/\s/g, '')}`} class="font-medium" style="color:#0066CC;">{telefono}</a></p>
+      <p>Horario: Lun–Vie 8:00–20:00 · Sáb 9:00–17:00</p>
+    </div>
+  </section>
+
+</Layout>

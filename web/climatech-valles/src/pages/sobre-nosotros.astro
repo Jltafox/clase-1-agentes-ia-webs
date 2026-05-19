@@ -1,0 +1,45 @@
+---
+import Layout from '../layouts/Layout.astro';
+import data from '../data/areas-served.json';
+
+const { negocio } = data;
+---
+
+<Layout
+  title="Quiénes somos | ClimaTech Vallès"
+  description="ClimaTech Vallès: más de 15 años de experiencia en reparación e instalación de aire acondicionado y calderas en el Vallès Occidental."
+  canonical="https://climatechvalles.com/sobre-nosotros/"
+  telefono={negocio.telefono_general}
+>
+  <section style="background: linear-gradient(135deg, #0066CC 0%, #004A99 100%); color:white;" class="py-14">
+    <div class="max-w-4xl mx-auto px-4">
+      <h1 class="text-3xl md:text-4xl font-bold mb-3">Quiénes somos</h1>
+      <p class="text-lg" style="color:#BFDBFE;">Tu empresa de confianza para el clima en el Vallès Occidental</p>
+    </div>
+  </section>
+
+  <section class="py-14 bg-white">
+    <div class="max-w-4xl mx-auto px-4 prose prose-gray max-w-none">
+      <h2>ClimaTech Vallès — Más de 15 años a tu servicio</h2>
+      <p>
+        ClimaTech Vallès nació en Sabadell con un objetivo claro: ofrecer un servicio técnico de aire
+        acondicionado y calderas que realmente cumpla lo que promete. Sin letra pequeña, sin sorpresas
+        en la factura, con técnicos que conocen su oficio y que tratan el equipo del cliente como si
+        fuera el suyo propio.
+      </p>
+      <p>
+        A lo largo de más de 15 años hemos realizado más de 2.800 reparaciones en Sabadell, Terrassa,
+        Rubí, Cerdanyola del Vallès y Sant Cugat del Vallès. Somos técnicos certificados F-Gas,
+        trabajamos con todas las marcas del mercado y garantizamos la mano de obra durante 3 meses.
+      </p>
+      <h2>Por qué elegir ClimaTech Vallès</h2>
+      <ul>
+        <li><strong>Técnicos locales:</strong> No somos una franquicia. Somos un equipo de la comarca que conoce bien cada ciudad.</li>
+        <li><strong>Teléfono local por ciudad:</strong> Cada ciudad tiene su número de contacto directo, sin centralitas.</li>
+        <li><strong>Diagnóstico gratuito:</strong> No cobramos por diagnosticar si finalmente realizamos la reparación.</li>
+        <li><strong>Garantía incluida:</strong> 3 meses de garantía en mano de obra en todas las reparaciones.</li>
+        <li><strong>Sin sorpresas:</strong> Siempre presentamos el presupuesto antes de empezar.</li>
+      </ul>
+    </div>
+  </section>
+</Layout>

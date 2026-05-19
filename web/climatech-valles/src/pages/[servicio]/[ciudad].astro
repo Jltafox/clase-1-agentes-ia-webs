@@ -1,0 +1,459 @@
+---
+/**
+ * ★ PÁGINA SERVICIO × CIUDAD — la más importante del sitio
+ *
+ * getStaticPaths → genera 20 páginas (4 servicios × 5 ciudades)
+ * Cada página tiene:
+ *   - Schema HVACBusiness + Service + BreadcrumbList + FAQPage (H2)
+ *   - Teléfono local por ciudad en hero y NAP footer (H7)
+ *   - Contenido único por ciudad (descripción + FAQ variables) (H8)
+ *   - Internal linking: 4 ciudades vecinas + servicios relacionados + pillar (H8)
+ *   - FAQ 6 preguntas (doble función: UX + FAQPage schema) (H5)
+ *
+ * Blueprint: blueprint/climatech-valles/
+ * Skill: landing-generator-servicio-barrio
+ */
+import Layout from '../../layouts/Layout.astro';
+import data from '../../data/areas-served.json';
+
+export function getStaticPaths() {
+  const paths = [];
+  for (const servicio of data.servicios) {
+    for (const ciudad of data.ciudades) {
+      paths.push({
+        params: { servicio: servicio.slug, ciudad: ciudad.slug },
+        props: { servicio, ciudad },
+      });
+    }
+  }
+  return paths;
+}
+
+const { servicio, ciudad } = Astro.props;
+const { negocio, ciudades, servicios } = data;
+
+// Internal linking: ciudades vecinas (≤4)
+const vecinasCiudades = ciudad.vecinas
+  .map((s: string) => ciudades.find((c) => c.slug === s))
+  .filter(Boolean);
+
+// Servicios relacionados en la misma ciudad
+const serviciosRelacionados = servicios.filter((s) => s.slug !== servicio.slug);
+
+const canonical = `https://climatechvalles.com/${servicio.slug}/${ciudad.slug}/`;
+
+// ─── Schema JSON-LD completo (H2, H5, H7) ─────────────────────────────────
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'HVACBusiness',
+      '@id': 'https://climatechvalles.com/#negocio',
+      name: negocio.nombre,
+      telephone: ciudad.telefono,
+      url: negocio.url,
+      logo: negocio.logo,
+      image: `https://climatechvalles.com/images/${ciudad.slug}-taller.jpg`,
+      description: `Servicio técnico de ${servicio.titulo_lower} en ${ciudad.nombre} y alrededores.`,
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: negocio.direccion,
+        addressLocality: ciudad.nombre,
+        postalCode: ciudad.cp,
+        addressCountry: 'ES',
+      },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: ciudad.lat.toString(),
+        longitude: ciudad.lng.toString(),
+      },
+      areaServed: { '@type': 'City', name: ciudad.nombre },
+      openingHoursSpecification: [
+        {
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+          opens: '08:00',
+          closes: '20:00',
+        },
+        {
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: ['Saturday'],
+          opens: '09:00',
+          closes: '17:00',
+        },
+      ],
+      priceRange: '€€',
+      currenciesAccepted: 'EUR',
+      paymentAccepted: 'Cash, Credit Card',
+    },
+    {
+      '@type': 'Service',
+      name: `${servicio.titulo} en ${ciudad.nombre}`,
+      provider: { '@id': 'https://climatechvalles.com/#negocio' },
+      areaServed: {
+        '@type': 'PostalAddress',
+        addressLocality: ciudad.nombre,
+        postalCode: ciudad.cp,
+        addressCountry: 'ES',
+      },
+      serviceType: servicio.titulo,
+      description: `${servicio.titulo} profesional en ${ciudad.nombre}. Diagnóstico gratuito, presupuesto sin compromiso y garantía en cada reparación.`,
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Inicio', item: 'https://climatechvalles.com/' },
+        { '@type': 'ListItem', position: 2, name: servicio.titulo, item: `https://climatechvalles.com/${servicio.slug}/` },
+        { '@type': 'ListItem', position: 3, name: ciudad.nombre, item: canonical },
+      ],
+    },
+    {
+      '@type': 'FAQPage',
+      mainEntity: [
+        {
+          '@type': 'Question',
+          name: `¿En cuánto tiempo llega el técnico a ${ciudad.nombre}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Nuestros técnicos en ${ciudad.nombre} suelen llegar en menos de 2 horas. Llamando al ${ciudad.telefono} gestionamos la visita para el mismo día.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: `¿Cuánto cuesta ${servicio.titulo_lower} en ${ciudad.nombre}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `El diagnóstico en ${ciudad.nombre} es gratuito con reparación. El precio depende de la avería; las reparaciones más comunes oscilan entre 60 y 200 €. Siempre presupuesto previo.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: `¿Qué marcas reparáis en ${ciudad.nombre}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Reparamos todas las marcas en ${ciudad.nombre}: ${servicio.marcas.slice(0, 6).join(', ')} y muchas más. Sin excepción.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: `¿Ofrecéis garantía en las reparaciones en ${ciudad.nombre}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Sí, todas las reparaciones realizadas en ${ciudad.nombre} incluyen garantía. Las piezas tienen garantía de fábrica y la mano de obra está garantizada 3 meses.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: `¿Trabajáis en fines de semana en ${ciudad.nombre}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Sí, atendemos en ${ciudad.nombre} de lunes a sábado. Sábados de 9:00 a 17:00. Llama al ${ciudad.telefono} para urgencias.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: `¿Hacéis presupuesto sin compromiso en ${ciudad.nombre}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Absolutamente. En ${ciudad.nombre} el diagnóstico es gratuito con reparación y el presupuesto previo no tiene ningún coste ni compromiso.`,
+          },
+        },
+      ],
+    },
+  ],
+};
+
+// FAQ para el HTML (misma info que el schema)
+const faqItems = [
+  {
+    q: `¿En cuánto tiempo llega el técnico a ${ciudad.nombre}?`,
+    a: `Nuestros técnicos en ${ciudad.nombre} suelen llegar en menos de 2 horas. Llamando al ${ciudad.telefono} gestionamos la visita para el mismo día.`,
+  },
+  {
+    q: `¿Cuánto cuesta ${servicio.titulo_lower} en ${ciudad.nombre}?`,
+    a: `El diagnóstico en ${ciudad.nombre} es gratuito con reparación. El precio depende de la avería; las reparaciones más comunes oscilan entre 60 y 200 €. Siempre presupuesto previo sin sorpresas.`,
+  },
+  {
+    q: `¿Qué marcas reparáis en ${ciudad.nombre}?`,
+    a: `Reparamos todas las marcas en ${ciudad.nombre}: ${servicio.marcas.slice(0, 6).join(', ')} y muchas más.`,
+  },
+  {
+    q: `¿Ofrecéis garantía en las reparaciones en ${ciudad.nombre}?`,
+    a: `Sí. Todas las reparaciones en ${ciudad.nombre} incluyen garantía: las piezas tienen garantía de fábrica y la mano de obra está garantizada 3 meses.`,
+  },
+  {
+    q: `¿Trabajáis en fines de semana en ${ciudad.nombre}?`,
+    a: `Sí, atendemos en ${ciudad.nombre} de lunes a sábado. Sábados de 9:00 a 17:00. Llama al ${ciudad.telefono} para urgencias.`,
+  },
+  {
+    q: `¿Hacéis presupuesto sin compromiso en ${ciudad.nombre}?`,
+    a: `En ${ciudad.nombre} el diagnóstico es gratuito con reparación y el presupuesto previo no tiene coste ni compromiso.`,
+  },
+];
+---
+
+<Layout
+  title={`${servicio.titulo} en ${ciudad.nombre} | ClimaTech Vallès`}
+  description={`Técnico de ${servicio.titulo_lower} en ${ciudad.nombre} · Disponible hoy · Diagnóstico gratuito · Garantía 3 meses · Llama al ${ciudad.telefono}`}
+  canonical={canonical}
+  schema={schema}
+  telefono={ciudad.telefono}
+  ciudad={ciudad.nombre}
+>
+
+  <!-- ═══ HERO (primera pantalla, mobile-first) ═══ -->
+  <section style="background: linear-gradient(135deg, #0066CC 0%, #004A99 100%); color:white;" class="py-14 md:py-20">
+    <div class="max-w-4xl mx-auto px-4">
+
+      <!-- Breadcrumb -->
+      <nav class="text-sm mb-5" style="color:#93C5FD;" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-white">Inicio</a>
+        <span class="mx-2">›</span>
+        <a href={`/${servicio.slug}/`} class="hover:text-white">{servicio.titulo}</a>
+        <span class="mx-2">›</span>
+        <span style="color:white;">{ciudad.nombre}</span>
+      </nav>
+
+      <h1 class="text-3xl md:text-4xl font-bold leading-tight mb-3">
+        {servicio.titulo} en {ciudad.nombre}
+      </h1>
+      <p class="text-lg md:text-xl mb-2" style="color:#BFDBFE;">
+        Técnico disponible hoy en {ciudad.nombre}
+      </p>
+      <p class="text-sm mb-7" style="color:#93C5FD;">
+        {ciudad.descripcion.slice(0, 130)}…
+      </p>
+
+      <div class="flex flex-col sm:flex-row gap-3">
+        <a
+          href={`tel:${ciudad.telefono.replace(/\s/g, '')}`}
+          class="inline-flex items-center justify-center gap-2 font-bold px-7 py-4 rounded-xl text-lg text-white transition-colors"
+          style="background-color:#FF6B00;"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 7V5z" />
+          </svg>
+          Llamar: {ciudad.telefono}
+        </a>
+        <a href="/contacto/"
+           class="inline-flex items-center justify-center font-semibold px-7 py-4 rounded-xl text-lg text-white border transition-colors"
+           style="background-color:rgba(255,255,255,0.1); border-color:rgba(255,255,255,0.3);">
+          Pedir presupuesto
+        </a>
+      </div>
+
+      <div class="mt-5 flex flex-wrap gap-2">
+        <span class="text-xs px-3 py-1 rounded-full" style="background-color:rgba(255,255,255,0.15); color:#E0F2FE;">✓ Diagnóstico gratuito</span>
+        <span class="text-xs px-3 py-1 rounded-full" style="background-color:rgba(255,255,255,0.15); color:#E0F2FE;">✓ Garantía 3 meses</span>
+        <span class="text-xs px-3 py-1 rounded-full" style="background-color:rgba(255,255,255,0.15); color:#E0F2FE;">✓ Lun–Sáb</span>
+        <span class="text-xs px-3 py-1 rounded-full" style="background-color:rgba(255,255,255,0.15); color:#E0F2FE;">✓ Todas las marcas</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ QUÉ INCLUYE + DESCRIPCIÓN CIUDAD ═══ -->
+  <section class="py-14 bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+      <h2 class="text-2xl font-bold mb-4">
+        ¿Qué incluye nuestro servicio de {servicio.titulo_lower} en {ciudad.nombre}?
+      </h2>
+      <p class="text-gray-600 leading-relaxed mb-7">{ciudad.descripcion}</p>
+
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-7">
+        {servicio.incluye.map((item: string) => (
+          <li class="flex items-start gap-3">
+            <span class="font-bold flex-shrink-0 mt-0.5" style="color:#16A34A;">✓</span>
+            <span class="text-gray-700 text-sm">{item}</span>
+          </li>
+        ))}
+      </ul>
+
+      <p class="text-gray-600 text-sm leading-relaxed">
+        En {ciudad.nombre} trabajamos con todas las marcas del mercado: {servicio.marcas.join(', ')}.
+        Nuestros técnicos llevan las piezas más comunes para resolver la avería en una sola visita y minimizar las molestias.
+      </p>
+    </div>
+  </section>
+
+  <!-- ═══ PRECIO / PRESUPUESTO ═══ -->
+  <section class="py-14" style="background-color:#F9FAFB;">
+    <div class="max-w-4xl mx-auto px-4">
+      <h2 class="text-2xl font-bold mb-2">
+        ¿Cuánto cuesta {servicio.titulo_lower} en {ciudad.nombre}?
+      </h2>
+      <p class="text-gray-500 text-sm mb-6">
+        Precios orientativos para {ciudad.nombre}. El precio final siempre se confirma tras el diagnóstico gratuito.
+      </p>
+      <div class="bg-white rounded-2xl shadow-sm overflow-hidden border border-gray-100">
+        <table class="w-full text-sm">
+          <thead style="background-color:#0066CC; color:white;">
+            <tr>
+              <th class="text-left px-5 py-3 font-semibold">Tipo de trabajo</th>
+              <th class="text-left px-5 py-3 font-semibold">Desde</th>
+              <th class="text-left px-5 py-3 font-semibold">Hasta</th>
+              <th class="text-left px-5 py-3 font-semibold hidden sm:table-cell">Nota</th>
+            </tr>
+          </thead>
+          <tbody>
+            {servicio.precios.map((precio: {servicio: string; min: string; max: string; nota: string}, i: number) => (
+              <tr style={i % 2 === 0 ? 'background-color:white;' : 'background-color:#F9FAFB;'}>
+                <td class="px-5 py-3 font-medium">{precio.servicio}</td>
+                <td class="px-5 py-3 font-semibold" style="color:#0066CC;">{precio.min}</td>
+                <td class="px-5 py-3">{precio.max}</td>
+                <td class="px-5 py-3 text-gray-400 hidden sm:table-cell">{precio.nota}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="text-xs text-gray-400 mt-2">
+        * Precios en {ciudad.nombre} (año 2026). IVA no incluido. Precio final siempre tras diagnóstico gratuito.
+      </p>
+      <div class="mt-5">
+        <a href="/contacto/"
+           class="inline-block text-white font-semibold px-6 py-3 rounded-xl text-sm transition-colors"
+           style="background-color:#0066CC;">
+          Pide presupuesto sin compromiso en {ciudad.nombre}
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ POR QUÉ ELEGIRNOS ═══ -->
+  <section class="py-14 bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+      <h2 class="text-2xl font-bold mb-8">¿Por qué elegirnos en {ciudad.nombre}?</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {[
+          {
+            icon: '⚡',
+            title: 'Respuesta en 2 horas',
+            desc: `Técnico en ${ciudad.nombre} en menos de 2 horas en urgencias. Siempre confirmamos la hora antes de la visita.`,
+          },
+          {
+            icon: '🔍',
+            title: 'Diagnóstico gratuito',
+            desc: `El diagnóstico en ${ciudad.nombre} no tiene coste si realizamos la reparación. Sin sorpresas ni letra pequeña.`,
+          },
+          {
+            icon: '🛡️',
+            title: 'Garantía 3 meses',
+            desc: 'Garantía de mano de obra 3 meses y garantía de fábrica en todas las piezas sustituidas.',
+          },
+          {
+            icon: '📋',
+            title: 'Técnicos certificados',
+            desc: 'Certificación F-Gas y formación continua en todas las marcas del mercado.',
+          },
+          {
+            icon: '📞',
+            title: `Número local ${ciudad.nombre}`,
+            desc: `Teléfono directo en ${ciudad.nombre}: ${ciudad.telefono}. Hablas con el técnico de zona, no con una centralita.`,
+          },
+          {
+            icon: '⭐',
+            title: '+15 años de experiencia',
+            desc: 'Más de 2.800 reparaciones realizadas en el Vallès Occidental. Conocemos todos los modelos.',
+          },
+        ].map((item) => (
+          <div class="flex items-start gap-4 p-4 rounded-xl border border-gray-100">
+            <span class="text-3xl flex-shrink-0">{item.icon}</span>
+            <div>
+              <h3 class="font-bold text-gray-900 mb-1 text-sm">{item.title}</h3>
+              <p class="text-gray-500 text-xs leading-relaxed">{item.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ FAQ (obligatoria — H5) ═══ -->
+  <section class="py-14" style="background-color:#F9FAFB;">
+    <div class="max-w-3xl mx-auto px-4">
+      <h2 class="text-2xl font-bold mb-8">
+        Preguntas frecuentes sobre {servicio.titulo_lower} en {ciudad.nombre}
+      </h2>
+      <div class="space-y-3">
+        {faqItems.map((item) => (
+          <details class="bg-white rounded-xl shadow-sm border border-gray-100">
+            <summary class="p-5 font-semibold cursor-pointer flex items-center justify-between"
+                     style="list-style:none; -webkit-appearance:none;">
+              <span class="text-sm md:text-base">{item.q}</span>
+              <svg xmlns="http://www.w3.org/2000/svg"
+                   class="h-5 w-5 flex-shrink-0 ml-2" style="color:#9CA3AF;"
+                   viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+              </svg>
+            </summary>
+            <p class="px-5 pb-5 text-gray-600 text-sm leading-relaxed">{item.a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ ZONAS PRÓXIMAS (internal linking H8) ═══ -->
+  <section class="py-14 bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+      <h2 class="text-2xl font-bold mb-3">Zonas próximas que también cubrimos</h2>
+      <p class="text-gray-500 mb-6 text-sm">
+        Además de {ciudad.nombre}, ofrecemos {servicio.titulo_lower} en las localidades vecinas del Vallès:
+      </p>
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-10">
+        {vecinasCiudades.map((vecina: typeof ciudad) => (
+          <a
+            href={`/${servicio.slug}/${vecina.slug}/`}
+            class="rounded-xl p-4 text-center transition-colors"
+            style="background-color:#E8F2FF;"
+          >
+            <p class="font-semibold text-sm" style="color:#0066CC;">{vecina.nombre}</p>
+            <p class="text-xs text-gray-400 mt-1">{servicio.titulo}</p>
+          </a>
+        ))}
+      </div>
+
+      <!-- Servicios relacionados en la misma ciudad (cross-linking) -->
+      <div class="border-t border-gray-100 pt-8">
+        <h3 class="text-lg font-bold mb-4">Otros servicios en {ciudad.nombre}</h3>
+        <div class="flex flex-wrap gap-3">
+          {serviciosRelacionados.map((s) => (
+            <a
+              href={`/${s.slug}/${ciudad.slug}/`}
+              class="bg-gray-100 text-gray-700 font-medium px-4 py-2 rounded-full text-sm transition-colors hover:bg-gray-200"
+            >
+              {s.titulo} en {ciudad.nombre}
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- Enlace al pillar -->
+      <div class="mt-6">
+        <a href={`/${servicio.slug}/`} class="text-sm font-medium underline" style="color:#0066CC;">
+          ← Ver todos los municipios donde hacemos {servicio.titulo_lower}
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ NAP FOOTER (obligatorio en páginas locales — H7) ═══ -->
+  <section class="py-8" style="background-color:#111827; color:#D1D5DB;">
+    <div class="max-w-sm mx-auto px-4 text-center text-sm">
+      <p class="font-bold text-white text-base mb-2">ClimaTech Vallès — {ciudad.nombre}</p>
+      <p>
+        Teléfono local:{' '}
+        <a
+          href={`tel:${ciudad.telefono.replace(/\s/g, '')}`}
+          class="font-semibold"
+          style="color:#60A5FA;"
+        >
+          {ciudad.telefono}
+        </a>
+      </p>
+      <p class="mt-1">Código postal: {ciudad.cp}</p>
+      <p class="mt-1">Horario: Lun–Vie 8:00–20:00 · Sáb 9:00–17:00</p>
+    </div>
+  </section>
+
+</Layout>
