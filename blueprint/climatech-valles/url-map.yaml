@@ -85,12 +85,26 @@ ciudades:
     lat: 41.4728
     lng: 2.0845
 
+  - slug: poblenou-barcelona
+    nombre: Poblenou (Barcelona)
+    telefono: 936-XX-XX-06
+    cp: "08005"
+    lat: 41.4036
+    lng: 2.2007
+
+  - slug: badalona
+    nombre: Badalona
+    telefono: 936-XX-XX-07
+    cp: "08911"
+    lat: 41.4468
+    lng: 2.2470
+
 # URLs generadas automáticamente: /{servicio}/{ciudad}/
 # Ejemplo:
 #   /reparacion-aire-acondicionado/sabadell/
 #   /reparacion-aire-acondicionado/terrassa/
 #   /instalacion-aire-acondicionado/sabadell/
-#   ... (20 páginas total)
+#   ... (28 páginas total — 4 servicios × 7 ciudades)
 
 # ─────────────────────────────────────────────
 # NIVEL 3 · Blog (H3 — blog activo correlaciona con multi-ciudad)
@@ -109,6 +123,6 @@ blog_categorias:
 resumen:
   paginas_globales: 7
   servicios_pillar: 4
-  paginas_servicio_ciudad: 20
-  total_paginas_indexables: 31
+  paginas_servicio_ciudad: 28   # 4 servicios × 7 ciudades
+  total_paginas_indexables: 39
   blog: ilimitado (crecer orgánicamente)

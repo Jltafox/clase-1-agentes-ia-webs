@@ -144,7 +144,7 @@
       "lat": 41.4912,
       "lng": 2.1406,
       "descripcion": "Cerdanyola del Vallès, con más de 58.000 habitantes, es conocida por albergar la Universitat Autònoma de Barcelona y el Sincrotró ALBA. Un municipio residencial con un importante tejido universitario e industrial. Cubrimos todos sus barrios: Cordelles, Montflorit, La Serra, Can Coll y el campus de la UAB.",
-      "vecinas": ["sabadell", "sant-cugat-del-valles", "rubi", "terrassa"],
+      "vecinas": ["sabadell", "sant-cugat-del-valles", "badalona", "rubi"],
       "barrios_destacados": ["Cordelles", "Montflorit", "La Serra", "Can Coll", "UAB"]
     },
     {
@@ -155,8 +155,30 @@
       "lat": 41.4728,
       "lng": 2.0845,
       "descripcion": "Sant Cugat del Vallès es una de las ciudades con mayor renta per cápita de Cataluña, con más de 95.000 habitantes. Conocida por su monasterio benedictino y sus zonas residenciales de alta calidad. Cubrimos toda su extensión: Centre Històric, Mira-sol, Les Planes, Valldoreix, La Floresta, Can Barata y Volpelleres.",
-      "vecinas": ["cerdanyola-del-valles", "rubi", "sabadell", "terrassa"],
+      "vecinas": ["cerdanyola-del-valles", "rubi", "sabadell", "poblenou-barcelona"],
       "barrios_destacados": ["Centre Històric", "Mira-sol", "Les Planes", "Valldoreix", "La Floresta"]
+    },
+    {
+      "slug": "poblenou-barcelona",
+      "nombre": "Poblenou (Barcelona)",
+      "telefono": "936 XX XX 06",
+      "cp": "08005",
+      "lat": 41.4036,
+      "lng": 2.2007,
+      "descripcion": "El Poblenou, conocido como el '22@' de Barcelona, es uno de los barrios más dinámicos de la ciudad. Antiguo distrito industrial reconvertido en hub tecnológico y residencial, concentra miles de apartamentos modernos, oficinas y startups. Nuestros técnicos cubren toda la zona: Rambla del Poblenou, Llacuna, Diagonal Mar, Vila Olímpica, Parc de la Ciutadella y todo el districte de Sant Martí.",
+      "vecinas": ["badalona", "cerdanyola-del-valles", "sant-cugat-del-valles", "sabadell"],
+      "barrios_destacados": ["Rambla del Poblenou", "Llacuna", "Diagonal Mar", "Vila Olímpica", "22@"]
+    },
+    {
+      "slug": "badalona",
+      "nombre": "Badalona",
+      "telefono": "936 XX XX 07",
+      "cp": "08911",
+      "lat": 41.4468,
+      "lng": 2.2470,
+      "descripcion": "Badalona, con más de 215.000 habitantes, es la tercera ciudad más poblada de Cataluña. Situada junto al mar a pocos kilómetros de Barcelona, combina una larga tradición industrial con un litoral de 5 km de playas urbanas. Nuestros técnicos cubren todos sus barrios: Centre, Bufalà, Artigas, Llefià, Sant Roc, La Salut, Canyet y Montigalà.",
+      "vecinas": ["poblenou-barcelona", "cerdanyola-del-valles", "terrassa", "sabadell"],
+      "barrios_destacados": ["Centre", "Bufalà", "Artigas", "Llefià", "Sant Roc"]
     }
   ]
 }
