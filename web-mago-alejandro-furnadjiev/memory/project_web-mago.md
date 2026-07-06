@@ -21,6 +21,8 @@ Fuente única de verdad sobre decisiones y estado. Leer al iniciar cada sesión.
 - **2026-07-06** — Fotos/vídeos: los conseguirá el cliente más adelante; mientras tanto, placeholders según `DESIGN.md`.
 - **2026-07-06** — **Precios: SÍ se publicarán** en la web (decisión del usuario). Aún no existen las tarifas → página `/precios/` con estructura lista y valores `[PENDIENTE]`.
 - **2026-07-06** — **Bodas: SÍ entra** como servicio, con landing propia `/bodas/` (patrón de los comparables directos).
+- **2026-07-06** — **Formación presencial ENTRA** como servicio con landing `/formacion/` (clases y talleres de magia para adultos en Madrid). La escuela online Método Furni sigue **fuera**: no se vende ni enlaza, solo credencial en bio.
+- **2026-07-06** — Feedback de diseño del usuario: la v0 del sitio "huele a IA" y faltan fotos → rediseño editorial (ver `memory/feedback_diseno_2026-07-06.md`). Las fotos reales siguen siendo el mayor pendiente visual.
 - **2026-07-06** — Aforo: **flexible, depende de la sala y del tipo de magia** — la magia de cerca se adapta a grupos repartidos, el show de salón al aforo del espacio. Así se comunica en las FAQ; sin cifras cerradas.
 
 ## Estado por fases

@@ -15,7 +15,7 @@
 
 ### feedback
 
-- *(vacío — se creará `memory/feedback_*.md` cuando haya lecciones aprendidas)*
+- **`memory/feedback_diseno_2026-07-06.md`** — La v0 del sitio parecía "diseño IA": por qué y qué lenguaje editorial la sustituye. *Leer antes de tocar UI.*
 
 ### reference
 

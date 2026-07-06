@@ -1,7 +1,22 @@
 ---
 import Base from '../layouts/Base.astro';
 import PressBar from '../components/PressBar.astro';
+import Placeholder from '../components/Placeholder.astro';
 import CtaFinal from '../components/CtaFinal.astro';
+
+// Hitos verificados — memory/user_alejandro-furnadjiev.md
+const timeline = [
+  { when: '7 años', what: 'La magia lo atrapa.' },
+  { when: '8 años', what: 'Entra en la Escuela de Magia de Ana Tamariz.' },
+  { when: '9 años', what: 'Primera actuación.' },
+  { when: '11 años', what: 'Conoce a Arturo de Ascanio, que lo invita a las reuniones de su casa.' },
+  { when: '12 años', what: 'Ingresa en la Sociedad Española de Ilusionismo.' },
+  { when: '17 años', what: '2º premio de close-up en el festival de Valongo (Portugal).' },
+  { when: '1999', what: '1er premio de Cartomagia, Congreso Nacional de España (Almería).' },
+  { when: '2002', what: 'Profesor de la Gran Escuela de Magia Ana Tamariz — hasta hoy.' },
+  { when: '2004', what: 'Gran Premio de Cartomagia, FLASOMA (Buenos Aires).' },
+  { when: '2006', what: 'Memorial Ascanio: mejor mago del año.' },
+];
 ---
 
 <Base
@@ -10,41 +25,36 @@ import CtaFinal from '../components/CtaFinal.astro';
 >
   <section class="container intro">
     <div>
-      <h1>Alejandro Furnadjiev: una vida dedicada a la magia</h1>
-      <p class="muted" style="font-size: 1.25rem;">
+      <p class="eyebrow">Sobre Alejandro</p>
+      <h1>Una vida dedicada a la <em>magia</em></h1>
+      <p class="muted" style="font-size: 1.2rem; max-width: 44ch;">
         Hay magos que aprendieron trucos. Alejandro se formó con los maestros que definieron la magia
         española del siglo XX.
       </p>
     </div>
-    <div class="ph ph-4x5" role="img" aria-label="Retrato de Alejandro Furnadjiev pendiente">✦</div>
+    <Placeholder ratio="4x5" label="Retrato en preparación" tilt />
   </section>
 
   <PressBar />
 
   <section class="container">
-    <h2>De la escuela de Ana Tamariz a los reuniones de Ascanio</h2>
+    <p class="eyebrow">La historia</p>
+    <h2 style="margin-top: 0;">De la escuela de Ana Tamariz a las reuniones de <em>Ascanio</em></h2>
     <p>
-      La magia llegó a los 7 años. A los 8, Alejandro entraba en la Escuela de Magia de Ana Tamariz; a los
-      9 hacía su primera actuación. Con 11 años conoció a Arturo de Ascanio — el padre de la cartomagia
-      española — que lo invitó a las reuniones en su casa, y a los 12 ya formaba parte de la Sociedad
-      Española de Ilusionismo. Discípulo directo de Ascanio y de Juan Tamariz, creció dentro de la escuela
-      que hizo de Madrid una capital mundial de la magia de cerca.
+      Discípulo directo de Arturo de Ascanio — el padre de la cartomagia española — y de Juan Tamariz,
+      Alejandro creció dentro de la escuela que hizo de Madrid una capital mundial de la magia de cerca.
+      Desde 2002 la transmite como profesor de la Gran Escuela de Magia Ana Tamariz, y la pone en juego en
+      cada actuación: una magia pensada, ensayada y ejecutada con el oficio de toda una vida.
     </p>
 
-    <h2>Premiado donde más difícil es ganar</h2>
-    <p>
-      Con 17 años logró el segundo premio de close-up en el festival de Valongo (Portugal). En 1999 ganó el
-      primer premio de Cartomagia del Congreso Nacional de España en Almería. Tras cinco años de
-      preparación, viajó a Buenos Aires y conquistó el Gran Premio de Cartomagia de FLASOMA 2004. En 2006
-      recibió el Memorial Ascanio, que lo reconoció como mejor mago del año.
-    </p>
-
-    <h2>Más de veinte años haciendo — y enseñando — magia</h2>
-    <p>
-      Desde 2002 es profesor de la Gran Escuela de Magia Ana Tamariz, donde forma a las nuevas generaciones
-      de magos. Esa doble vida — actuar al máximo nivel y enseñar el porqué de cada efecto — es la que hoy
-      pone al servicio de tu evento: una magia pensada, ensayada y ejecutada con el oficio de toda una vida.
-    </p>
+    <ol class="timeline">
+      {timeline.map((t) => (
+        <li>
+          <span class="when">{t.when}</span>
+          <span class="what">{t.what}</span>
+        </li>
+      ))}
+    </ol>
   </section>
 
   <CtaFinal text="¿Quieres esta magia en tu evento?" />
@@ -53,12 +63,41 @@ import CtaFinal from '../components/CtaFinal.astro';
 <style>
   .intro {
     display: grid;
-    gap: var(--s-5);
+    gap: var(--s-6);
     align-items: center;
     grid-template-columns: 1fr;
-    padding-top: var(--s-7);
+    padding-top: var(--s-6);
   }
   @media (min-width: 721px) {
-    .intro { grid-template-columns: 3fr 2fr; }
+    .intro { grid-template-columns: 3fr 2fr; padding-top: var(--s-7); }
   }
+  .timeline {
+    list-style: none;
+    margin: var(--s-5) 0 0;
+    padding: 0;
+    border-left: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  }
+  .timeline li {
+    display: grid;
+    grid-template-columns: 84px 1fr;
+    gap: var(--s-3);
+    padding: var(--s-3) 0 var(--s-3) var(--s-4);
+    position: relative;
+  }
+  .timeline li::before {
+    content: '';
+    position: absolute;
+    left: -3.5px;
+    top: calc(var(--s-3) + 0.55em);
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+  .when {
+    font-family: var(--font-heading);
+    color: var(--accent);
+    white-space: nowrap;
+  }
+  .what { color: var(--text); }
 </style>

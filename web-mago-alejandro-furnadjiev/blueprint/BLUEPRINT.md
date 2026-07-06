@@ -19,6 +19,7 @@ Conseguir **solicitudes de presupuesto** para dos servicios en **Madrid**: actua
 | `/eventos-empresa/` | Landing servicio | "mago para eventos de empresa madrid", "magia para cenas de empresa", "mago team building madrid" |
 | `/eventos-privados/` | Landing servicio | "mago para fiestas privadas madrid", "mago para cumpleaños de adultos madrid", "magia de cerca para eventos" |
 | `/bodas/` | Landing servicio *(confirmado 2026-07-06)* | "mago para bodas madrid", "magia para bodas" |
+| `/formacion/` | Landing servicio *(confirmado 2026-07-06; sin escuela online)* | "clases de magia madrid", "curso de magia madrid", "clases particulares de magia" |
 | `/sobre-alejandro/` | Bio + credenciales | marca, confianza |
 | `/contacto/` | Formulario + WhatsApp | conversión |
 | `/precios/` *(confirmado 2026-07-06: se publican tarifas; importes `[PENDIENTE]`)* | Precios orientativos | "cuánto cuesta contratar un mago madrid", "precio mago madrid" |
@@ -49,6 +50,10 @@ Hero elegante · tipos de celebración (cumpleaños de adultos, aniversarios, fi
 
 Hero elegante · momentos donde encaja la magia (cóctel, entre platos, sobremesa) · magia de cerca entre invitados como recuerdo memorable · testimonios de novios `[PENDIENTE]` · FAQ (¿molesta al banquete?, duración, espacio) · CTA.
 
+### `/formacion/`
+
+Hero editorial · qué se aprende (cartomagia y magia de cerca, la especialidad premiada de Alejandro) · formatos: clases particulares, grupos reducidos y talleres `[PENDIENTE: confirmar formatos y lugar]` · la credencial docente (profesor de la Gran Escuela de Magia Ana Tamariz desde 2002) · FAQ (nivel previo, edad — solo adultos, materiales, dónde) · CTA. **Regla**: no se menciona ni enlaza la escuela online Método Furni.
+
 ### `/precios/`
 
 Tarifas orientativas por formato (magia de cerca / show de salón) y tipo de evento — importes `[PENDIENTE: tarifas del cliente]` · qué incluye cada formato · factores que afectan al precio (duración, desplazamiento, personalización) · CTA a presupuesto a medida.
@@ -61,6 +66,7 @@ Tarifas orientativas por formato (magia de cerca / show de salón) y tipo de eve
 | `/eventos-empresa/` | Mago para eventos de empresa en Madrid \| Furnadjiev | Mago para eventos de empresa en Madrid |
 | `/eventos-privados/` | Mago para fiestas privadas en Madrid \| Furnadjiev | Mago para fiestas privadas y cumpleaños de adultos en Madrid |
 | `/bodas/` | Mago para bodas en Madrid \| Alejandro Furnadjiev | Mago para bodas en Madrid |
+| `/formacion/` | Clases de magia en Madrid \| Alejandro Furnadjiev | Clases de magia en Madrid con un maestro de la escuela de Ascanio |
 | `/precios/` | Cuánto cuesta un mago en Madrid \| Precios y tarifas | Precios de un mago profesional en Madrid |
 | `/sobre-alejandro/` | Alejandro Furnadjiev, mago \| Discípulo de Ascanio | Alejandro Furnadjiev: una vida dedicada a la magia |
 | `/contacto/` | Contacto y presupuesto \| Alejandro Furnadjiev | Pide presupuesto sin compromiso |
