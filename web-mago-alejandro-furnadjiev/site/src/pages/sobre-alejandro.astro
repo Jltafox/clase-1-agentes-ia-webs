@@ -1,0 +1,64 @@
+---
+import Base from '../layouts/Base.astro';
+import PressBar from '../components/PressBar.astro';
+import CtaFinal from '../components/CtaFinal.astro';
+---
+
+<Base
+  title="Alejandro Furnadjiev, mago | Discípulo de Ascanio"
+  description="Alejandro Furnadjiev, mago profesional en Madrid: discípulo de Ascanio y Tamariz, Gran Premio de Cartomagia FLASOMA 2004 y Memorial Ascanio 2006."
+>
+  <section class="container intro">
+    <div>
+      <h1>Alejandro Furnadjiev: una vida dedicada a la magia</h1>
+      <p class="muted" style="font-size: 1.25rem;">
+        Hay magos que aprendieron trucos. Alejandro se formó con los maestros que definieron la magia
+        española del siglo XX.
+      </p>
+    </div>
+    <div class="ph ph-4x5" role="img" aria-label="Retrato de Alejandro Furnadjiev pendiente">✦</div>
+  </section>
+
+  <PressBar />
+
+  <section class="container">
+    <h2>De la escuela de Ana Tamariz a los reuniones de Ascanio</h2>
+    <p>
+      La magia llegó a los 7 años. A los 8, Alejandro entraba en la Escuela de Magia de Ana Tamariz; a los
+      9 hacía su primera actuación. Con 11 años conoció a Arturo de Ascanio — el padre de la cartomagia
+      española — que lo invitó a las reuniones en su casa, y a los 12 ya formaba parte de la Sociedad
+      Española de Ilusionismo. Discípulo directo de Ascanio y de Juan Tamariz, creció dentro de la escuela
+      que hizo de Madrid una capital mundial de la magia de cerca.
+    </p>
+
+    <h2>Premiado donde más difícil es ganar</h2>
+    <p>
+      Con 17 años logró el segundo premio de close-up en el festival de Valongo (Portugal). En 1999 ganó el
+      primer premio de Cartomagia del Congreso Nacional de España en Almería. Tras cinco años de
+      preparación, viajó a Buenos Aires y conquistó el Gran Premio de Cartomagia de FLASOMA 2004. En 2006
+      recibió el Memorial Ascanio, que lo reconoció como mejor mago del año.
+    </p>
+
+    <h2>Más de veinte años haciendo — y enseñando — magia</h2>
+    <p>
+      Desde 2002 es profesor de la Gran Escuela de Magia Ana Tamariz, donde forma a las nuevas generaciones
+      de magos. Esa doble vida — actuar al máximo nivel y enseñar el porqué de cada efecto — es la que hoy
+      pone al servicio de tu evento: una magia pensada, ensayada y ejecutada con el oficio de toda una vida.
+    </p>
+  </section>
+
+  <CtaFinal text="¿Quieres esta magia en tu evento?" />
+</Base>
+
+<style>
+  .intro {
+    display: grid;
+    gap: var(--s-5);
+    align-items: center;
+    grid-template-columns: 1fr;
+    padding-top: var(--s-7);
+  }
+  @media (min-width: 721px) {
+    .intro { grid-template-columns: 3fr 2fr; }
+  }
+</style>

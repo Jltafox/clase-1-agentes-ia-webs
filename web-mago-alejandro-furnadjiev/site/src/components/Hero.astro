@@ -1,0 +1,26 @@
+---
+interface Props {
+  h1: string;
+  subtitle: string;
+}
+const { h1, subtitle } = Astro.props;
+---
+
+<section class="hero">
+  <div class="container">
+    <h1>{h1}</h1>
+    <p class="subtitle">{subtitle}</p>
+    <div class="ctas">
+      <a class="btn btn-primary" href="/contacto/">Pide presupuesto</a>
+      <!-- [PENDIENTE: enlace wa.me cuando haya número de WhatsApp] -->
+      <a class="btn btn-secondary" href="/contacto/">WhatsApp</a>
+    </div>
+    <slot />
+  </div>
+</section>
+
+<style>
+  .hero { padding-top: var(--s-7); }
+  .subtitle { font-size: 1.25rem; color: var(--muted); max-width: 46ch; }
+  .ctas { display: flex; flex-wrap: wrap; gap: var(--s-3); margin-top: var(--s-4); }
+</style>

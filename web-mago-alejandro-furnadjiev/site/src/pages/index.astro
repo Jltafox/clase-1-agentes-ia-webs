@@ -1,0 +1,92 @@
+---
+import Base from '../layouts/Base.astro';
+import Hero from '../components/Hero.astro';
+import PressBar from '../components/PressBar.astro';
+import CtaFinal from '../components/CtaFinal.astro';
+
+const services = [
+  {
+    href: '/eventos-empresa/',
+    title: 'Eventos de empresa',
+    text: 'Magia de cerca y espectáculos que convierten una cena de empresa, un congreso o una presentación en algo de lo que se sigue hablando el lunes.',
+  },
+  {
+    href: '/bodas/',
+    title: 'Bodas',
+    text: 'Momentos de asombro entre invitados durante el cóctel o la sobremesa. Elegante, discreto y memorable.',
+  },
+  {
+    href: '/eventos-privados/',
+    title: 'Eventos privados',
+    text: 'Cumpleaños de adultos, aniversarios y fiestas privadas con la magia de un premio internacional en tu salón.',
+  },
+];
+---
+
+<Base
+  title="Mago para eventos en Madrid | Alejandro Furnadjiev"
+  description="Mago profesional para eventos en Madrid: empresas, bodas y celebraciones privadas. Magia de cerca de élite, discípulo de Ascanio y Tamariz. Pide presupuesto."
+>
+  <Hero
+    h1="Magia que convierte tu evento en algo irrepetible"
+    subtitle="Magia de cerca de élite para eventos de empresa, bodas y celebraciones privadas en Madrid."
+  >
+    <!-- [PENDIENTE: vídeo o foto de actuación en el hero] -->
+    <div class="ph ph-3x2" role="img" aria-label="Foto de actuación pendiente">✦</div>
+  </Hero>
+
+  <PressBar />
+
+  <section class="container">
+    <h2>¿Qué evento quieres hacer inolvidable?</h2>
+    <div class="grid">
+      {services.map((s) => (
+        <a class="card service" href={s.href}>
+          <h3>{s.title}</h3>
+          <p class="muted">{s.text}</p>
+          <span class="more">Ver más →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="container about-teaser">
+    <div>
+      <h2>Una vida entera dedicada a la magia</h2>
+      <p>
+        Alejandro Furnadjiev empezó en la magia a los 7 años y se formó junto a dos leyendas: Arturo de
+        Ascanio y Juan Tamariz. Gran Premio de Cartomagia en FLASOMA 2004 y Memorial Ascanio 2006 al mejor
+        mago del año, lleva más de veinte años haciendo magia — y enseñándola como profesor de la Gran
+        Escuela de Magia Ana Tamariz.
+      </p>
+      <a href="/sobre-alejandro/">Conoce a Alejandro →</a>
+    </div>
+    <div class="ph ph-4x5" role="img" aria-label="Retrato pendiente">✦</div>
+  </section>
+
+  <section class="container">
+    <h2>Lo que dicen quienes lo han vivido</h2>
+    <p class="pendiente">[PENDIENTE: testimonios reales de clientes — nunca inventar]</p>
+  </section>
+
+  <CtaFinal />
+</Base>
+
+<style>
+  .grid {
+    display: grid;
+    gap: var(--s-3);
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  }
+  .service { text-decoration: none; color: var(--text); display: block; }
+  .service .more { color: var(--accent); font-weight: 600; }
+  .about-teaser {
+    display: grid;
+    gap: var(--s-5);
+    align-items: center;
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 721px) {
+    .about-teaser { grid-template-columns: 3fr 2fr; }
+  }
+</style>

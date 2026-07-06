@@ -14,8 +14,9 @@
 | Incluido | Excluido |
 |----------|----------|
 | Eventos de empresa (cenas, team building, congresos) | **Magia infantil** (descartado por completo) |
-| Eventos privados de adultos (cumpleaños de adultos, fiestas, bodas — por confirmar formatos) | Comuniones y cumpleaños infantiles (descartado) |
-| Página "Sobre Alejandro" + contacto | Escuela online Método Furni · venta de productos |
+| Bodas (landing propia) | Comuniones y cumpleaños infantiles (descartado) |
+| Eventos privados de adultos (cumpleaños de adultos, fiestas) | Escuela online Método Furni · venta de productos |
+| Precios publicados (tarifas pendientes del cliente) + "Sobre Alejandro" + contacto | |
 
 **Zona de actuación: Madrid.**
 

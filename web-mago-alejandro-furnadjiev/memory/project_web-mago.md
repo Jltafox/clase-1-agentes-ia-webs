@@ -19,6 +19,9 @@ Fuente única de verdad sobre decisiones y estado. Leer al iniciar cada sesión.
 - **2026-07-06** — Flujo de trabajo: el de la Clase 1 de YinyangSEO (investigación → blueprint → generación → QA/deploy).
 - **2026-07-06** — Stack: Astro; deploy Vercel/Netlify (proveedor por decidir).
 - **2026-07-06** — Fotos/vídeos: los conseguirá el cliente más adelante; mientras tanto, placeholders según `DESIGN.md`.
+- **2026-07-06** — **Precios: SÍ se publicarán** en la web (decisión del usuario). Aún no existen las tarifas → página `/precios/` con estructura lista y valores `[PENDIENTE]`.
+- **2026-07-06** — **Bodas: SÍ entra** como servicio, con landing propia `/bodas/` (patrón de los comparables directos).
+- **2026-07-06** — Aforo: **flexible, depende de la sala y del tipo de magia** — la magia de cerca se adapta a grupos repartidos, el show de salón al aforo del espacio. Así se comunica en las FAQ; sin cifras cerradas.
 
 ## Estado por fases
 
@@ -34,7 +37,8 @@ Fuente única de verdad sobre decisiones y estado. Leer al iniciar cada sesión.
 
 - Datos del cliente por confirmar (ver checklist en `user_alejandro-furnadjiev.md`).
 - Repositorio propio en GitHub pendiente de crear por el usuario (el token del agente no tiene permisos de creación).
-- Decisiones del cliente tras la investigación: ¿publicar precios orientativos (H4)? ¿incluir bodas en eventos privados? ¿qué formatos reales de actuación?
+- Tarifas concretas para `/precios/` (el usuario confirmó que se publicarán, aún no existen).
+- Duración exacta de cada formato de actuación (el aforo ya está resuelto: flexible según sala y tipo de magia).
 - La red del entorno actual bloquea el acceso directo a webs de competidores (proxy 403) → la auditoría técnica (Lighthouse, schema, GBP) queda para un entorno con red abierta o con SerpAPI/Places API.
 
 ## Hallazgo clave (2026-07-06)

@@ -32,9 +32,10 @@ Todo el contenido de la web sale de aquí. Si un dato no está en este archivo o
 ## Pendiente de confirmar con el cliente
 
 - [ ] Teléfono / WhatsApp / email para la web
-- [ ] Precios orientativos o política ("presupuesto a medida")
-- [ ] Formatos reales de sus actuaciones para empresas y eventos privados de adultos (duración, aforo, magia de cerca vs escenario)
-- [ ] Qué tipos de evento privado ofrecer exactamente (cumpleaños de adultos, bodas, fiestas privadas…)
+- [ ] Tarifas concretas para `/precios/` (decidido: se publican; pendiente el importe)
+- [ ] Duración de cada formato (aforo resuelto: flexible según sala y tipo de magia)
+
+Resuelto 2026-07-06: servicios = eventos de empresa + **bodas** + eventos privados de adultos (cumpleaños de adultos, fiestas).
 - [ ] Testimonios reales de clientes
 - [ ] Fotos y vídeos (el cliente los conseguirá más adelante)
 - [ ] Dominio para esta web
