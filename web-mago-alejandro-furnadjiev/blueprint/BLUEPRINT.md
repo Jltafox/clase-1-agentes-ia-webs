@@ -1,7 +1,11 @@
 # BLUEPRINT — Arquitectura de la web
 
-> **Estado: BORRADOR v0.** Se cerrará tras la fase de investigación de competidores y la confirmación de la zona de actuación.
+> **Estado: BORRADOR v0.1** — actualizado con la investigación de competidores del 2026-07-06 (ver `data/investigacion/2026-07-06/`). Pendiente para v1: validación técnica de SERP con geo real y decisiones del cliente.
 > Regla: ninguna página se genera sin tener aquí su title, meta description, H1 y schema.
+
+## Posicionamiento (derivado de la investigación)
+
+Cada competidor top tiene un ángulo propio (tecnología, humor, elegancia). El de Alejandro, que nadie en la SERP puede replicar: **discípulo directo de Arturo de Ascanio y Juan Tamariz, con Gran Premio internacional de cartomagia (FLASOMA 2004) y Memorial Ascanio 2006** → "magia de cerca de élite, heredera de la gran escuela madrileña". Titles sin símbolos ni emojis (patrón de agencia, no de mago premium).
 
 ## Objetivo de negocio
 
@@ -16,7 +20,8 @@ Conseguir **solicitudes de presupuesto** para dos servicios en **Madrid**: actua
 | `/eventos-privados/` | Landing servicio | "mago para fiestas privadas madrid", "mago para cumpleaños de adultos madrid", "magia de cerca para eventos" |
 | `/sobre-alejandro/` | Bio + credenciales | marca, confianza |
 | `/contacto/` | Formulario + WhatsApp | conversión |
-| `/[servicio]/[zona]/` | *(futuro)* landings locales | patrón servicio × zona/municipio del área de Madrid, tras la investigación |
+| `/precios/` *(propuesta, hipótesis H4)* | Precios orientativos o guía "cuánto cuesta" | "cuánto cuesta contratar un mago madrid", "precio mago madrid" |
+| `/[servicio]/[zona]/` | *(futuro, hipótesis H7)* landings por municipio (Alcobendas, Pozuelo, Las Rozas…) | post-lanzamiento, si hay tracción |
 
 **Descartado de todo el análisis** (decisión 2026-07-06): magia infantil, cumpleaños infantiles y comuniones — no se crean URLs ni contenido. Fuera de alcance: todo lo relativo a la escuela online.
 
@@ -52,7 +57,11 @@ Bio narrativa desde `memory/user_alejandro-furnadjiev.md`: Ascanio, Tamariz, pre
 
 ## Pendiente para v1 (cerrar blueprint)
 
-- [ ] Investigación de competidores en Madrid (skills `serp-pattern-detector` + `competitor-local-seo-audit` del repo de la clase) → patrones de las webs de magos que ya posicionan para "mago eventos empresa madrid" y afines.
-- [ ] Decidir si hacen falta landings por zona/municipio del área de Madrid o basta con Madrid ciudad.
-- [ ] Redactar titles/descriptions/H1 por página.
+- [x] Investigación de competidores en Madrid → **hecha 2026-07-06** (con limitaciones de red documentadas). Resultados en `data/investigacion/2026-07-06/`.
+- [ ] Validación técnica pendiente: SERP con geo Madrid + móvil, Lighthouse y schema de los 6 competidores individuales, datos GBP (bloqueado por la red del entorno actual).
+- [ ] Decisión del cliente: ¿publicar precios orientativos? (hipótesis H4 — los que lo hacen ganan la SERP de precio).
+- [ ] Decisión del cliente: ¿incluir bodas dentro de eventos privados? (todos los comparables las trabajan).
+- [ ] Formatos reales de actuación (duración, aforo) para las landings — hipótesis H3.
+- [ ] Landings por municipio: pospuesto a post-lanzamiento (hipótesis H7).
+- [ ] Redactar titles/descriptions/H1 por página (patrón: `[Servicio] en Madrid | Alejandro Furnadjiev`, sin símbolos).
 - [ ] Plantillas JSON-LD (`LocalBusiness` con `areaServed: Madrid`).
