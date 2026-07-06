@@ -18,8 +18,8 @@
 
 ## Marca y tono
 
-- Alejandro Furnadjiev es un mago de **prestigio real** (premios nacionales e internacionales, profesor en la escuela de Ana Tamariz): el tono es **profesional, cercano y con un punto de asombro**. Nunca infantiloide ni de "animador de fiestas" genérico.
-- La página de magia infantil puede ser más cálida y luminosa, pero sin payasos ni clichés de globos.
+- Alejandro Furnadjiev es un mago de **prestigio real** (premios nacionales e internacionales, profesor en la escuela de Ana Tamariz): el tono es **profesional, elegante y con un punto de asombro**. Público objetivo adulto: empresas y celebraciones privadas.
+- **Nada infantil** en tono, imaginería ni contenido: el posicionamiento es magia de cerca premium para adultos.
 - No exagerar ni inventar: los premios y credenciales reales ya son suficientemente potentes.
 
 ## Seguridad

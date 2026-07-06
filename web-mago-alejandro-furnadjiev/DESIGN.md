@@ -6,7 +6,7 @@
 
 ## Dirección visual
 
-Elegancia de teatro clásico con un giro contemporáneo: **oscuro, dorado, mucho aire**. La web debe transmitir "mago premiado de verdad", no "animación de cumpleaños". La sección infantil hereda la misma elegancia pero sube luminosidad y calidez — nunca payasos, globos ni tipografías de fiesta.
+Elegancia de teatro clásico con un giro contemporáneo: **oscuro, dorado, mucho aire**. La web debe transmitir "mago premiado de verdad" — magia de cerca premium para público adulto (empresas y celebraciones privadas). Nada de imaginería infantil ni de "animación de fiestas".
 
 ## Tokens base
 
@@ -23,8 +23,6 @@ Elegancia de teatro clásico con un giro contemporáneo: **oscuro, dorado, mucho
 | `--accent` | `#c9a227` | Dorado — CTAs, detalles, separadores |
 | `--accent-hover` | `#e0b93e` | Hover del acento |
 | `--border` | `#2c2c35` | Bordes sutiles |
-| `--infantil-bg` | `#f7f3ec` | Variante clara para la landing infantil |
-| `--infantil-accent` | `#8a5cd6` | Morado mágico para la landing infantil |
 
 ### Tipografía
 
@@ -63,6 +61,7 @@ Elegancia de teatro clásico con un giro contemporáneo: **oscuro, dorado, mucho
 *(Se irá llenando con decisiones validadas como fallidas.)*
 
 - Clichés de mago genérico: chisteras con conejos, varitas con estrellas, cortinas rojas de clipart.
+- **2026-07-06** — Variante clara "infantil" eliminada del sistema: la magia infantil queda fuera del alcance del proyecto. Un solo tema visual (oscuro elegante) para toda la web.
 
 ## Cuándo este archivo miente
 

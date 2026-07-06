@@ -25,12 +25,16 @@ Todo el contenido de la web sale de aquí. Si un dato no está en este archivo o
 - Creador del **Método Furni** (escuela online de magia, magiametodofurni.com) — *fuera del alcance de esta web; se usa solo como credencial en la bio*.
 - Ha actuado en espacios institucionales (p. ej. Museo del Grabado, Marbella).
 
+## Datos de negocio
+
+- **Zona de actuación: Madrid** (confirmado 2026-07-06). Desplazamientos fuera de Madrid: por confirmar.
+
 ## Pendiente de confirmar con el cliente
 
-- [ ] Ciudad base y zona de actuación (¿Madrid? ¿desplazamientos?)
 - [ ] Teléfono / WhatsApp / email para la web
 - [ ] Precios orientativos o política ("presupuesto a medida")
-- [ ] Descripción real de sus espectáculos infantil y de empresa (duración, formato, aforo)
+- [ ] Formatos reales de sus actuaciones para empresas y eventos privados de adultos (duración, aforo, magia de cerca vs escenario)
+- [ ] Qué tipos de evento privado ofrecer exactamente (cumpleaños de adultos, bodas, fiestas privadas…)
 - [ ] Testimonios reales de clientes
 - [ ] Fotos y vídeos (el cliente los conseguirá más adelante)
 - [ ] Dominio para esta web

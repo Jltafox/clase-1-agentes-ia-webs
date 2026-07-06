@@ -1,6 +1,6 @@
 # Web · Mago Alejandro Furnadjiev
 
-> Web de servicios de mago para eventos: **magia infantil (cumpleaños)** y **eventos de empresa**.
+> Web de servicios de mago para eventos en **Madrid**: **eventos de empresa** y **eventos privados de adultos**.
 > Proyecto estructurado con el arnés de agentes de [arnes-agentes/global](https://github.com/genteinvencible/arnes-agentes/tree/main/global) y el flujo de trabajo de la Clase 1 de YinyangSEO.
 
 ---
@@ -11,11 +11,13 @@
 
 ## Alcance
 
-| Incluido | Excluido (por ahora) |
-|----------|----------------------|
-| Magia infantil / cumpleaños | Comuniones (descartado) |
-| Eventos de empresa (cenas, team building, congresos) | Escuela online Método Furni |
-| Página "Sobre Alejandro" + contacto | Venta de productos / suscripciones |
+| Incluido | Excluido |
+|----------|----------|
+| Eventos de empresa (cenas, team building, congresos) | **Magia infantil** (descartado por completo) |
+| Eventos privados de adultos (cumpleaños de adultos, fiestas, bodas — por confirmar formatos) | Comuniones y cumpleaños infantiles (descartado) |
+| Página "Sobre Alejandro" + contacto | Escuela online Método Furni · venta de productos |
+
+**Zona de actuación: Madrid.**
 
 ## Mapa del repositorio
 
@@ -30,7 +32,7 @@
 
 ## Flujo de trabajo previsto
 
-1. **Investigación** — competidores locales (magos infantiles / de empresa) con las skills del curso (`serp-pattern-detector`, `competitor-local-seo-audit`).
+1. **Investigación** — magos de eventos de empresa y eventos privados que posicionan en Madrid, con las skills del curso (`serp-pattern-detector`, `competitor-local-seo-audit`).
 2. **Blueprint** — cerrar arquitectura, keywords y schema en `blueprint/BLUEPRINT.md`.
 3. **Generación** — scaffolding Astro + landings por servicio.
 4. **QA + Deploy** — Lighthouse, schema válido, deploy en Vercel/Netlify.
