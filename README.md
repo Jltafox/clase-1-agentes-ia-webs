@@ -53,6 +53,7 @@
 | 8 | [`web-blueprint-generator`](03-skills/web-blueprint-generator/SKILL.md) | 🟡 STUB | Blueprint |
 | 9 | [`landing-generator-servicio-barrio`](03-skills/landing-generator-servicio-barrio/SKILL.md) | 🟡 STUB | Generación |
 | 10 | [`landing-qa-runner`](03-skills/landing-qa-runner/SKILL.md) | 🟡 STUB | QA + Deploy |
+| 11 | [`seo-competitive-benchmark`](03-skills/seo-competitive-benchmark/SKILL.md) | ✅ MADURA | Investigación + Análisis + Estrategia |
 
 > ✅ **MADURA** · lista para usar con un caso real.
 > 🟡 **STUB** · estructura completa (objetivo, inputs, proceso, output, QA) para que tu agente la implemente. Iremos puliéndolas en clases siguientes.
